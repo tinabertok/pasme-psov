@@ -1,2 +1,2 @@
 # pasme-psov
-Analiza različnih pasem psov
+Analizirala bom različne pasme psov, glede na njihovo velikost, značaj, življensko dobo, priljubljenost, potrebo po aktivnosti...
