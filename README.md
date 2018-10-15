@@ -20,4 +20,4 @@ Delovne hipoteze:
 * Katere države imajo največ pasem?
 
 
-Še link do spletne strani, s katere bom pridobivala podatke : http://www.dogbreedslist.info/ .
+Še link do spletne strani, s katere bom pridobivala podatke o 369 pasmah psov : http://www.dogbreedslist.info/ .
