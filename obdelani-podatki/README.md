@@ -1,4 +1,4 @@
-#Obdelava podatkov
+# Obdelava podatkov
 
 
 S spletne strani sem najprej uvozila podatke o vseh pasmah psov(19 strani). Nato sem ugotovila, da moram, če hočem pridobiti vse podatke o določeni pasmi, klikniti na link, zato sem uvozila še vse linke pasem, in jih shranila v datoteko **vsi_psi**.
