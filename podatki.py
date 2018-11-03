@@ -228,6 +228,4 @@ zapisi_csv(znacaji, ['ime', 'znacaj'], 'obdelani-podatki/znacaji_psov.csv')
 
 
 
-print(len(seznam_slovarjev))
-
 
