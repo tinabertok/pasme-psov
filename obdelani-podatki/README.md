@@ -6,19 +6,19 @@ Nato sem se lotila zajema podatkov, v katerem sem ustvarila dodatno datoteko **v
 Za kasnejšo analizo pa bo potrebno imeti podatke v pravi obliki, zato sem ustvarila še eno datoteko **znacaji**, v kateri so zajeti vsi značaji pasem. 
 
 Datoteka **vse_pasme** vsebuje:
-• ime pasme
-• državo porekla: od kod pasma izvira
-• življensko dobo: kakšna je povprečna življenska doba te pasme
-• višino: višina v centimetrih in inčih
-• velikost: velikost pasme (Small, Medium, Large, Giant)
-• popularnost: na katerem mestu po priljubljenosti je bila pasma v letu 2017
-• ceno: kakšna je povprečna cena mladička
-• značaj: glavne značajske lastnosti pasme
+* ime pasme
+* državo porekla: od kod pasma izvira
+* življensko dobo: kakšna je povprečna življenska doba te pasme
+* višino: višina v centimetrih in inčih
+* velikost: velikost pasme (Small, Medium, Large, Giant)
+* popularnost: na katerem mestu po priljubljenosti je bila pasma v letu 2017
+* ceno: kakšna je povprečna cena mladička
+* značaj: glavne značajske lastnosti pasme
 
 Datoteka **vsi_psi** vsebuje le linke do posamezne pasme psa.
 
 Datoteka **znacaji** pa vsebuje:
-• ime pasme
-• značaj pasme
+* ime pasme
+* značaj pasme
 Ker je značajskih lastnosti za eno pasmo več, se ime pasme v stolpcu ponovi večkrat. 
 Prav tako ima več psov isto značajsko lastnost, zato se te ponavljajo v drugem stolpcu. 
