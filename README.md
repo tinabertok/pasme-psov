@@ -14,7 +14,7 @@ Za vsako pasmo bom predstavila:
 
 
 Delovne hipoteze:
-* Ali sta značaj in popularnost povezani?
+* Ali sta značaj in popularnost povezana?
 * Ali lahko iz popularnosti sklepamo o ceni mladičkov?
 * Ali obstaja povezava med velikostjo in življensko dobo psa?
 * Katere države imajo največ pasem?
