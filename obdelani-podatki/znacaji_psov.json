@@ -1,0 +1,8130 @@
+[
+    {
+        "ime": "Deutsche Bracke",
+        "znacaj": "A light"
+    },
+    {
+        "ime": "Poodle (Standard)",
+        "znacaj": "Active"
+    },
+    {
+        "ime": "Australian Shepherd",
+        "znacaj": "Active"
+    },
+    {
+        "ime": "Shih Tzu",
+        "znacaj": "Active"
+    },
+    {
+        "ime": "Pomeranian",
+        "znacaj": "Active"
+    },
+    {
+        "ime": "Maltese",
+        "znacaj": "Active"
+    },
+    {
+        "ime": "Belgian Malinois",
+        "znacaj": "Active"
+    },
+    {
+        "ime": "Bull Terrier",
+        "znacaj": "Active"
+    },
+    {
+        "ime": "German Wirehaired Pointer",
+        "znacaj": "Active"
+    },
+    {
+        "ime": "Dalmatian",
+        "znacaj": "Active"
+    },
+    {
+        "ime": "Cardigan Welsh Corgi",
+        "znacaj": "Active"
+    },
+    {
+        "ime": "Cairn Terrier",
+        "znacaj": "Active"
+    },
+    {
+        "ime": "Pointer",
+        "znacaj": "Active"
+    },
+    {
+        "ime": "Belgian Sheepdog",
+        "znacaj": "Active"
+    },
+    {
+        "ime": "Smooth Fox Terrier",
+        "znacaj": "Active"
+    },
+    {
+        "ime": "Bearded Collie",
+        "znacaj": "Active"
+    },
+    {
+        "ime": "Bluetick Coonhound",
+        "znacaj": "Active"
+    },
+    {
+        "ime": "Welsh Springer Spaniel",
+        "znacaj": "Active"
+    },
+    {
+        "ime": "Manchester Terrier (Toy, Standard)",
+        "znacaj": "Active"
+    },
+    {
+        "ime": "Affenpinscher",
+        "znacaj": "Active"
+    },
+    {
+        "ime": "Glen of Imaal Terrier",
+        "znacaj": "Active"
+    },
+    {
+        "ime": "Portuguese Podengo Pequeno",
+        "znacaj": "Active"
+    },
+    {
+        "ime": "Petit Basset Griffon Vendeen",
+        "znacaj": "Active"
+    },
+    {
+        "ime": "Pumi",
+        "znacaj": "Active"
+    },
+    {
+        "ime": "Irish Water Spaniel",
+        "znacaj": "Active"
+    },
+    {
+        "ime": "Ibizan Hound",
+        "znacaj": "Active"
+    },
+    {
+        "ime": "Lowchen",
+        "znacaj": "Active"
+    },
+    {
+        "ime": "Pharaoh Hound",
+        "znacaj": "Active"
+    },
+    {
+        "ime": "American English Coonhound",
+        "znacaj": "Active"
+    },
+    {
+        "ime": "Harrier",
+        "znacaj": "Active"
+    },
+    {
+        "ime": "English Foxhound",
+        "znacaj": "Active"
+    },
+    {
+        "ime": "Miniature Poodle",
+        "znacaj": "Active"
+    },
+    {
+        "ime": "Toy Poodle",
+        "znacaj": "Active"
+    },
+    {
+        "ime": "Grand Bleu de Gascogne",
+        "znacaj": "Active"
+    },
+    {
+        "ime": "Alaskan Klee Kai",
+        "znacaj": "Active"
+    },
+    {
+        "ime": "Basset Bleu de Gascogne",
+        "znacaj": "Active"
+    },
+    {
+        "ime": "Belgian Shepherd Laekenois",
+        "znacaj": "Active"
+    },
+    {
+        "ime": "Black Mouth Cur",
+        "znacaj": "Active"
+    },
+    {
+        "ime": "Blue Lacy",
+        "znacaj": "Active"
+    },
+    {
+        "ime": "Blue Picardy Spaniel",
+        "znacaj": "Active"
+    },
+    {
+        "ime": "Bohemian Shepherd",
+        "znacaj": "Active"
+    },
+    {
+        "ime": "Brazilian Terrier",
+        "znacaj": "Active"
+    },
+    {
+        "ime": "Czechoslovakian Wolfdog",
+        "znacaj": "Active"
+    },
+    {
+        "ime": "Francais Blanc et Noir",
+        "znacaj": "Active"
+    },
+    {
+        "ime": "Hovawart",
+        "znacaj": "Active"
+    },
+    {
+        "ime": "J&auml;mthund",
+        "znacaj": "Active"
+    },
+    {
+        "ime": "Japanese Terrier",
+        "znacaj": "Active"
+    },
+    {
+        "ime": "Korean Jindo",
+        "znacaj": "Active"
+    },
+    {
+        "ime": "Miniature Bulldog",
+        "znacaj": "Active"
+    },
+    {
+        "ime": "New Guinea Singing Dog",
+        "znacaj": "Active"
+    },
+    {
+        "ime": "Norrbottenspets",
+        "znacaj": "Active"
+    },
+    {
+        "ime": "Picardy Spaniel",
+        "znacaj": "Active"
+    },
+    {
+        "ime": "Prazsky Krysarik",
+        "znacaj": "Active"
+    },
+    {
+        "ime": "Russian Toy",
+        "znacaj": "Active"
+    },
+    {
+        "ime": "Seppala Siberian Sleddog",
+        "znacaj": "Active"
+    },
+    {
+        "ime": "South Russian Ovcharka",
+        "znacaj": "Active"
+    },
+    {
+        "ime": "Thai Bangkaew Dog",
+        "znacaj": "Active"
+    },
+    {
+        "ime": "Volpino Italiano",
+        "znacaj": "Active"
+    },
+    {
+        "ime": "Bull Arab",
+        "znacaj": "Active"
+    },
+    {
+        "ime": "Kyi-Leo",
+        "znacaj": "Active"
+    },
+    {
+        "ime": "Old English Sheepdog",
+        "znacaj": "Adaptable"
+    },
+    {
+        "ime": "Leonberger",
+        "znacaj": "Adaptable"
+    },
+    {
+        "ime": "Black and Tan Coonhound",
+        "znacaj": "Adaptable"
+    },
+    {
+        "ime": "Field Spaniel",
+        "znacaj": "Adaptable"
+    },
+    {
+        "ime": "Miniature Shar Pei",
+        "znacaj": "Adaptable"
+    },
+    {
+        "ime": "Basset Fauve de Bretagne",
+        "znacaj": "Adaptable"
+    },
+    {
+        "ime": "Blue Picardy Spaniel",
+        "znacaj": "Adaptable"
+    },
+    {
+        "ime": "Bouvier des Ardennes",
+        "znacaj": "Adaptable"
+    },
+    {
+        "ime": "Carolina Dog",
+        "znacaj": "Adaptable"
+    },
+    {
+        "ime": "Central Asian Ovtcharka",
+        "znacaj": "Adaptable"
+    },
+    {
+        "ime": "Cesky Fousek",
+        "znacaj": "Adaptable"
+    },
+    {
+        "ime": "English Shepherd",
+        "znacaj": "Adaptable"
+    },
+    {
+        "ime": "French Spaniel",
+        "znacaj": "Adaptable"
+    },
+    {
+        "ime": "Jagdterrier",
+        "znacaj": "Adaptable"
+    },
+    {
+        "ime": "Kromfohrlander",
+        "znacaj": "Adaptable"
+    },
+    {
+        "ime": "Affenpinscher",
+        "znacaj": "Adventurous"
+    },
+    {
+        "ime": "Labrador Retriever",
+        "znacaj": "Affectionate"
+    },
+    {
+        "ime": "French Bulldog",
+        "znacaj": "Affectionate"
+    },
+    {
+        "ime": "German Shorthaired Pointer",
+        "znacaj": "Affectionate"
+    },
+    {
+        "ime": "Pembroke Welsh Corgi",
+        "znacaj": "Affectionate"
+    },
+    {
+        "ime": "Australian Shepherd",
+        "znacaj": "Affectionate"
+    },
+    {
+        "ime": "Cavalier King Charles Spaniel",
+        "znacaj": "Affectionate"
+    },
+    {
+        "ime": "Boston Terrier",
+        "znacaj": "Affectionate"
+    },
+    {
+        "ime": "Havanese",
+        "znacaj": "Affectionate"
+    },
+    {
+        "ime": "Shetland Sheepdog",
+        "znacaj": "Affectionate"
+    },
+    {
+        "ime": "Bernese Mountain Dog",
+        "znacaj": "Affectionate"
+    },
+    {
+        "ime": "English Springer Spaniel",
+        "znacaj": "Affectionate"
+    },
+    {
+        "ime": "Mastiff",
+        "znacaj": "Affectionate"
+    },
+    {
+        "ime": "Vizsla",
+        "znacaj": "Affectionate"
+    },
+    {
+        "ime": "Pug",
+        "znacaj": "Affectionate"
+    },
+    {
+        "ime": "Basset Hound",
+        "znacaj": "Affectionate"
+    },
+    {
+        "ime": "West Highland White Terrier",
+        "znacaj": "Affectionate"
+    },
+    {
+        "ime": "Chesapeake Bay Retriever",
+        "znacaj": "Affectionate"
+    },
+    {
+        "ime": "Bichon Frise",
+        "znacaj": "Affectionate"
+    },
+    {
+        "ime": "Soft Coated Wheaten Terrier",
+        "znacaj": "Affectionate"
+    },
+    {
+        "ime": "Bloodhound",
+        "znacaj": "Affectionate"
+    },
+    {
+        "ime": "English Cocker Spaniel",
+        "znacaj": "Affectionate"
+    },
+    {
+        "ime": "Alaskan Malamute",
+        "znacaj": "Affectionate"
+    },
+    {
+        "ime": "Whippet",
+        "znacaj": "Affectionate"
+    },
+    {
+        "ime": "German Wirehaired Pointer",
+        "znacaj": "Affectionate"
+    },
+    {
+        "ime": "Chinese Shar-Pei",
+        "znacaj": "Affectionate"
+    },
+    {
+        "ime": "Great Pyrenees",
+        "znacaj": "Affectionate"
+    },
+    {
+        "ime": "Cardigan Welsh Corgi",
+        "znacaj": "Affectionate"
+    },
+    {
+        "ime": "Irish Setter",
+        "znacaj": "Affectionate"
+    },
+    {
+        "ime": "Italian Greyhound",
+        "znacaj": "Affectionate"
+    },
+    {
+        "ime": "Chinese Crested",
+        "znacaj": "Affectionate"
+    },
+    {
+        "ime": "Coton De Tulear",
+        "znacaj": "Affectionate"
+    },
+    {
+        "ime": "Staffordshire Bull Terrier",
+        "znacaj": "Affectionate"
+    },
+    {
+        "ime": "Basenji",
+        "znacaj": "Affectionate"
+    },
+    {
+        "ime": "Pekingese",
+        "znacaj": "Affectionate"
+    },
+    {
+        "ime": "Nova Scotia Duck Tolling Retriever",
+        "znacaj": "Affectionate"
+    },
+    {
+        "ime": "Border Terrier",
+        "znacaj": "Affectionate"
+    },
+    {
+        "ime": "Rat Terrier",
+        "znacaj": "Affectionate"
+    },
+    {
+        "ime": "Tibetan Terrier",
+        "znacaj": "Affectionate"
+    },
+    {
+        "ime": "Norwich Terrier",
+        "znacaj": "Affectionate"
+    },
+    {
+        "ime": "Spinone Italiano",
+        "znacaj": "Affectionate"
+    },
+    {
+        "ime": "Pointer",
+        "znacaj": "Affectionate"
+    },
+    {
+        "ime": "Smooth Fox Terrier",
+        "znacaj": "Affectionate"
+    },
+    {
+        "ime": "Kerry Blue Terrier",
+        "znacaj": "Affectionate"
+    },
+    {
+        "ime": "Treeing Walker Coonhound",
+        "znacaj": "Affectionate"
+    },
+    {
+        "ime": "Welsh Springer Spaniel",
+        "znacaj": "Affectionate"
+    },
+    {
+        "ime": "English Toy Spaniel",
+        "znacaj": "Affectionate"
+    },
+    {
+        "ime": "Redbone Coonhound",
+        "znacaj": "Affectionate"
+    },
+    {
+        "ime": "Clumber Spaniel",
+        "znacaj": "Affectionate"
+    },
+    {
+        "ime": "Spanish Water Dog",
+        "znacaj": "Affectionate"
+    },
+    {
+        "ime": "Bedlington Terrier",
+        "znacaj": "Affectionate"
+    },
+    {
+        "ime": "Irish Red and White Setter",
+        "znacaj": "Affectionate"
+    },
+    {
+        "ime": "Greyhound",
+        "znacaj": "Affectionate"
+    },
+    {
+        "ime": "Komondor",
+        "znacaj": "Affectionate"
+    },
+    {
+        "ime": "Pharaoh Hound",
+        "znacaj": "Affectionate"
+    },
+    {
+        "ime": "Dandie Dinmont Terrier",
+        "znacaj": "Affectionate"
+    },
+    {
+        "ime": "Cirneco dell'Etna",
+        "znacaj": "Affectionate"
+    },
+    {
+        "ime": "Miniature Shar Pei",
+        "znacaj": "Affectionate"
+    },
+    {
+        "ime": "Spanish Greyhound",
+        "znacaj": "Affectionate"
+    },
+    {
+        "ime": "Akbash Dog",
+        "znacaj": "Affectionate"
+    },
+    {
+        "ime": "Alano Espanol",
+        "znacaj": "Affectionate"
+    },
+    {
+        "ime": "American Mastiff",
+        "znacaj": "Affectionate"
+    },
+    {
+        "ime": "American Pit Bull Terrier",
+        "znacaj": "Affectionate"
+    },
+    {
+        "ime": "American Staghound",
+        "znacaj": "Affectionate"
+    },
+    {
+        "ime": "Dogo Argentino",
+        "znacaj": "Affectionate"
+    },
+    {
+        "ime": "Ariegeois",
+        "znacaj": "Affectionate"
+    },
+    {
+        "ime": "Azawakh",
+        "znacaj": "Affectionate"
+    },
+    {
+        "ime": "Basset Bleu de Gascogne",
+        "znacaj": "Affectionate"
+    },
+    {
+        "ime": "Basset Fauve de Bretagne",
+        "znacaj": "Affectionate"
+    },
+    {
+        "ime": "Bracco Italiano",
+        "znacaj": "Affectionate"
+    },
+    {
+        "ime": "Braque du Bourbonnais",
+        "znacaj": "Affectionate"
+    },
+    {
+        "ime": "Canadian Eskimo Dog",
+        "znacaj": "Affectionate"
+    },
+    {
+        "ime": "Cesky Fousek",
+        "znacaj": "Affectionate"
+    },
+    {
+        "ime": "Cockapoo",
+        "znacaj": "Affectionate"
+    },
+    {
+        "ime": "Dutch Shepherd Dog",
+        "znacaj": "Affectionate"
+    },
+    {
+        "ime": "Dutch Smoushond",
+        "znacaj": "Affectionate"
+    },
+    {
+        "ime": "German Longhaired Pointer",
+        "znacaj": "Affectionate"
+    },
+    {
+        "ime": "Griffon bleu de Gascogne",
+        "znacaj": "Affectionate"
+    },
+    {
+        "ime": "Large Munsterlander",
+        "znacaj": "Affectionate"
+    },
+    {
+        "ime": "Japanese Spitz",
+        "znacaj": "Affectionate"
+    },
+    {
+        "ime": "Japanese Terrier",
+        "znacaj": "Affectionate"
+    },
+    {
+        "ime": "Small Munsterlander",
+        "znacaj": "Affectionate"
+    },
+    {
+        "ime": "New Guinea Singing Dog",
+        "znacaj": "Affectionate"
+    },
+    {
+        "ime": "Peruvian Inca Orchid",
+        "znacaj": "Affectionate"
+    },
+    {
+        "ime": "Picardy Spaniel",
+        "znacaj": "Affectionate"
+    },
+    {
+        "ime": "Portuguese Pointer",
+        "znacaj": "Affectionate"
+    },
+    {
+        "ime": "Rajapalayam",
+        "znacaj": "Affectionate"
+    },
+    {
+        "ime": "Russian Spaniel",
+        "znacaj": "Affectionate"
+    },
+    {
+        "ime": "Seppala Siberian Sleddog",
+        "znacaj": "Affectionate"
+    },
+    {
+        "ime": "Silken Windhound",
+        "znacaj": "Affectionate"
+    },
+    {
+        "ime": "Pont-Audemer Spaniel",
+        "znacaj": "Affectionate"
+    },
+    {
+        "ime": "Spanish Mastiff",
+        "znacaj": "Affectionate"
+    },
+    {
+        "ime": "Swedish Lapphund",
+        "znacaj": "Affectionate"
+    },
+    {
+        "ime": "Volpino Italiano",
+        "znacaj": "Affectionate"
+    },
+    {
+        "ime": "American Bulldog",
+        "znacaj": "Affectionate"
+    },
+    {
+        "ime": "Beaglier",
+        "znacaj": "Affectionate"
+    },
+    {
+        "ime": "Chizer",
+        "znacaj": "Affectionate"
+    },
+    {
+        "ime": "Cotonese",
+        "znacaj": "Affectionate"
+    },
+    {
+        "ime": "Taco Terrier",
+        "znacaj": "Affectionate"
+    },
+    {
+        "ime": "Cairmal",
+        "znacaj": "Affectionate"
+    },
+    {
+        "ime": "Majestic Tree Hound",
+        "znacaj": "Affectionate"
+    },
+    {
+        "ime": "Chorkie",
+        "znacaj": "Affectionate"
+    },
+    {
+        "ime": "Cockalier",
+        "znacaj": "Affectionate"
+    },
+    {
+        "ime": "Dorkie",
+        "znacaj": "Affectionate"
+    },
+    {
+        "ime": "Double Doodle",
+        "znacaj": "Affectionate"
+    },
+    {
+        "ime": "Lurcher",
+        "znacaj": "Affectionate"
+    },
+    {
+        "ime": "Mal-Shi",
+        "znacaj": "Affectionate"
+    },
+    {
+        "ime": "Shichon",
+        "znacaj": "Affectionate"
+    },
+    {
+        "ime": "Stabyhoun",
+        "znacaj": "Affectionate"
+    },
+    {
+        "ime": "Puggle",
+        "znacaj": "Affectionate"
+    },
+    {
+        "ime": "Russian Tsvetnaya Bolonka",
+        "znacaj": "Affectionate"
+    },
+    {
+        "ime": "Bulldog",
+        "znacaj": "Aggressive"
+    },
+    {
+        "ime": "Boston Terrier",
+        "znacaj": "Aggressive"
+    },
+    {
+        "ime": "Australian Cattle Dog",
+        "znacaj": "Aggressive"
+    },
+    {
+        "ime": "Pekingese",
+        "znacaj": "Aggressive"
+    },
+    {
+        "ime": "American Pit Bull Terrier",
+        "znacaj": "Aggressive"
+    },
+    {
+        "ime": "East Siberian Laika",
+        "znacaj": "Aggressive"
+    },
+    {
+        "ime": "East-European Shepherd",
+        "znacaj": "Aggressive"
+    },
+    {
+        "ime": "Pakistani Mastiff",
+        "znacaj": "Aggressive"
+    },
+    {
+        "ime": "Tosa",
+        "znacaj": "Aggressive"
+    },
+    {
+        "ime": "West Siberian Laika",
+        "znacaj": "Aggressive"
+    },
+    {
+        "ime": "Chorkie",
+        "znacaj": "Aggressive"
+    },
+    {
+        "ime": "Italian Greyhound",
+        "znacaj": "Agile"
+    },
+    {
+        "ime": "Keeshond",
+        "znacaj": "Agile"
+    },
+    {
+        "ime": "Schipperke",
+        "znacaj": "Agile"
+    },
+    {
+        "ime": "Puli",
+        "znacaj": "Agile"
+    },
+    {
+        "ime": "Icelandic Sheepdog",
+        "znacaj": "Agile"
+    },
+    {
+        "ime": "Entlebucher Mountain Dog",
+        "znacaj": "Agile"
+    },
+    {
+        "ime": "Glen of Imaal Terrier",
+        "znacaj": "Agile"
+    },
+    {
+        "ime": "Norwegian Buhund",
+        "znacaj": "Agile"
+    },
+    {
+        "ime": "Polish Lowland Sheepdog",
+        "znacaj": "Agile"
+    },
+    {
+        "ime": "Aidi",
+        "znacaj": "Agile"
+    },
+    {
+        "ime": "Alaskan Klee Kai",
+        "znacaj": "Agile"
+    },
+    {
+        "ime": "Basset Bleu de Gascogne",
+        "znacaj": "Agile"
+    },
+    {
+        "ime": "Bavarian Mountain Hound",
+        "znacaj": "Agile"
+    },
+    {
+        "ime": "Catalan Sheepdog",
+        "znacaj": "Agile"
+    },
+    {
+        "ime": "Croatian Sheepdog",
+        "znacaj": "Agile"
+    },
+    {
+        "ime": "Dingo",
+        "znacaj": "Agile"
+    },
+    {
+        "ime": "Shikoku dog",
+        "znacaj": "Agile"
+    },
+    {
+        "ime": "Smaland Hound",
+        "znacaj": "Agile"
+    },
+    {
+        "ime": "Tamaskan Dog",
+        "znacaj": "Agile"
+    },
+    {
+        "ime": "Thai Bangkaew Dog",
+        "znacaj": "Agile"
+    },
+    {
+        "ime": "Alaskan Husky",
+        "znacaj": "Agile"
+    },
+    {
+        "ime": "Mountain Feist",
+        "znacaj": "Agile"
+    },
+    {
+        "ime": "Austrian Black and Tan Hound",
+        "znacaj": "Agreeable"
+    },
+    {
+        "ime": "Braque du Bourbonnais",
+        "znacaj": "Agreeable"
+    },
+    {
+        "ime": "Labrador Retriever",
+        "znacaj": "Alert"
+    },
+    {
+        "ime": "German Shepherd",
+        "znacaj": "Alert"
+    },
+    {
+        "ime": "French Bulldog",
+        "znacaj": "Alert"
+    },
+    {
+        "ime": "Poodle (Standard)",
+        "znacaj": "Alert"
+    },
+    {
+        "ime": "Rottweiler",
+        "znacaj": "Alert"
+    },
+    {
+        "ime": "Yorkshire Terrier",
+        "znacaj": "Alert"
+    },
+    {
+        "ime": "Siberian Husky",
+        "znacaj": "Alert"
+    },
+    {
+        "ime": "Doberman Pinscher",
+        "znacaj": "Alert"
+    },
+    {
+        "ime": "Miniature Schnauzer",
+        "znacaj": "Alert"
+    },
+    {
+        "ime": "Brittany",
+        "znacaj": "Alert"
+    },
+    {
+        "ime": "English Springer Spaniel",
+        "znacaj": "Alert"
+    },
+    {
+        "ime": "Mastiff",
+        "znacaj": "Alert"
+    },
+    {
+        "ime": "Chihuahua",
+        "znacaj": "Alert"
+    },
+    {
+        "ime": "Weimaraner",
+        "znacaj": "Alert"
+    },
+    {
+        "ime": "Border Collie",
+        "znacaj": "Alert"
+    },
+    {
+        "ime": "West Highland White Terrier",
+        "znacaj": "Alert"
+    },
+    {
+        "ime": "Belgian Malinois",
+        "znacaj": "Alert"
+    },
+    {
+        "ime": "Shiba Inu",
+        "znacaj": "Alert"
+    },
+    {
+        "ime": "Akita",
+        "znacaj": "Alert"
+    },
+    {
+        "ime": "Bullmastiff",
+        "znacaj": "Alert"
+    },
+    {
+        "ime": "Papillon",
+        "znacaj": "Alert"
+    },
+    {
+        "ime": "Airedale Terrier",
+        "znacaj": "Alert"
+    },
+    {
+        "ime": "Australian Cattle Dog",
+        "znacaj": "Alert"
+    },
+    {
+        "ime": "Samoyed",
+        "znacaj": "Alert"
+    },
+    {
+        "ime": "Scottish Terrier",
+        "znacaj": "Alert"
+    },
+    {
+        "ime": "Cardigan Welsh Corgi",
+        "znacaj": "Alert"
+    },
+    {
+        "ime": "Greater Swiss Mountain Dog",
+        "znacaj": "Alert"
+    },
+    {
+        "ime": "Lhasa Apso",
+        "znacaj": "Alert"
+    },
+    {
+        "ime": "Jack Russell Terrier",
+        "znacaj": "Alert"
+    },
+    {
+        "ime": "Chinese Crested",
+        "znacaj": "Alert"
+    },
+    {
+        "ime": "Basenji",
+        "znacaj": "Alert"
+    },
+    {
+        "ime": "Nova Scotia Duck Tolling Retriever",
+        "znacaj": "Alert"
+    },
+    {
+        "ime": "Norwegian Elkhound",
+        "znacaj": "Alert"
+    },
+    {
+        "ime": "Border Terrier",
+        "znacaj": "Alert"
+    },
+    {
+        "ime": "Brussels Griffon",
+        "znacaj": "Alert"
+    },
+    {
+        "ime": "Rat Terrier",
+        "znacaj": "Alert"
+    },
+    {
+        "ime": "Wire Fox Terrier",
+        "znacaj": "Alert"
+    },
+    {
+        "ime": "Belgian Tervuren",
+        "znacaj": "Alert"
+    },
+    {
+        "ime": "Gordon Setter",
+        "znacaj": "Alert"
+    },
+    {
+        "ime": "Silky Terrier",
+        "znacaj": "Alert"
+    },
+    {
+        "ime": "Japanese Chin",
+        "znacaj": "Alert"
+    },
+    {
+        "ime": "Welsh Terrier",
+        "znacaj": "Alert"
+    },
+    {
+        "ime": "Toy Fox Terrier",
+        "znacaj": "Alert"
+    },
+    {
+        "ime": "American Eskimo Dog (Toy, Miniature, Standard)",
+        "znacaj": "Alert"
+    },
+    {
+        "ime": "Belgian Sheepdog",
+        "znacaj": "Alert"
+    },
+    {
+        "ime": "Smooth Fox Terrier",
+        "znacaj": "Alert"
+    },
+    {
+        "ime": "Bearded Collie",
+        "znacaj": "Alert"
+    },
+    {
+        "ime": "American Hairless Terrier",
+        "znacaj": "Alert"
+    },
+    {
+        "ime": "Kerry Blue Terrier",
+        "znacaj": "Alert"
+    },
+    {
+        "ime": "Manchester Terrier (Toy, Standard)",
+        "znacaj": "Alert"
+    },
+    {
+        "ime": "Australian Terrier",
+        "znacaj": "Alert"
+    },
+    {
+        "ime": "Xoloitzcuintli",
+        "znacaj": "Alert"
+    },
+    {
+        "ime": "Icelandic Sheepdog",
+        "znacaj": "Alert"
+    },
+    {
+        "ime": "Swedish Vallhund",
+        "znacaj": "Alert"
+    },
+    {
+        "ime": "Sealyham Terrier",
+        "znacaj": "Alert"
+    },
+    {
+        "ime": "Irish Water Spaniel",
+        "znacaj": "Alert"
+    },
+    {
+        "ime": "Plott Hound",
+        "znacaj": "Alert"
+    },
+    {
+        "ime": "Canaan Dog",
+        "znacaj": "Alert"
+    },
+    {
+        "ime": "Chinook",
+        "znacaj": "Alert"
+    },
+    {
+        "ime": "Sloughi",
+        "znacaj": "Alert"
+    },
+    {
+        "ime": "Norwegian Lundehund",
+        "znacaj": "Alert"
+    },
+    {
+        "ime": "Miniature Poodle",
+        "znacaj": "Alert"
+    },
+    {
+        "ime": "Toy Poodle",
+        "znacaj": "Alert"
+    },
+    {
+        "ime": "Miniature Shar Pei",
+        "znacaj": "Alert"
+    },
+    {
+        "ime": "Kangal Dog",
+        "znacaj": "Alert"
+    },
+    {
+        "ime": "Aidi",
+        "znacaj": "Alert"
+    },
+    {
+        "ime": "Akbash Dog",
+        "znacaj": "Alert"
+    },
+    {
+        "ime": "American White Shepherd",
+        "znacaj": "Alert"
+    },
+    {
+        "ime": "Australian Bulldog",
+        "znacaj": "Alert"
+    },
+    {
+        "ime": "Australian Kelpie",
+        "znacaj": "Alert"
+    },
+    {
+        "ime": "Australian Stumpy Tail Cattle Dog",
+        "znacaj": "Alert"
+    },
+    {
+        "ime": "Austrian Pinscher",
+        "znacaj": "Alert"
+    },
+    {
+        "ime": "Belgian Shepherd Laekenois",
+        "znacaj": "Alert"
+    },
+    {
+        "ime": "Black Norwegian Elkhound",
+        "znacaj": "Alert"
+    },
+    {
+        "ime": "Blue Lacy",
+        "znacaj": "Alert"
+    },
+    {
+        "ime": "Brazilian Terrier",
+        "znacaj": "Alert"
+    },
+    {
+        "ime": "Canadian Eskimo Dog",
+        "znacaj": "Alert"
+    },
+    {
+        "ime": "Catahoula Bulldog",
+        "znacaj": "Alert"
+    },
+    {
+        "ime": "Catahoula Leopard Dog",
+        "znacaj": "Alert"
+    },
+    {
+        "ime": "Caucasian Ovcharka",
+        "znacaj": "Alert"
+    },
+    {
+        "ime": "Cockapoo",
+        "znacaj": "Alert"
+    },
+    {
+        "ime": "Croatian Sheepdog",
+        "znacaj": "Alert"
+    },
+    {
+        "ime": "Danish-Swedish Farmdog",
+        "znacaj": "Alert"
+    },
+    {
+        "ime": "Drever",
+        "znacaj": "Alert"
+    },
+    {
+        "ime": "Dutch Shepherd Dog",
+        "znacaj": "Alert"
+    },
+    {
+        "ime": "English Shepherd",
+        "znacaj": "Alert"
+    },
+    {
+        "ime": "Eurasier",
+        "znacaj": "Alert"
+    },
+    {
+        "ime": "Grand Basset Griffon Vendeen",
+        "znacaj": "Alert"
+    },
+    {
+        "ime": "Griffon bleu de Gascogne",
+        "znacaj": "Alert"
+    },
+    {
+        "ime": "Hokkaido Dog",
+        "znacaj": "Alert"
+    },
+    {
+        "ime": "Kishu Ken",
+        "znacaj": "Alert"
+    },
+    {
+        "ime": "Kooikerhondje",
+        "znacaj": "Alert"
+    },
+    {
+        "ime": "Lancashire Heeler",
+        "znacaj": "Alert"
+    },
+    {
+        "ime": "Mudi",
+        "znacaj": "Alert"
+    },
+    {
+        "ime": "New Guinea Singing Dog",
+        "znacaj": "Alert"
+    },
+    {
+        "ime": "Norrbottenspets",
+        "znacaj": "Alert"
+    },
+    {
+        "ime": "Olde English Bulldogge",
+        "znacaj": "Alert"
+    },
+    {
+        "ime": "Peruvian Inca Orchid",
+        "znacaj": "Alert"
+    },
+    {
+        "ime": "Plummer Terrier",
+        "znacaj": "Alert"
+    },
+    {
+        "ime": "Prazsky Krysarik",
+        "znacaj": "Alert"
+    },
+    {
+        "ime": "Swedish Lapphund",
+        "znacaj": "Alert"
+    },
+    {
+        "ime": "Tornjak",
+        "znacaj": "Alert"
+    },
+    {
+        "ime": "Alaskan Husky",
+        "znacaj": "Alert"
+    },
+    {
+        "ime": "Alopekis",
+        "znacaj": "Alert"
+    },
+    {
+        "ime": "American Bulldog",
+        "znacaj": "Alert"
+    },
+    {
+        "ime": "Mountain Feist",
+        "znacaj": "Alert"
+    },
+    {
+        "ime": "Cotonese",
+        "znacaj": "Alert"
+    },
+    {
+        "ime": "Dorgi",
+        "znacaj": "Alert"
+    },
+    {
+        "ime": "Double Doodle",
+        "znacaj": "Alert"
+    },
+    {
+        "ime": "Maremma Sheepdog",
+        "znacaj": "Alert"
+    },
+    {
+        "ime": "Mal-Shi",
+        "znacaj": "Alert"
+    },
+    {
+        "ime": "Slovensky Cuvac",
+        "znacaj": "Alert"
+    },
+    {
+        "ime": "Weimaraner",
+        "znacaj": "Aloof"
+    },
+    {
+        "ime": "Chow Chow",
+        "znacaj": "Aloof"
+    },
+    {
+        "ime": "Afghan Hound",
+        "znacaj": "Aloof"
+    },
+    {
+        "ime": "Tibetan Spaniel",
+        "znacaj": "Aloof"
+    },
+    {
+        "ime": "Saluki",
+        "znacaj": "Aloof"
+    },
+    {
+        "ime": "Tibetan Mastiff",
+        "znacaj": "Aloof"
+    },
+    {
+        "ime": "American White Shepherd",
+        "znacaj": "Aloof"
+    },
+    {
+        "ime": "Azawakh",
+        "znacaj": "Aloof"
+    },
+    {
+        "ime": "Caravan Hound",
+        "znacaj": "Aloof"
+    },
+    {
+        "ime": "Dingo",
+        "znacaj": "Aloof"
+    },
+    {
+        "ime": "Tibetan Terrier",
+        "znacaj": "Amiable"
+    },
+    {
+        "ime": "Pointer",
+        "znacaj": "Amiable"
+    },
+    {
+        "ime": "Otterhound",
+        "znacaj": "Amiable"
+    },
+    {
+        "ime": "Russian Spaniel",
+        "znacaj": "Amiable"
+    },
+    {
+        "ime": "Cairn Terrier",
+        "znacaj": "Assertive"
+    },
+    {
+        "ime": "Lhasa Apso",
+        "znacaj": "Assertive"
+    },
+    {
+        "ime": "Tibetan Spaniel",
+        "znacaj": "Assertive"
+    },
+    {
+        "ime": "Berger Picard",
+        "znacaj": "Assertive"
+    },
+    {
+        "ime": "Austrian Pinscher",
+        "znacaj": "Assertive"
+    },
+    {
+        "ime": "French Bulldog",
+        "znacaj": "Athletic"
+    },
+    {
+        "ime": "Italian Greyhound",
+        "znacaj": "Athletic"
+    },
+    {
+        "ime": "Borzoi",
+        "znacaj": "Athletic"
+    },
+    {
+        "ime": "Spanish Water Dog",
+        "znacaj": "Athletic"
+    },
+    {
+        "ime": "Greyhound",
+        "znacaj": "Athletic"
+    },
+    {
+        "ime": "American Staffordshire Terrier",
+        "znacaj": "Attentive"
+    },
+    {
+        "ime": "Belgian Tervuren",
+        "znacaj": "Attentive"
+    },
+    {
+        "ime": "Azawakh",
+        "znacaj": "Attentive"
+    },
+    {
+        "ime": "Danish-Swedish Farmdog",
+        "znacaj": "Attentive"
+    },
+    {
+        "ime": "Small Munsterlander",
+        "znacaj": "Attentive"
+    },
+    {
+        "ime": "Norrbottenspets",
+        "znacaj": "Attentive"
+    },
+    {
+        "ime": "Schapendoes",
+        "znacaj": "Attentive"
+    },
+    {
+        "ime": "South Russian Ovcharka",
+        "znacaj": "Balanced"
+    },
+    {
+        "ime": "West Siberian Laika",
+        "znacaj": "Balanced"
+    },
+    {
+        "ime": "German Shorthaired Pointer",
+        "znacaj": "Boisterous"
+    },
+    {
+        "ime": "Otterhound",
+        "znacaj": "Boisterous"
+    },
+    {
+        "ime": "German Shorthaired Pointer",
+        "znacaj": "Bold"
+    },
+    {
+        "ime": "Staffordshire Bull Terrier",
+        "znacaj": "Bold"
+    },
+    {
+        "ime": "Anatolian Shepherd Dog",
+        "znacaj": "Bold"
+    },
+    {
+        "ime": "Norwegian Elkhound",
+        "znacaj": "Bold"
+    },
+    {
+        "ime": "Wire Fox Terrier",
+        "znacaj": "Bold"
+    },
+    {
+        "ime": "Parson Russell Terrier",
+        "znacaj": "Bold"
+    },
+    {
+        "ime": "Lakeland Terrier",
+        "znacaj": "Bold"
+    },
+    {
+        "ime": "Plott Hound",
+        "znacaj": "Bold"
+    },
+    {
+        "ime": "Blue Lacy",
+        "znacaj": "Bold"
+    },
+    {
+        "ime": "Central Asian Ovtcharka",
+        "znacaj": "Bold"
+    },
+    {
+        "ime": "Korean Jindo",
+        "znacaj": "Bold"
+    },
+    {
+        "ime": "Patterdale Terrier",
+        "znacaj": "Bold"
+    },
+    {
+        "ime": "Plummer Terrier",
+        "znacaj": "Bold"
+    },
+    {
+        "ime": "Greenland Dog",
+        "znacaj": "Boldness"
+    },
+    {
+        "ime": "Pyrenean Shepherd",
+        "znacaj": "Bossy"
+    },
+    {
+        "ime": "Boxer",
+        "znacaj": "Brave"
+    },
+    {
+        "ime": "Portuguese Water Dog",
+        "znacaj": "Brave"
+    },
+    {
+        "ime": "Black Russian Terrier",
+        "znacaj": "Brave"
+    },
+    {
+        "ime": "Bulgarian Shepherd Dog",
+        "znacaj": "Brave"
+    },
+    {
+        "ime": "Canadian Eskimo Dog",
+        "znacaj": "Brave"
+    },
+    {
+        "ime": "Chart Polski",
+        "znacaj": "Brave"
+    },
+    {
+        "ime": "Fila Brasileiro",
+        "znacaj": "Brave"
+    },
+    {
+        "ime": "Polish Hunting Dog",
+        "znacaj": "Brave"
+    },
+    {
+        "ime": "Korean Jindo",
+        "znacaj": "Brave"
+    },
+    {
+        "ime": "Karelian Bear Dog",
+        "znacaj": "Brave"
+    },
+    {
+        "ime": "Perro de Presa Mallorquin",
+        "znacaj": "Brave"
+    },
+    {
+        "ime": "Shikoku dog",
+        "znacaj": "Brave"
+    },
+    {
+        "ime": "Tosa",
+        "znacaj": "Brave"
+    },
+    {
+        "ime": "Karst Shepherd",
+        "znacaj": "Brave"
+    },
+    {
+        "ime": "French Bulldog",
+        "znacaj": "Bright"
+    },
+    {
+        "ime": "Boxer",
+        "znacaj": "Bright"
+    },
+    {
+        "ime": "Keeshond",
+        "znacaj": "Bright"
+    },
+    {
+        "ime": "Old English Sheepdog",
+        "znacaj": "Bubbly"
+    },
+    {
+        "ime": "Bullmastiff",
+        "znacaj": "Calm"
+    },
+    {
+        "ime": "Clumber Spaniel",
+        "znacaj": "Calm"
+    },
+    {
+        "ime": "Xoloitzcuintli",
+        "znacaj": "Calm"
+    },
+    {
+        "ime": "Sealyham Terrier",
+        "znacaj": "Calm"
+    },
+    {
+        "ime": "Sussex Spaniel",
+        "znacaj": "Calm"
+    },
+    {
+        "ime": "Komondor",
+        "znacaj": "Calm"
+    },
+    {
+        "ime": "Finnish Lapphund",
+        "znacaj": "Calm"
+    },
+    {
+        "ime": "Chinook",
+        "znacaj": "Calm"
+    },
+    {
+        "ime": "Cesky Terrier",
+        "znacaj": "Calm"
+    },
+    {
+        "ime": "Miniature Shar Pei",
+        "znacaj": "Calm"
+    },
+    {
+        "ime": "Kangal Dog",
+        "znacaj": "Calm"
+    },
+    {
+        "ime": "Spanish Greyhound",
+        "znacaj": "Calm"
+    },
+    {
+        "ime": "American Mastiff",
+        "znacaj": "Calm"
+    },
+    {
+        "ime": "American Staghound",
+        "znacaj": "Calm"
+    },
+    {
+        "ime": "Bavarian Mountain Hound",
+        "znacaj": "Calm"
+    },
+    {
+        "ime": "Blue Picardy Spaniel",
+        "znacaj": "Calm"
+    },
+    {
+        "ime": "Braque du Bourbonnais",
+        "znacaj": "Calm"
+    },
+    {
+        "ime": "Bukovina Sheepdog",
+        "znacaj": "Calm"
+    },
+    {
+        "ime": "Carpathian Sheepdog",
+        "znacaj": "Calm"
+    },
+    {
+        "ime": "Catahoula Bulldog",
+        "znacaj": "Calm"
+    },
+    {
+        "ime": "Caucasian Ovcharka",
+        "znacaj": "Calm"
+    },
+    {
+        "ime": "Dunker",
+        "znacaj": "Calm"
+    },
+    {
+        "ime": "Eurasier",
+        "znacaj": "Calm"
+    },
+    {
+        "ime": "Finnish Hound",
+        "znacaj": "Calm"
+    },
+    {
+        "ime": "French Spaniel",
+        "znacaj": "Calm"
+    },
+    {
+        "ime": "J&auml;mthund",
+        "znacaj": "Calm"
+    },
+    {
+        "ime": "Lapponian Herder",
+        "znacaj": "Calm"
+    },
+    {
+        "ime": "Northern Inuit Dog",
+        "znacaj": "Calm"
+    },
+    {
+        "ime": "Perro de Presa Canario",
+        "znacaj": "Calm"
+    },
+    {
+        "ime": "Portuguese Pointer",
+        "znacaj": "Calm"
+    },
+    {
+        "ime": "Pudelpointer",
+        "znacaj": "Calm"
+    },
+    {
+        "ime": "Rafeiro do Alentejo",
+        "znacaj": "Calm"
+    },
+    {
+        "ime": "Sarplaninac",
+        "znacaj": "Calm"
+    },
+    {
+        "ime": "Smaland Hound",
+        "znacaj": "Calm"
+    },
+    {
+        "ime": "Tornjak",
+        "znacaj": "Calm"
+    },
+    {
+        "ime": "Beagle-Harrier",
+        "znacaj": "Calm"
+    },
+    {
+        "ime": "Kyi-Leo",
+        "znacaj": "Calm"
+    },
+    {
+        "ime": "Polish Tatra Sheepdog",
+        "znacaj": "Calm"
+    },
+    {
+        "ime": "Japanese Chin",
+        "znacaj": "Cat-like"
+    },
+    {
+        "ime": "Field Spaniel",
+        "znacaj": "Cautious"
+    },
+    {
+        "ime": "Canaan Dog",
+        "znacaj": "Cautious"
+    },
+    {
+        "ime": "Karelian Bear Dog",
+        "znacaj": "Cautious"
+    },
+    {
+        "ime": "Shikoku dog",
+        "znacaj": "Cautious"
+    },
+    {
+        "ime": "Shiba Inu",
+        "znacaj": "Charming"
+    },
+    {
+        "ime": "Labrador Retriever",
+        "znacaj": "Cheerful"
+    },
+    {
+        "ime": "Pembroke Welsh Corgi",
+        "znacaj": "Cheerful"
+    },
+    {
+        "ime": "Cavalier King Charles Spaniel",
+        "znacaj": "Cheerful"
+    },
+    {
+        "ime": "English Springer Spaniel",
+        "znacaj": "Cheerful"
+    },
+    {
+        "ime": "Mastiff",
+        "znacaj": "Cheerful"
+    },
+    {
+        "ime": "Vizsla",
+        "znacaj": "Cheerful"
+    },
+    {
+        "ime": "Pug",
+        "znacaj": "Cheerful"
+    },
+    {
+        "ime": "Newfoundland",
+        "znacaj": "Cheerful"
+    },
+    {
+        "ime": "Cane Corso",
+        "znacaj": "Cheerful"
+    },
+    {
+        "ime": "Bichon Frise",
+        "znacaj": "Cheerful"
+    },
+    {
+        "ime": "Jack Russell Terrier",
+        "znacaj": "Cheerful"
+    },
+    {
+        "ime": "Lagotto Romagnolo",
+        "znacaj": "Cheerful"
+    },
+    {
+        "ime": "Xoloitzcuintli",
+        "znacaj": "Cheerful"
+    },
+    {
+        "ime": "Icelandic Sheepdog",
+        "znacaj": "Cheerful"
+    },
+    {
+        "ime": "Sussex Spaniel",
+        "znacaj": "Cheerful"
+    },
+    {
+        "ime": "Harrier",
+        "znacaj": "Cheerful"
+    },
+    {
+        "ime": "Cesky Terrier",
+        "znacaj": "Cheerful"
+    },
+    {
+        "ime": "Dogo Argentino",
+        "znacaj": "Cheerful"
+    },
+    {
+        "ime": "Barbet",
+        "znacaj": "Cheerful"
+    },
+    {
+        "ime": "Cockapoo",
+        "znacaj": "Cheerful"
+    },
+    {
+        "ime": "Large Munsterlander",
+        "znacaj": "Cheerful"
+    },
+    {
+        "ime": "Japanese Terrier",
+        "znacaj": "Cheerful"
+    },
+    {
+        "ime": "Kooikerhondje",
+        "znacaj": "Cheerful"
+    },
+    {
+        "ime": "Russian Toy",
+        "znacaj": "Cheerful"
+    },
+    {
+        "ime": "Cotonese",
+        "znacaj": "Cheerful"
+    },
+    {
+        "ime": "Majestic Tree Hound",
+        "znacaj": "Cheerful"
+    },
+    {
+        "ime": "Chorkie",
+        "znacaj": "Cheerful"
+    },
+    {
+        "ime": "Dorkie",
+        "znacaj": "Cheerful"
+    },
+    {
+        "ime": "Puggle",
+        "znacaj": "Cheerful"
+    },
+    {
+        "ime": "Dachshund (Toy, Miniature, Standard)",
+        "znacaj": "Clever"
+    },
+    {
+        "ime": "Miniature Pinscher",
+        "znacaj": "Clever"
+    },
+    {
+        "ime": "Treeing Walker Coonhound",
+        "znacaj": "Clever"
+    },
+    {
+        "ime": "Curly-Coated Retriever",
+        "znacaj": "Clever"
+    },
+    {
+        "ime": "Pyrenean Shepherd",
+        "znacaj": "Clever"
+    },
+    {
+        "ime": "Lancashire Heeler",
+        "znacaj": "Clever"
+    },
+    {
+        "ime": "Texas Heeler",
+        "znacaj": "Clever"
+    },
+    {
+        "ime": "Afghan Hound",
+        "znacaj": "Clownish"
+    },
+    {
+        "ime": "Kuvasz",
+        "znacaj": "Clownish"
+    },
+    {
+        "ime": "Irish Water Spaniel",
+        "znacaj": "Clownish"
+    },
+    {
+        "ime": "Ibizan Hound",
+        "znacaj": "Clownish"
+    },
+    {
+        "ime": "American Pit Bull Terrier",
+        "znacaj": "Clownish"
+    },
+    {
+        "ime": "Pont-Audemer Spaniel",
+        "znacaj": "Clownish"
+    },
+    {
+        "ime": "Havanese",
+        "znacaj": "Companionable"
+    },
+    {
+        "ime": "Dogue de Bordeaux",
+        "znacaj": "Companionable"
+    },
+    {
+        "ime": "Cardigan Welsh Corgi",
+        "znacaj": "Companionable"
+    },
+    {
+        "ime": "Irish Setter",
+        "znacaj": "Companionable"
+    },
+    {
+        "ime": "Italian Greyhound",
+        "znacaj": "Companionable"
+    },
+    {
+        "ime": "Brussels Griffon",
+        "znacaj": "Companionable"
+    },
+    {
+        "ime": "Boykin Spaniel",
+        "znacaj": "Companionable"
+    },
+    {
+        "ime": "Leonberger",
+        "znacaj": "Companionable"
+    },
+    {
+        "ime": "Norfolk Terrier",
+        "znacaj": "Companionable"
+    },
+    {
+        "ime": "Australian Terrier",
+        "znacaj": "Companionable"
+    },
+    {
+        "ime": "Redbone Coonhound",
+        "znacaj": "Companionable"
+    },
+    {
+        "ime": "Xoloitzcuintli",
+        "znacaj": "Companionable"
+    },
+    {
+        "ime": "Portuguese Podengo Pequeno",
+        "znacaj": "Companionable"
+    },
+    {
+        "ime": "Sussex Spaniel",
+        "znacaj": "Companionable"
+    },
+    {
+        "ime": "Dandie Dinmont Terrier",
+        "znacaj": "Companionable"
+    },
+    {
+        "ime": "English Foxhound",
+        "znacaj": "Companionable"
+    },
+    {
+        "ime": "American White Shepherd",
+        "znacaj": "Companionable"
+    },
+    {
+        "ime": "Barbet",
+        "znacaj": "Companionable"
+    },
+    {
+        "ime": "Basset Fauve de Bretagne",
+        "znacaj": "Companionable"
+    },
+    {
+        "ime": "Bracco Italiano",
+        "znacaj": "Companionable"
+    },
+    {
+        "ime": "Catahoula Bulldog",
+        "znacaj": "Companionable"
+    },
+    {
+        "ime": "Croatian Sheepdog",
+        "znacaj": "Companionable"
+    },
+    {
+        "ime": "Drentse Patrijshond",
+        "znacaj": "Companionable"
+    },
+    {
+        "ime": "Japanese Spitz",
+        "znacaj": "Companionable"
+    },
+    {
+        "ime": "Kromfohrlander",
+        "znacaj": "Companionable"
+    },
+    {
+        "ime": "Picardy Spaniel",
+        "znacaj": "Companionable"
+    },
+    {
+        "ime": "Shiloh Shepherd dog",
+        "znacaj": "Companionable"
+    },
+    {
+        "ime": "Silken Windhound",
+        "znacaj": "Companionable"
+    },
+    {
+        "ime": "Moscow Watchdog",
+        "znacaj": "Companionable"
+    },
+    {
+        "ime": "German Shepherd",
+        "znacaj": "Confident"
+    },
+    {
+        "ime": "Golden Retriever",
+        "znacaj": "Confident"
+    },
+    {
+        "ime": "Boxer",
+        "znacaj": "Confident"
+    },
+    {
+        "ime": "Great Dane",
+        "znacaj": "Confident"
+    },
+    {
+        "ime": "Belgian Malinois",
+        "znacaj": "Confident"
+    },
+    {
+        "ime": "Shiba Inu",
+        "znacaj": "Confident"
+    },
+    {
+        "ime": "Airedale Terrier",
+        "znacaj": "Confident"
+    },
+    {
+        "ime": "Great Pyrenees",
+        "znacaj": "Confident"
+    },
+    {
+        "ime": "Anatolian Shepherd Dog",
+        "znacaj": "Confident"
+    },
+    {
+        "ime": "Flat-Coated Retriever",
+        "znacaj": "Confident"
+    },
+    {
+        "ime": "Gordon Setter",
+        "znacaj": "Confident"
+    },
+    {
+        "ime": "Schipperke",
+        "znacaj": "Confident"
+    },
+    {
+        "ime": "Black Russian Terrier",
+        "znacaj": "Confident"
+    },
+    {
+        "ime": "Belgian Sheepdog",
+        "znacaj": "Confident"
+    },
+    {
+        "ime": "Boerboel",
+        "znacaj": "Confident"
+    },
+    {
+        "ime": "Treeing Walker Coonhound",
+        "znacaj": "Confident"
+    },
+    {
+        "ime": "Lakeland Terrier",
+        "znacaj": "Confident"
+    },
+    {
+        "ime": "Miniature Shar Pei",
+        "znacaj": "Confident"
+    },
+    {
+        "ime": "Chart Polski",
+        "znacaj": "Confident"
+    },
+    {
+        "ime": "Norrbottenspets",
+        "znacaj": "Confident"
+    },
+    {
+        "ime": "Olde English Bulldogge",
+        "znacaj": "Confident"
+    },
+    {
+        "ime": "Patterdale Terrier",
+        "znacaj": "Confident"
+    },
+    {
+        "ime": "Lucas Terrier",
+        "znacaj": "Confident"
+    },
+    {
+        "ime": "German Shorthaired Pointer",
+        "znacaj": "Cooperative"
+    },
+    {
+        "ime": "Braque du Bourbonnais",
+        "znacaj": "Cooperative"
+    },
+    {
+        "ime": "Dingo",
+        "znacaj": "Cooperative"
+    },
+    {
+        "ime": "Seppala Siberian Sleddog",
+        "znacaj": "Cooperative"
+    },
+    {
+        "ime": "German Shepherd",
+        "znacaj": "Courageous"
+    },
+    {
+        "ime": "Bulldog",
+        "znacaj": "Courageous"
+    },
+    {
+        "ime": "Rottweiler",
+        "znacaj": "Courageous"
+    },
+    {
+        "ime": "Yorkshire Terrier",
+        "znacaj": "Courageous"
+    },
+    {
+        "ime": "Dachshund (Toy, Miniature, Standard)",
+        "znacaj": "Courageous"
+    },
+    {
+        "ime": "Cavalier King Charles Spaniel",
+        "znacaj": "Courageous"
+    },
+    {
+        "ime": "Shih Tzu",
+        "znacaj": "Courageous"
+    },
+    {
+        "ime": "Mastiff",
+        "znacaj": "Courageous"
+    },
+    {
+        "ime": "Pug",
+        "znacaj": "Courageous"
+    },
+    {
+        "ime": "Chihuahua",
+        "znacaj": "Courageous"
+    },
+    {
+        "ime": "Newfoundland",
+        "znacaj": "Courageous"
+    },
+    {
+        "ime": "Cane Corso",
+        "znacaj": "Courageous"
+    },
+    {
+        "ime": "West Highland White Terrier",
+        "znacaj": "Courageous"
+    },
+    {
+        "ime": "Akita",
+        "znacaj": "Courageous"
+    },
+    {
+        "ime": "Bullmastiff",
+        "znacaj": "Courageous"
+    },
+    {
+        "ime": "Airedale Terrier",
+        "znacaj": "Courageous"
+    },
+    {
+        "ime": "Dogue de Bordeaux",
+        "znacaj": "Courageous"
+    },
+    {
+        "ime": "Cairn Terrier",
+        "znacaj": "Courageous"
+    },
+    {
+        "ime": "Jack Russell Terrier",
+        "znacaj": "Courageous"
+    },
+    {
+        "ime": "Staffordshire Bull Terrier",
+        "znacaj": "Courageous"
+    },
+    {
+        "ime": "American Staffordshire Terrier",
+        "znacaj": "Courageous"
+    },
+    {
+        "ime": "Nova Scotia Duck Tolling Retriever",
+        "znacaj": "Courageous"
+    },
+    {
+        "ime": "Miniature Bull Terrier",
+        "znacaj": "Courageous"
+    },
+    {
+        "ime": "German Pinscher",
+        "znacaj": "Courageous"
+    },
+    {
+        "ime": "Australian Terrier",
+        "znacaj": "Courageous"
+    },
+    {
+        "ime": "Beauceron",
+        "znacaj": "Courageous"
+    },
+    {
+        "ime": "Tibetan Mastiff",
+        "znacaj": "Courageous"
+    },
+    {
+        "ime": "Glen of Imaal Terrier",
+        "znacaj": "Courageous"
+    },
+    {
+        "ime": "Plott Hound",
+        "znacaj": "Courageous"
+    },
+    {
+        "ime": "Norwegian Buhund",
+        "znacaj": "Courageous"
+    },
+    {
+        "ime": "Finnish Lapphund",
+        "znacaj": "Courageous"
+    },
+    {
+        "ime": "Akbash Dog",
+        "znacaj": "Courageous"
+    },
+    {
+        "ime": "American Mastiff",
+        "znacaj": "Courageous"
+    },
+    {
+        "ime": "American Pit Bull Terrier",
+        "znacaj": "Courageous"
+    },
+    {
+        "ime": "American Staghound",
+        "znacaj": "Courageous"
+    },
+    {
+        "ime": "Australian Stumpy Tail Cattle Dog",
+        "znacaj": "Courageous"
+    },
+    {
+        "ime": "Basset Fauve de Bretagne",
+        "znacaj": "Courageous"
+    },
+    {
+        "ime": "Bavarian Mountain Hound",
+        "znacaj": "Courageous"
+    },
+    {
+        "ime": "Bohemian Shepherd",
+        "znacaj": "Courageous"
+    },
+    {
+        "ime": "Briquet Griffon Vendeen",
+        "znacaj": "Courageous"
+    },
+    {
+        "ime": "Bukovina Sheepdog",
+        "znacaj": "Courageous"
+    },
+    {
+        "ime": "Caravan Hound",
+        "znacaj": "Courageous"
+    },
+    {
+        "ime": "Carpathian Sheepdog",
+        "znacaj": "Courageous"
+    },
+    {
+        "ime": "Catahoula Leopard Dog",
+        "znacaj": "Courageous"
+    },
+    {
+        "ime": "Czechoslovakian Wolfdog",
+        "znacaj": "Courageous"
+    },
+    {
+        "ime": "English Shepherd",
+        "znacaj": "Courageous"
+    },
+    {
+        "ime": "Fila Brasileiro",
+        "znacaj": "Courageous"
+    },
+    {
+        "ime": "Jagdterrier",
+        "znacaj": "Courageous"
+    },
+    {
+        "ime": "Polish Hunting Dog",
+        "znacaj": "Courageous"
+    },
+    {
+        "ime": "Grand Basset Griffon Vendeen",
+        "znacaj": "Courageous"
+    },
+    {
+        "ime": "Large Munsterlander",
+        "znacaj": "Courageous"
+    },
+    {
+        "ime": "Hamilton Hound",
+        "znacaj": "Courageous"
+    },
+    {
+        "ime": "Hokkaido Dog",
+        "znacaj": "Courageous"
+    },
+    {
+        "ime": "J&auml;mthund",
+        "znacaj": "Courageous"
+    },
+    {
+        "ime": "Landseer",
+        "znacaj": "Courageous"
+    },
+    {
+        "ime": "Mudi",
+        "znacaj": "Courageous"
+    },
+    {
+        "ime": "Olde English Bulldogge",
+        "znacaj": "Courageous"
+    },
+    {
+        "ime": "Perro de Presa Mallorquin",
+        "znacaj": "Courageous"
+    },
+    {
+        "ime": "Rajapalayam",
+        "znacaj": "Courageous"
+    },
+    {
+        "ime": "Schapendoes",
+        "znacaj": "Courageous"
+    },
+    {
+        "ime": "South Russian Ovcharka",
+        "znacaj": "Courageous"
+    },
+    {
+        "ime": "Karst Shepherd",
+        "znacaj": "Courageous"
+    },
+    {
+        "ime": "Transylvanian Hound",
+        "znacaj": "Courageous"
+    },
+    {
+        "ime": "Alopekis",
+        "znacaj": "Courageous"
+    },
+    {
+        "ime": "American Bulldog",
+        "znacaj": "Courageous"
+    },
+    {
+        "ime": "Basset Artesien Normand",
+        "znacaj": "Courageous"
+    },
+    {
+        "ime": "King Shepherd",
+        "znacaj": "Courageous"
+    },
+    {
+        "ime": "Dorgi",
+        "znacaj": "Courageous"
+    },
+    {
+        "ime": "German Shepherd",
+        "znacaj": "Curious"
+    },
+    {
+        "ime": "Basenji",
+        "znacaj": "Curious"
+    },
+    {
+        "ime": "Schipperke",
+        "znacaj": "Curious"
+    },
+    {
+        "ime": "Affenpinscher",
+        "znacaj": "Curious"
+    },
+    {
+        "ime": "Alaskan Klee Kai",
+        "znacaj": "Curious"
+    },
+    {
+        "ime": "Basset Bleu de Gascogne",
+        "znacaj": "Curious"
+    },
+    {
+        "ime": "Bouvier des Ardennes",
+        "znacaj": "Curious"
+    },
+    {
+        "ime": "Central Asian Ovtcharka",
+        "znacaj": "Curious"
+    },
+    {
+        "ime": "Pyrenean Shepherd",
+        "znacaj": "Dedicated"
+    },
+    {
+        "ime": "Koolie",
+        "znacaj": "Dedicated"
+    },
+    {
+        "ime": "Northern Inuit Dog",
+        "znacaj": "Dependable"
+    },
+    {
+        "ime": "Serbian Hound",
+        "znacaj": "Dependable"
+    },
+    {
+        "ime": "Bergamasco",
+        "znacaj": "Determined"
+    },
+    {
+        "ime": "Dandie Dinmont Terrier",
+        "znacaj": "Determined"
+    },
+    {
+        "ime": "Fila Brasileiro",
+        "znacaj": "Determined"
+    },
+    {
+        "ime": "Spanish Mastiff",
+        "znacaj": "Determined"
+    },
+    {
+        "ime": "Beagle-Harrier",
+        "znacaj": "Determined"
+    },
+    {
+        "ime": "Maremma Sheepdog",
+        "znacaj": "Determined"
+    },
+    {
+        "ime": "Dachshund (Toy, Miniature, Standard)",
+        "znacaj": "Devoted"
+    },
+    {
+        "ime": "Great Dane",
+        "znacaj": "Devoted"
+    },
+    {
+        "ime": "Chihuahua",
+        "znacaj": "Devoted"
+    },
+    {
+        "ime": "Miniature American Shepherd",
+        "znacaj": "Devoted"
+    },
+    {
+        "ime": "Basset Hound",
+        "znacaj": "Devoted"
+    },
+    {
+        "ime": "Bullmastiff",
+        "znacaj": "Devoted"
+    },
+    {
+        "ime": "Alaskan Malamute",
+        "znacaj": "Devoted"
+    },
+    {
+        "ime": "Chinese Shar-Pei",
+        "znacaj": "Devoted"
+    },
+    {
+        "ime": "Dogue de Bordeaux",
+        "znacaj": "Devoted"
+    },
+    {
+        "ime": "Cardigan Welsh Corgi",
+        "znacaj": "Devoted"
+    },
+    {
+        "ime": "Greater Swiss Mountain Dog",
+        "znacaj": "Devoted"
+    },
+    {
+        "ime": "Lhasa Apso",
+        "znacaj": "Devoted"
+    },
+    {
+        "ime": "American Staffordshire Terrier",
+        "znacaj": "Devoted"
+    },
+    {
+        "ime": "Standard Schnauzer",
+        "znacaj": "Devoted"
+    },
+    {
+        "ime": "Flat-Coated Retriever",
+        "znacaj": "Devoted"
+    },
+    {
+        "ime": "Manchester Terrier (Toy, Standard)",
+        "znacaj": "Devoted"
+    },
+    {
+        "ime": "Bedlington Terrier",
+        "znacaj": "Devoted"
+    },
+    {
+        "ime": "Entlebucher Mountain Dog",
+        "znacaj": "Devoted"
+    },
+    {
+        "ime": "Irish Red and White Setter",
+        "znacaj": "Devoted"
+    },
+    {
+        "ime": "Sussex Spaniel",
+        "znacaj": "Devoted"
+    },
+    {
+        "ime": "Canaan Dog",
+        "znacaj": "Devoted"
+    },
+    {
+        "ime": "Australian Stumpy Tail Cattle Dog",
+        "znacaj": "Devoted"
+    },
+    {
+        "ime": "Austrian Pinscher",
+        "znacaj": "Devoted"
+    },
+    {
+        "ime": "Blue Lacy",
+        "znacaj": "Devoted"
+    },
+    {
+        "ime": "Catahoula Bulldog",
+        "znacaj": "Devoted"
+    },
+    {
+        "ime": "Hamilton Hound",
+        "znacaj": "Devoted"
+    },
+    {
+        "ime": "Picardy Spaniel",
+        "znacaj": "Devoted"
+    },
+    {
+        "ime": "Rajapalayam",
+        "znacaj": "Devoted"
+    },
+    {
+        "ime": "Russian Spaniel",
+        "znacaj": "Devoted"
+    },
+    {
+        "ime": "Saarloos wolfdog",
+        "znacaj": "Devoted"
+    },
+    {
+        "ime": "Sarplaninac",
+        "znacaj": "Devoted"
+    },
+    {
+        "ime": "Thai Bangkaew Dog",
+        "znacaj": "Devoted"
+    },
+    {
+        "ime": "Rhodesian Ridgeback",
+        "znacaj": "Dignified"
+    },
+    {
+        "ime": "Akita",
+        "znacaj": "Dignified"
+    },
+    {
+        "ime": "Alaskan Malamute",
+        "znacaj": "Dignified"
+    },
+    {
+        "ime": "Irish Wolfhound",
+        "znacaj": "Dignified"
+    },
+    {
+        "ime": "Afghan Hound",
+        "znacaj": "Dignified"
+    },
+    {
+        "ime": "Clumber Spaniel",
+        "znacaj": "Dignified"
+    },
+    {
+        "ime": "Scottish Deerhound",
+        "znacaj": "Dignified"
+    },
+    {
+        "ime": "Chinook",
+        "znacaj": "Dignified"
+    },
+    {
+        "ime": "American Mastiff",
+        "znacaj": "Dignified"
+    },
+    {
+        "ime": "Kishu Ken",
+        "znacaj": "Dignified"
+    },
+    {
+        "ime": "Maremma Sheepdog",
+        "znacaj": "Dignified"
+    },
+    {
+        "ime": "Spanish Water Dog",
+        "znacaj": "Diligent"
+    },
+    {
+        "ime": "Koolie",
+        "znacaj": "Diligent"
+    },
+    {
+        "ime": "Manchester Terrier (Toy, Standard)",
+        "znacaj": "Discerning"
+    },
+    {
+        "ime": "Maltese",
+        "znacaj": "Docile"
+    },
+    {
+        "ime": "Akita",
+        "znacaj": "Docile"
+    },
+    {
+        "ime": "Bullmastiff",
+        "znacaj": "Docile"
+    },
+    {
+        "ime": "Portuguese Water Dog",
+        "znacaj": "Docile"
+    },
+    {
+        "ime": "Spinone Italiano",
+        "znacaj": "Docile"
+    },
+    {
+        "ime": "Field Spaniel",
+        "znacaj": "Docile"
+    },
+    {
+        "ime": "Scottish Deerhound",
+        "znacaj": "Docile"
+    },
+    {
+        "ime": "Ariege Pointer",
+        "znacaj": "Docile"
+    },
+    {
+        "ime": "Fila Brasileiro",
+        "znacaj": "Docile"
+    },
+    {
+        "ime": "Hokkaido Dog",
+        "znacaj": "Docile"
+    },
+    {
+        "ime": "Kishu Ken",
+        "znacaj": "Docile"
+    },
+    {
+        "ime": "Kromfohrlander",
+        "znacaj": "Docile"
+    },
+    {
+        "ime": "Lapponian Herder",
+        "znacaj": "Docile"
+    },
+    {
+        "ime": "Pakistani Mastiff",
+        "znacaj": "Docile"
+    },
+    {
+        "ime": "Bolognese dog",
+        "znacaj": "Docile"
+    },
+    {
+        "ime": "Chesapeake Bay Retriever",
+        "znacaj": "Dominant"
+    },
+    {
+        "ime": "Giant Schnauzer",
+        "znacaj": "Dominant"
+    },
+    {
+        "ime": "Neapolitan Mastiff",
+        "znacaj": "Dominant"
+    },
+    {
+        "ime": "Irish Terrier",
+        "znacaj": "Dominant"
+    },
+    {
+        "ime": "Boerboel",
+        "znacaj": "Dominant"
+    },
+    {
+        "ime": "Alano Espanol",
+        "znacaj": "Dominant"
+    },
+    {
+        "ime": "Briquet Griffon Vendeen",
+        "znacaj": "Dominant"
+    },
+    {
+        "ime": "Bulgarian Shepherd Dog",
+        "znacaj": "Dominant"
+    },
+    {
+        "ime": "Caucasian Ovcharka",
+        "znacaj": "Dominant"
+    },
+    {
+        "ime": "Koolie",
+        "znacaj": "Dominant"
+    },
+    {
+        "ime": "Perro de Presa Canario",
+        "znacaj": "Dominant"
+    },
+    {
+        "ime": "Alapaha Blue Blood Bulldog",
+        "znacaj": "Dutiful"
+    },
+    {
+        "ime": "Boykin Spaniel",
+        "znacaj": "Eager"
+    },
+    {
+        "ime": "Gordon Setter",
+        "znacaj": "Eager"
+    },
+    {
+        "ime": "Parson Russell Terrier",
+        "znacaj": "Eager"
+    },
+    {
+        "ime": "American White Shepherd",
+        "znacaj": "Eager"
+    },
+    {
+        "ime": "Australian Kelpie",
+        "znacaj": "Eager"
+    },
+    {
+        "ime": "Cesky Fousek",
+        "znacaj": "Eager"
+    },
+    {
+        "ime": "French Bulldog",
+        "znacaj": "Easygoing"
+    },
+    {
+        "ime": "Maltese",
+        "znacaj": "Easygoing"
+    },
+    {
+        "ime": "Black and Tan Coonhound",
+        "znacaj": "Easygoing"
+    },
+    {
+        "ime": "Australian Bulldog",
+        "znacaj": "Easygoing"
+    },
+    {
+        "ime": "Austrian Black and Tan Hound",
+        "znacaj": "Elegant"
+    },
+    {
+        "ime": "Caravan Hound",
+        "znacaj": "Elegant"
+    },
+    {
+        "ime": "Labrador Retriever",
+        "znacaj": "Energetic"
+    },
+    {
+        "ime": "Yorkshire Terrier",
+        "znacaj": "Energetic"
+    },
+    {
+        "ime": "Boxer",
+        "znacaj": "Energetic"
+    },
+    {
+        "ime": "Doberman Pinscher",
+        "znacaj": "Energetic"
+    },
+    {
+        "ime": "English Springer Spaniel",
+        "znacaj": "Energetic"
+    },
+    {
+        "ime": "Vizsla",
+        "znacaj": "Energetic"
+    },
+    {
+        "ime": "Weimaraner",
+        "znacaj": "Energetic"
+    },
+    {
+        "ime": "Miniature American Shepherd",
+        "znacaj": "Energetic"
+    },
+    {
+        "ime": "Border Collie",
+        "znacaj": "Energetic"
+    },
+    {
+        "ime": "Soft Coated Wheaten Terrier",
+        "znacaj": "Energetic"
+    },
+    {
+        "ime": "Papillon",
+        "znacaj": "Energetic"
+    },
+    {
+        "ime": "Australian Cattle Dog",
+        "znacaj": "Energetic"
+    },
+    {
+        "ime": "Dalmatian",
+        "znacaj": "Energetic"
+    },
+    {
+        "ime": "Miniature Pinscher",
+        "znacaj": "Energetic"
+    },
+    {
+        "ime": "Irish Setter",
+        "znacaj": "Energetic"
+    },
+    {
+        "ime": "Jack Russell Terrier",
+        "znacaj": "Energetic"
+    },
+    {
+        "ime": "Basenji",
+        "znacaj": "Energetic"
+    },
+    {
+        "ime": "Nova Scotia Duck Tolling Retriever",
+        "znacaj": "Energetic"
+    },
+    {
+        "ime": "English Setter",
+        "znacaj": "Energetic"
+    },
+    {
+        "ime": "Boykin Spaniel",
+        "znacaj": "Energetic"
+    },
+    {
+        "ime": "Tibetan Terrier",
+        "znacaj": "Energetic"
+    },
+    {
+        "ime": "Belgian Tervuren",
+        "znacaj": "Energetic"
+    },
+    {
+        "ime": "Norwich Terrier",
+        "znacaj": "Energetic"
+    },
+    {
+        "ime": "Miniature Bull Terrier",
+        "znacaj": "Energetic"
+    },
+    {
+        "ime": "Black Russian Terrier",
+        "znacaj": "Energetic"
+    },
+    {
+        "ime": "American Eskimo Dog (Toy, Miniature, Standard)",
+        "znacaj": "Energetic"
+    },
+    {
+        "ime": "Parson Russell Terrier",
+        "znacaj": "Energetic"
+    },
+    {
+        "ime": "Redbone Coonhound",
+        "znacaj": "Energetic"
+    },
+    {
+        "ime": "Puli",
+        "znacaj": "Energetic"
+    },
+    {
+        "ime": "Icelandic Sheepdog",
+        "znacaj": "Energetic"
+    },
+    {
+        "ime": "Berger Picard",
+        "znacaj": "Energetic"
+    },
+    {
+        "ime": "Swedish Vallhund",
+        "znacaj": "Energetic"
+    },
+    {
+        "ime": "Bedlington Terrier",
+        "znacaj": "Energetic"
+    },
+    {
+        "ime": "Irish Red and White Setter",
+        "znacaj": "Energetic"
+    },
+    {
+        "ime": "American Water Spaniel",
+        "znacaj": "Energetic"
+    },
+    {
+        "ime": "Norwegian Buhund",
+        "znacaj": "Energetic"
+    },
+    {
+        "ime": "American English Coonhound",
+        "znacaj": "Energetic"
+    },
+    {
+        "ime": "Pyrenean Shepherd",
+        "znacaj": "Energetic"
+    },
+    {
+        "ime": "Norwegian Lundehund",
+        "znacaj": "Energetic"
+    },
+    {
+        "ime": "Aidi",
+        "znacaj": "Energetic"
+    },
+    {
+        "ime": "Appenzeller Sennenhund",
+        "znacaj": "Energetic"
+    },
+    {
+        "ime": "Ariege Pointer",
+        "znacaj": "Energetic"
+    },
+    {
+        "ime": "Australian Kelpie",
+        "znacaj": "Energetic"
+    },
+    {
+        "ime": "Australian Stumpy Tail Cattle Dog",
+        "znacaj": "Energetic"
+    },
+    {
+        "ime": "Belgian Shepherd Laekenois",
+        "znacaj": "Energetic"
+    },
+    {
+        "ime": "Catahoula Leopard Dog",
+        "znacaj": "Energetic"
+    },
+    {
+        "ime": "Croatian Sheepdog",
+        "znacaj": "Energetic"
+    },
+    {
+        "ime": "Dunker",
+        "znacaj": "Energetic"
+    },
+    {
+        "ime": "English Shepherd",
+        "znacaj": "Energetic"
+    },
+    {
+        "ime": "Finnish Hound",
+        "znacaj": "Energetic"
+    },
+    {
+        "ime": "French Spaniel",
+        "znacaj": "Energetic"
+    },
+    {
+        "ime": "Goldendoodle",
+        "znacaj": "Energetic"
+    },
+    {
+        "ime": "Greenland Dog",
+        "znacaj": "Energetic"
+    },
+    {
+        "ime": "Griffon bleu de Gascogne",
+        "znacaj": "Energetic"
+    },
+    {
+        "ime": "Hamilton Hound",
+        "znacaj": "Energetic"
+    },
+    {
+        "ime": "J&auml;mthund",
+        "znacaj": "Energetic"
+    },
+    {
+        "ime": "Lapponian Herder",
+        "znacaj": "Energetic"
+    },
+    {
+        "ime": "Mudi",
+        "znacaj": "Energetic"
+    },
+    {
+        "ime": "Patterdale Terrier",
+        "znacaj": "Energetic"
+    },
+    {
+        "ime": "Picardy Spaniel",
+        "znacaj": "Energetic"
+    },
+    {
+        "ime": "Saarloos wolfdog",
+        "znacaj": "Energetic"
+    },
+    {
+        "ime": "Shikoku dog",
+        "znacaj": "Energetic"
+    },
+    {
+        "ime": "Smaland Hound",
+        "znacaj": "Energetic"
+    },
+    {
+        "ime": "Alaskan Husky",
+        "znacaj": "Energetic"
+    },
+    {
+        "ime": "American Bulldog",
+        "znacaj": "Energetic"
+    },
+    {
+        "ime": "Chizer",
+        "znacaj": "Energetic"
+    },
+    {
+        "ime": "Cotonese",
+        "znacaj": "Energetic"
+    },
+    {
+        "ime": "Dorgi",
+        "znacaj": "Energetic"
+    },
+    {
+        "ime": "Ibizan Hound",
+        "znacaj": "Engaging"
+    },
+    {
+        "ime": "Ariegeois",
+        "znacaj": "Enterprising"
+    },
+    {
+        "ime": "Bolognese dog",
+        "znacaj": "Enterprising"
+    },
+    {
+        "ime": "American Cocker Spaniel",
+        "znacaj": "Even Tempered"
+    },
+    {
+        "ime": "Bloodhound",
+        "znacaj": "Even Tempered"
+    },
+    {
+        "ime": "Dogue de Bordeaux",
+        "znacaj": "Even Tempered"
+    },
+    {
+        "ime": "Border Terrier",
+        "znacaj": "Even Tempered"
+    },
+    {
+        "ime": "Pointer",
+        "znacaj": "Even Tempered"
+    },
+    {
+        "ime": "Miniature Bull Terrier",
+        "znacaj": "Even Tempered"
+    },
+    {
+        "ime": "Black and Tan Coonhound",
+        "znacaj": "Even Tempered"
+    },
+    {
+        "ime": "German Pinscher",
+        "znacaj": "Even Tempered"
+    },
+    {
+        "ime": "Australian Terrier",
+        "znacaj": "Even Tempered"
+    },
+    {
+        "ime": "Sealyham Terrier",
+        "znacaj": "Even Tempered"
+    },
+    {
+        "ime": "Greyhound",
+        "znacaj": "Even Tempered"
+    },
+    {
+        "ime": "Polish Lowland Sheepdog",
+        "znacaj": "Even Tempered"
+    },
+    {
+        "ime": "Drever",
+        "znacaj": "Even Tempered"
+    },
+    {
+        "ime": "East Siberian Laika",
+        "znacaj": "Even Tempered"
+    },
+    {
+        "ime": "Eurasier",
+        "znacaj": "Even Tempered"
+    },
+    {
+        "ime": "Francais Blanc et Noir",
+        "znacaj": "Even Tempered"
+    },
+    {
+        "ime": "Hamilton Hound",
+        "znacaj": "Even Tempered"
+    },
+    {
+        "ime": "Hovawart",
+        "znacaj": "Even Tempered"
+    },
+    {
+        "ime": "Pudelpointer",
+        "znacaj": "Even Tempered"
+    },
+    {
+        "ime": "Russian Tsvetnaya Bolonka",
+        "znacaj": "Even-tempered"
+    },
+    {
+        "ime": "Andalusian Hound",
+        "znacaj": "Excellent sight"
+    },
+    {
+        "ime": "Pomeranian",
+        "znacaj": "Extroverted"
+    },
+    {
+        "ime": "Petit Basset Griffon Vendeen",
+        "znacaj": "Extroverted"
+    },
+    {
+        "ime": "Poodle (Standard)",
+        "znacaj": "Faithful"
+    },
+    {
+        "ime": "Bernese Mountain Dog",
+        "znacaj": "Faithful"
+    },
+    {
+        "ime": "Shiba Inu",
+        "znacaj": "Faithful"
+    },
+    {
+        "ime": "Soft Coated Wheaten Terrier",
+        "znacaj": "Faithful"
+    },
+    {
+        "ime": "English Cocker Spaniel",
+        "znacaj": "Faithful"
+    },
+    {
+        "ime": "Schipperke",
+        "znacaj": "Faithful"
+    },
+    {
+        "ime": "Briard",
+        "znacaj": "Faithful"
+    },
+    {
+        "ime": "Puli",
+        "znacaj": "Faithful"
+    },
+    {
+        "ime": "Finnish Lapphund",
+        "znacaj": "Faithful"
+    },
+    {
+        "ime": "Sloughi",
+        "znacaj": "Faithful"
+    },
+    {
+        "ime": "Miniature Poodle",
+        "znacaj": "Faithful"
+    },
+    {
+        "ime": "Toy Poodle",
+        "znacaj": "Faithful"
+    },
+    {
+        "ime": "Hokkaido Dog",
+        "znacaj": "Faithful"
+    },
+    {
+        "ime": "Korean Jindo",
+        "znacaj": "Faithful"
+    },
+    {
+        "ime": "Kishu Ken",
+        "znacaj": "Faithful"
+    },
+    {
+        "ime": "Bouvier des Flandres",
+        "znacaj": "Familial"
+    },
+    {
+        "ime": "German Pinscher",
+        "znacaj": "Familial"
+    },
+    {
+        "ime": "Redbone Coonhound",
+        "znacaj": "Familial"
+    },
+    {
+        "ime": "Field Spaniel",
+        "znacaj": "Familial"
+    },
+    {
+        "ime": "Lowchen",
+        "znacaj": "Familial"
+    },
+    {
+        "ime": "Australian Bulldog",
+        "znacaj": "Familial"
+    },
+    {
+        "ime": "German Longhaired Pointer",
+        "znacaj": "Familial"
+    },
+    {
+        "ime": "Northern Inuit Dog",
+        "znacaj": "Familial"
+    },
+    {
+        "ime": "Silken Windhound",
+        "znacaj": "Familial"
+    },
+    {
+        "ime": "Thai Ridgeback",
+        "znacaj": "Familial"
+    },
+    {
+        "ime": "Weimaraner",
+        "znacaj": "Fast"
+    },
+    {
+        "ime": "Grand Basset Griffon Vendeen",
+        "znacaj": "Fast"
+    },
+    {
+        "ime": "Rottweiler",
+        "znacaj": "Fearless"
+    },
+    {
+        "ime": "Boxer",
+        "znacaj": "Fearless"
+    },
+    {
+        "ime": "Doberman Pinscher",
+        "znacaj": "Fearless"
+    },
+    {
+        "ime": "Miniature Schnauzer",
+        "znacaj": "Fearless"
+    },
+    {
+        "ime": "Shiba Inu",
+        "znacaj": "Fearless"
+    },
+    {
+        "ime": "Great Pyrenees",
+        "znacaj": "Fearless"
+    },
+    {
+        "ime": "Cairn Terrier",
+        "znacaj": "Fearless"
+    },
+    {
+        "ime": "Greater Swiss Mountain Dog",
+        "znacaj": "Fearless"
+    },
+    {
+        "ime": "Staffordshire Bull Terrier",
+        "znacaj": "Fearless"
+    },
+    {
+        "ime": "Border Terrier",
+        "znacaj": "Fearless"
+    },
+    {
+        "ime": "Wire Fox Terrier",
+        "znacaj": "Fearless"
+    },
+    {
+        "ime": "Leonberger",
+        "znacaj": "Fearless"
+    },
+    {
+        "ime": "Gordon Setter",
+        "znacaj": "Fearless"
+    },
+    {
+        "ime": "Neapolitan Mastiff",
+        "znacaj": "Fearless"
+    },
+    {
+        "ime": "Schipperke",
+        "znacaj": "Fearless"
+    },
+    {
+        "ime": "Smooth Fox Terrier",
+        "znacaj": "Fearless"
+    },
+    {
+        "ime": "Briard",
+        "znacaj": "Fearless"
+    },
+    {
+        "ime": "Norfolk Terrier",
+        "znacaj": "Fearless"
+    },
+    {
+        "ime": "Swedish Vallhund",
+        "znacaj": "Fearless"
+    },
+    {
+        "ime": "Sealyham Terrier",
+        "znacaj": "Fearless"
+    },
+    {
+        "ime": "Komondor",
+        "znacaj": "Fearless"
+    },
+    {
+        "ime": "Skye Terrier",
+        "znacaj": "Fearless"
+    },
+    {
+        "ime": "American White Shepherd",
+        "znacaj": "Fearless"
+    },
+    {
+        "ime": "Appenzeller Sennenhund",
+        "znacaj": "Fearless"
+    },
+    {
+        "ime": "Black Mouth Cur",
+        "znacaj": "Fearless"
+    },
+    {
+        "ime": "Czechoslovakian Wolfdog",
+        "znacaj": "Fearless"
+    },
+    {
+        "ime": "Drentse Patrijshond",
+        "znacaj": "Fearless"
+    },
+    {
+        "ime": "East Siberian Laika",
+        "znacaj": "Fearless"
+    },
+    {
+        "ime": "Plummer Terrier",
+        "znacaj": "Fearless"
+    },
+    {
+        "ime": "Tosa",
+        "znacaj": "Fearless"
+    },
+    {
+        "ime": "Slovensky Cuvac",
+        "znacaj": "Fearless"
+    },
+    {
+        "ime": "Bichon Frise",
+        "znacaj": "Feisty"
+    },
+    {
+        "ime": "Scottish Terrier",
+        "znacaj": "Feisty"
+    },
+    {
+        "ime": "Azawakh",
+        "znacaj": "Fierce"
+    },
+    {
+        "ime": "Kyi-Leo",
+        "znacaj": "Forgiving"
+    },
+    {
+        "ime": "Dunker",
+        "znacaj": "Free-spirited"
+    },
+    {
+        "ime": "Smaland Hound",
+        "znacaj": "Free-spirited"
+    },
+    {
+        "ime": "Labrador Retriever",
+        "znacaj": "Friendly"
+    },
+    {
+        "ime": "Golden Retriever",
+        "znacaj": "Friendly"
+    },
+    {
+        "ime": "Bulldog",
+        "znacaj": "Friendly"
+    },
+    {
+        "ime": "Beagle",
+        "znacaj": "Friendly"
+    },
+    {
+        "ime": "Boxer",
+        "znacaj": "Friendly"
+    },
+    {
+        "ime": "Siberian Husky",
+        "znacaj": "Friendly"
+    },
+    {
+        "ime": "Great Dane",
+        "znacaj": "Friendly"
+    },
+    {
+        "ime": "Pembroke Welsh Corgi",
+        "znacaj": "Friendly"
+    },
+    {
+        "ime": "Australian Shepherd",
+        "znacaj": "Friendly"
+    },
+    {
+        "ime": "Miniature Schnauzer",
+        "znacaj": "Friendly"
+    },
+    {
+        "ime": "Shih Tzu",
+        "znacaj": "Friendly"
+    },
+    {
+        "ime": "Boston Terrier",
+        "znacaj": "Friendly"
+    },
+    {
+        "ime": "Pomeranian",
+        "znacaj": "Friendly"
+    },
+    {
+        "ime": "Shetland Sheepdog",
+        "znacaj": "Friendly"
+    },
+    {
+        "ime": "Pug",
+        "znacaj": "Friendly"
+    },
+    {
+        "ime": "Basset Hound",
+        "znacaj": "Friendly"
+    },
+    {
+        "ime": "Collie",
+        "znacaj": "Friendly"
+    },
+    {
+        "ime": "West Highland White Terrier",
+        "znacaj": "Friendly"
+    },
+    {
+        "ime": "Belgian Malinois",
+        "znacaj": "Friendly"
+    },
+    {
+        "ime": "Akita",
+        "znacaj": "Friendly"
+    },
+    {
+        "ime": "St. Bernard (Saint Bernard)",
+        "znacaj": "Friendly"
+    },
+    {
+        "ime": "English Cocker Spaniel",
+        "znacaj": "Friendly"
+    },
+    {
+        "ime": "Papillon",
+        "znacaj": "Friendly"
+    },
+    {
+        "ime": "Airedale Terrier",
+        "znacaj": "Friendly"
+    },
+    {
+        "ime": "Samoyed",
+        "znacaj": "Friendly"
+    },
+    {
+        "ime": "Alaskan Malamute",
+        "znacaj": "Friendly"
+    },
+    {
+        "ime": "Whippet",
+        "znacaj": "Friendly"
+    },
+    {
+        "ime": "German Wirehaired Pointer",
+        "znacaj": "Friendly"
+    },
+    {
+        "ime": "Dalmatian",
+        "znacaj": "Friendly"
+    },
+    {
+        "ime": "Miniature Pinscher",
+        "znacaj": "Friendly"
+    },
+    {
+        "ime": "Lhasa Apso",
+        "znacaj": "Friendly"
+    },
+    {
+        "ime": "American Staffordshire Terrier",
+        "znacaj": "Friendly"
+    },
+    {
+        "ime": "Flat-Coated Retriever",
+        "znacaj": "Friendly"
+    },
+    {
+        "ime": "Boykin Spaniel",
+        "znacaj": "Friendly"
+    },
+    {
+        "ime": "Wire Fox Terrier",
+        "znacaj": "Friendly"
+    },
+    {
+        "ime": "Silky Terrier",
+        "znacaj": "Friendly"
+    },
+    {
+        "ime": "Welsh Terrier",
+        "znacaj": "Friendly"
+    },
+    {
+        "ime": "Spinone Italiano",
+        "znacaj": "Friendly"
+    },
+    {
+        "ime": "Toy Fox Terrier",
+        "znacaj": "Friendly"
+    },
+    {
+        "ime": "American Eskimo Dog (Toy, Miniature, Standard)",
+        "znacaj": "Friendly"
+    },
+    {
+        "ime": "Belgian Sheepdog",
+        "znacaj": "Friendly"
+    },
+    {
+        "ime": "Bluetick Coonhound",
+        "znacaj": "Friendly"
+    },
+    {
+        "ime": "Welsh Springer Spaniel",
+        "znacaj": "Friendly"
+    },
+    {
+        "ime": "Lakeland Terrier",
+        "znacaj": "Friendly"
+    },
+    {
+        "ime": "Swedish Vallhund",
+        "znacaj": "Friendly"
+    },
+    {
+        "ime": "Sealyham Terrier",
+        "znacaj": "Friendly"
+    },
+    {
+        "ime": "Wirehaired Vizsla",
+        "znacaj": "Friendly"
+    },
+    {
+        "ime": "Portuguese Podengo Pequeno",
+        "znacaj": "Friendly"
+    },
+    {
+        "ime": "Petit Basset Griffon Vendeen",
+        "znacaj": "Friendly"
+    },
+    {
+        "ime": "Sussex Spaniel",
+        "znacaj": "Friendly"
+    },
+    {
+        "ime": "American Water Spaniel",
+        "znacaj": "Friendly"
+    },
+    {
+        "ime": "Scottish Deerhound",
+        "znacaj": "Friendly"
+    },
+    {
+        "ime": "Lowchen",
+        "znacaj": "Friendly"
+    },
+    {
+        "ime": "Norwegian Buhund",
+        "znacaj": "Friendly"
+    },
+    {
+        "ime": "Skye Terrier",
+        "znacaj": "Friendly"
+    },
+    {
+        "ime": "Finnish Lapphund",
+        "znacaj": "Friendly"
+    },
+    {
+        "ime": "Chinook",
+        "znacaj": "Friendly"
+    },
+    {
+        "ime": "Harrier",
+        "znacaj": "Friendly"
+    },
+    {
+        "ime": "English Foxhound",
+        "znacaj": "Friendly"
+    },
+    {
+        "ime": "Africanis",
+        "znacaj": "Friendly"
+    },
+    {
+        "ime": "American Pit Bull Terrier",
+        "znacaj": "Friendly"
+    },
+    {
+        "ime": "Dogo Argentino",
+        "znacaj": "Friendly"
+    },
+    {
+        "ime": "Australian Kelpie",
+        "znacaj": "Friendly"
+    },
+    {
+        "ime": "Austrian Pinscher",
+        "znacaj": "Friendly"
+    },
+    {
+        "ime": "Brazilian Terrier",
+        "znacaj": "Friendly"
+    },
+    {
+        "ime": "Cockapoo",
+        "znacaj": "Friendly"
+    },
+    {
+        "ime": "Dunker",
+        "znacaj": "Friendly"
+    },
+    {
+        "ime": "Dutch Smoushond",
+        "znacaj": "Friendly"
+    },
+    {
+        "ime": "English Shepherd",
+        "znacaj": "Friendly"
+    },
+    {
+        "ime": "Finnish Hound",
+        "znacaj": "Friendly"
+    },
+    {
+        "ime": "German Longhaired Pointer",
+        "znacaj": "Friendly"
+    },
+    {
+        "ime": "Goldendoodle",
+        "znacaj": "Friendly"
+    },
+    {
+        "ime": "Griffon bleu de Gascogne",
+        "znacaj": "Friendly"
+    },
+    {
+        "ime": "Hamilton Hound",
+        "znacaj": "Friendly"
+    },
+    {
+        "ime": "Lancashire Heeler",
+        "znacaj": "Friendly"
+    },
+    {
+        "ime": "Lapponian Herder",
+        "znacaj": "Friendly"
+    },
+    {
+        "ime": "McNab",
+        "znacaj": "Friendly"
+    },
+    {
+        "ime": "Miniature Bulldog",
+        "znacaj": "Friendly"
+    },
+    {
+        "ime": "Northern Inuit Dog",
+        "znacaj": "Friendly"
+    },
+    {
+        "ime": "Olde English Bulldogge",
+        "znacaj": "Friendly"
+    },
+    {
+        "ime": "Patterdale Terrier",
+        "znacaj": "Friendly"
+    },
+    {
+        "ime": "Plummer Terrier",
+        "znacaj": "Friendly"
+    },
+    {
+        "ime": "Russian Spaniel",
+        "znacaj": "Friendly"
+    },
+    {
+        "ime": "Sapsali",
+        "znacaj": "Friendly"
+    },
+    {
+        "ime": "Schapendoes",
+        "znacaj": "Friendly"
+    },
+    {
+        "ime": "Silken Windhound",
+        "znacaj": "Friendly"
+    },
+    {
+        "ime": "Alopekis",
+        "znacaj": "Friendly"
+    },
+    {
+        "ime": "Taco Terrier",
+        "znacaj": "Friendly"
+    },
+    {
+        "ime": "Cairmal",
+        "znacaj": "Friendly"
+    },
+    {
+        "ime": "Double Doodle",
+        "znacaj": "Friendly"
+    },
+    {
+        "ime": "Maremma Sheepdog",
+        "znacaj": "Friendly"
+    },
+    {
+        "ime": "Lucas Terrier",
+        "znacaj": "Friendly"
+    },
+    {
+        "ime": "Shichon",
+        "znacaj": "Friendly"
+    },
+    {
+        "ime": "Moscow Watchdog",
+        "znacaj": "Friendly"
+    },
+    {
+        "ime": "Stabyhoun",
+        "znacaj": "Friendly"
+    },
+    {
+        "ime": "Puggle",
+        "znacaj": "Friendly"
+    },
+    {
+        "ime": "Russian Tsvetnaya Bolonka",
+        "znacaj": "Friendly"
+    },
+    {
+        "ime": "Affenpinscher",
+        "znacaj": "Fun-loving"
+    },
+    {
+        "ime": "Dandie Dinmont Terrier",
+        "znacaj": "Fun-loving"
+    },
+    {
+        "ime": "Lurcher",
+        "znacaj": "Fun-loving"
+    },
+    {
+        "ime": "Cairn Terrier",
+        "znacaj": "Gay"
+    },
+    {
+        "ime": "Gordon Setter",
+        "znacaj": "Gay"
+    },
+    {
+        "ime": "Skye Terrier",
+        "znacaj": "Gay"
+    },
+    {
+        "ime": "Volpino Italiano",
+        "znacaj": "Gay"
+    },
+    {
+        "ime": "Irish Wolfhound",
+        "znacaj": "Generous"
+    },
+    {
+        "ime": "Landseer",
+        "znacaj": "Generous"
+    },
+    {
+        "ime": "Labrador Retriever",
+        "znacaj": "Gentle"
+    },
+    {
+        "ime": "Beagle",
+        "znacaj": "Gentle"
+    },
+    {
+        "ime": "Siberian Husky",
+        "znacaj": "Gentle"
+    },
+    {
+        "ime": "Great Dane",
+        "znacaj": "Gentle"
+    },
+    {
+        "ime": "Cavalier King Charles Spaniel",
+        "znacaj": "Gentle"
+    },
+    {
+        "ime": "Shih Tzu",
+        "znacaj": "Gentle"
+    },
+    {
+        "ime": "Boston Terrier",
+        "znacaj": "Gentle"
+    },
+    {
+        "ime": "Havanese",
+        "znacaj": "Gentle"
+    },
+    {
+        "ime": "Shetland Sheepdog",
+        "znacaj": "Gentle"
+    },
+    {
+        "ime": "Vizsla",
+        "znacaj": "Gentle"
+    },
+    {
+        "ime": "Pug",
+        "znacaj": "Gentle"
+    },
+    {
+        "ime": "Maltese",
+        "znacaj": "Gentle"
+    },
+    {
+        "ime": "Basset Hound",
+        "znacaj": "Gentle"
+    },
+    {
+        "ime": "Collie",
+        "znacaj": "Gentle"
+    },
+    {
+        "ime": "Bichon Frise",
+        "znacaj": "Gentle"
+    },
+    {
+        "ime": "St. Bernard (Saint Bernard)",
+        "znacaj": "Gentle"
+    },
+    {
+        "ime": "Bloodhound",
+        "znacaj": "Gentle"
+    },
+    {
+        "ime": "Whippet",
+        "znacaj": "Gentle"
+    },
+    {
+        "ime": "Wirehaired Pointing Griffon",
+        "znacaj": "Gentle"
+    },
+    {
+        "ime": "Great Pyrenees",
+        "znacaj": "Gentle"
+    },
+    {
+        "ime": "Cardigan Welsh Corgi",
+        "znacaj": "Gentle"
+    },
+    {
+        "ime": "Bouvier des Flandres",
+        "znacaj": "Gentle"
+    },
+    {
+        "ime": "Nova Scotia Duck Tolling Retriever",
+        "znacaj": "Gentle"
+    },
+    {
+        "ime": "English Setter",
+        "znacaj": "Gentle"
+    },
+    {
+        "ime": "Tibetan Terrier",
+        "znacaj": "Gentle"
+    },
+    {
+        "ime": "Borzoi",
+        "znacaj": "Gentle"
+    },
+    {
+        "ime": "Spinone Italiano",
+        "znacaj": "Gentle"
+    },
+    {
+        "ime": "Kerry Blue Terrier",
+        "znacaj": "Gentle"
+    },
+    {
+        "ime": "Black and Tan Coonhound",
+        "znacaj": "Gentle"
+    },
+    {
+        "ime": "English Toy Spaniel",
+        "znacaj": "Gentle"
+    },
+    {
+        "ime": "Clumber Spaniel",
+        "znacaj": "Gentle"
+    },
+    {
+        "ime": "Greyhound",
+        "znacaj": "Gentle"
+    },
+    {
+        "ime": "Glen of Imaal Terrier",
+        "znacaj": "Gentle"
+    },
+    {
+        "ime": "Komondor",
+        "znacaj": "Gentle"
+    },
+    {
+        "ime": "Scottish Deerhound",
+        "znacaj": "Gentle"
+    },
+    {
+        "ime": "Cirneco dell'Etna",
+        "znacaj": "Gentle"
+    },
+    {
+        "ime": "English Foxhound",
+        "znacaj": "Gentle"
+    },
+    {
+        "ime": "Spanish Greyhound",
+        "znacaj": "Gentle"
+    },
+    {
+        "ime": "Blue Picardy Spaniel",
+        "znacaj": "Gentle"
+    },
+    {
+        "ime": "Brazilian Terrier",
+        "znacaj": "Gentle"
+    },
+    {
+        "ime": "Carolina Dog",
+        "znacaj": "Gentle"
+    },
+    {
+        "ime": "Catahoula Leopard Dog",
+        "znacaj": "Gentle"
+    },
+    {
+        "ime": "German Longhaired Pointer",
+        "znacaj": "Gentle"
+    },
+    {
+        "ime": "Polish Hunting Dog",
+        "znacaj": "Gentle"
+    },
+    {
+        "ime": "Miniature Bulldog",
+        "znacaj": "Gentle"
+    },
+    {
+        "ime": "Mudi",
+        "znacaj": "Gentle"
+    },
+    {
+        "ime": "New Guinea Singing Dog",
+        "znacaj": "Gentle"
+    },
+    {
+        "ime": "Perro de Presa Canario",
+        "znacaj": "Gentle"
+    },
+    {
+        "ime": "Prazsky Krysarik",
+        "znacaj": "Gentle"
+    },
+    {
+        "ime": "Sapsali",
+        "znacaj": "Gentle"
+    },
+    {
+        "ime": "Shiloh Shepherd dog",
+        "znacaj": "Gentle"
+    },
+    {
+        "ime": "Pont-Audemer Spaniel",
+        "znacaj": "Gentle"
+    },
+    {
+        "ime": "American Bulldog",
+        "znacaj": "Gentle"
+    },
+    {
+        "ime": "Basset Artesien Normand",
+        "znacaj": "Gentle"
+    },
+    {
+        "ime": "Chizer",
+        "znacaj": "Gentle"
+    },
+    {
+        "ime": "King Shepherd",
+        "znacaj": "Gentle"
+    },
+    {
+        "ime": "Cockalier",
+        "znacaj": "Gentle"
+    },
+    {
+        "ime": "Dorkie",
+        "znacaj": "Gentle"
+    },
+    {
+        "ime": "Double Doodle",
+        "znacaj": "Gentle"
+    },
+    {
+        "ime": "Shichon",
+        "znacaj": "Gentle"
+    },
+    {
+        "ime": "Beaglier",
+        "znacaj": "Good natured"
+    },
+    {
+        "ime": "Rottweiler",
+        "znacaj": "Good-natured"
+    },
+    {
+        "ime": "Australian Shepherd",
+        "znacaj": "Good-natured"
+    },
+    {
+        "ime": "Greater Swiss Mountain Dog",
+        "znacaj": "Good-natured"
+    },
+    {
+        "ime": "Pekingese",
+        "znacaj": "Good-natured"
+    },
+    {
+        "ime": "Standard Schnauzer",
+        "znacaj": "Good-natured"
+    },
+    {
+        "ime": "American Mastiff",
+        "znacaj": "Good-natured"
+    },
+    {
+        "ime": "Austrian Black and Tan Hound",
+        "znacaj": "Good-natured"
+    },
+    {
+        "ime": "Kromfohrlander",
+        "znacaj": "Good-natured"
+    },
+    {
+        "ime": "Russian Spaniel",
+        "znacaj": "Good-natured"
+    },
+    {
+        "ime": "Serbian Hound",
+        "znacaj": "Good-natured"
+    },
+    {
+        "ime": "Transylvanian Hound",
+        "znacaj": "Good-natured"
+    },
+    {
+        "ime": "Skye Terrier",
+        "znacaj": "Good-tempered"
+    },
+    {
+        "ime": "Caravan Hound",
+        "znacaj": "Graceful"
+    },
+    {
+        "ime": "Clumber Spaniel",
+        "znacaj": "Great-hearted"
+    },
+    {
+        "ime": "Shih Tzu",
+        "znacaj": "Happy"
+    },
+    {
+        "ime": "Chesapeake Bay Retriever",
+        "znacaj": "Happy"
+    },
+    {
+        "ime": "Papillon",
+        "znacaj": "Happy"
+    },
+    {
+        "ime": "Chinese Crested",
+        "znacaj": "Happy"
+    },
+    {
+        "ime": "Afghan Hound",
+        "znacaj": "Happy"
+    },
+    {
+        "ime": "Parson Russell Terrier",
+        "znacaj": "Happy"
+    },
+    {
+        "ime": "Tibetan Spaniel",
+        "znacaj": "Happy"
+    },
+    {
+        "ime": "Norfolk Terrier",
+        "znacaj": "Happy"
+    },
+    {
+        "ime": "English Toy Spaniel",
+        "znacaj": "Happy"
+    },
+    {
+        "ime": "Petit Basset Griffon Vendeen",
+        "znacaj": "Happy"
+    },
+    {
+        "ime": "Lowchen",
+        "znacaj": "Happy"
+    },
+    {
+        "ime": "Finnish Spitz",
+        "znacaj": "Happy"
+    },
+    {
+        "ime": "Ariegeois",
+        "znacaj": "Happy"
+    },
+    {
+        "ime": "Basset Bleu de Gascogne",
+        "znacaj": "Happy"
+    },
+    {
+        "ime": "Small Munsterlander",
+        "znacaj": "Happy"
+    },
+    {
+        "ime": "Belgian Malinois",
+        "znacaj": "Hard-working"
+    },
+    {
+        "ime": "Belgian Sheepdog",
+        "znacaj": "Hard-working"
+    },
+    {
+        "ime": "Ariegeois",
+        "znacaj": "Hard-working"
+    },
+    {
+        "ime": "Cesky Fousek",
+        "znacaj": "Hard-working"
+    },
+    {
+        "ime": "McNab",
+        "znacaj": "Hard-working"
+    },
+    {
+        "ime": "Pont-Audemer Spaniel",
+        "znacaj": "Hard-working"
+    },
+    {
+        "ime": "West Highland White Terrier",
+        "znacaj": "Hardy"
+    },
+    {
+        "ime": "Papillon",
+        "znacaj": "Hardy"
+    },
+    {
+        "ime": "Cairn Terrier",
+        "znacaj": "Hardy"
+    },
+    {
+        "ime": "Norwegian Elkhound",
+        "znacaj": "Hardy"
+    },
+    {
+        "ime": "Norwich Terrier",
+        "znacaj": "Hardy"
+    },
+    {
+        "ime": "Black Russian Terrier",
+        "znacaj": "Hardy"
+    },
+    {
+        "ime": "Bearded Collie",
+        "znacaj": "Hardy"
+    },
+    {
+        "ime": "Icelandic Sheepdog",
+        "znacaj": "Hardy"
+    },
+    {
+        "ime": "Portuguese Podengo Pequeno",
+        "znacaj": "Hardy"
+    },
+    {
+        "ime": "Black Norwegian Elkhound",
+        "znacaj": "Hardy"
+    },
+    {
+        "ime": "Pont-Audemer Spaniel",
+        "znacaj": "Hardy"
+    },
+    {
+        "ime": "Andalusian Hound",
+        "znacaj": "Hearing"
+    },
+    {
+        "ime": "Deutsche Bracke",
+        "znacaj": "High stationed"
+    },
+    {
+        "ime": "Mountain Feist",
+        "znacaj": "High-spirited"
+    },
+    {
+        "ime": "American English Coonhound",
+        "znacaj": "High-strung"
+    },
+    {
+        "ime": "Andalusian Hound",
+        "znacaj": "Hunting"
+    },
+    {
+        "ime": "Central Asian Ovtcharka",
+        "znacaj": "Imperturbable"
+    },
+    {
+        "ime": "Portuguese Water Dog",
+        "znacaj": "Impetuous"
+    },
+    {
+        "ime": "Beagle",
+        "znacaj": "Independent"
+    },
+    {
+        "ime": "Rottweiler",
+        "znacaj": "Independent"
+    },
+    {
+        "ime": "Yorkshire Terrier",
+        "znacaj": "Independent"
+    },
+    {
+        "ime": "Brittany",
+        "znacaj": "Independent"
+    },
+    {
+        "ime": "St. Bernard (Saint Bernard)",
+        "znacaj": "Independent"
+    },
+    {
+        "ime": "Scottish Terrier",
+        "znacaj": "Independent"
+    },
+    {
+        "ime": "Chinese Shar-Pei",
+        "znacaj": "Independent"
+    },
+    {
+        "ime": "Irish Setter",
+        "znacaj": "Independent"
+    },
+    {
+        "ime": "Chow Chow",
+        "znacaj": "Independent"
+    },
+    {
+        "ime": "Anatolian Shepherd Dog",
+        "znacaj": "Independent"
+    },
+    {
+        "ime": "Borzoi",
+        "znacaj": "Independent"
+    },
+    {
+        "ime": "Japanese Chin",
+        "znacaj": "Independent"
+    },
+    {
+        "ime": "Welsh Terrier",
+        "znacaj": "Independent"
+    },
+    {
+        "ime": "Schipperke",
+        "znacaj": "Independent"
+    },
+    {
+        "ime": "American Eskimo Dog (Toy, Miniature, Standard)",
+        "znacaj": "Independent"
+    },
+    {
+        "ime": "Tibetan Spaniel",
+        "znacaj": "Independent"
+    },
+    {
+        "ime": "Lakeland Terrier",
+        "znacaj": "Independent"
+    },
+    {
+        "ime": "Redbone Coonhound",
+        "znacaj": "Independent"
+    },
+    {
+        "ime": "Entlebucher Mountain Dog",
+        "znacaj": "Independent"
+    },
+    {
+        "ime": "Kuvasz",
+        "znacaj": "Independent"
+    },
+    {
+        "ime": "Petit Basset Griffon Vendeen",
+        "znacaj": "Independent"
+    },
+    {
+        "ime": "Komondor",
+        "znacaj": "Independent"
+    },
+    {
+        "ime": "Ibizan Hound",
+        "znacaj": "Independent"
+    },
+    {
+        "ime": "Curly-Coated Retriever",
+        "znacaj": "Independent"
+    },
+    {
+        "ime": "Finnish Spitz",
+        "znacaj": "Independent"
+    },
+    {
+        "ime": "Dandie Dinmont Terrier",
+        "znacaj": "Independent"
+    },
+    {
+        "ime": "American Foxhound",
+        "znacaj": "Independent"
+    },
+    {
+        "ime": "Sloughi",
+        "znacaj": "Independent"
+    },
+    {
+        "ime": "Miniature Shar Pei",
+        "znacaj": "Independent"
+    },
+    {
+        "ime": "Kangal Dog",
+        "znacaj": "Independent"
+    },
+    {
+        "ime": "Africanis",
+        "znacaj": "Independent"
+    },
+    {
+        "ime": "Akbash Dog",
+        "znacaj": "Independent"
+    },
+    {
+        "ime": "Ariege Pointer",
+        "znacaj": "Independent"
+    },
+    {
+        "ime": "Briquet Griffon Vendeen",
+        "znacaj": "Independent"
+    },
+    {
+        "ime": "Bulgarian Shepherd Dog",
+        "znacaj": "Independent"
+    },
+    {
+        "ime": "Caravan Hound",
+        "znacaj": "Independent"
+    },
+    {
+        "ime": "Catahoula Leopard Dog",
+        "znacaj": "Independent"
+    },
+    {
+        "ime": "Central Asian Ovtcharka",
+        "znacaj": "Independent"
+    },
+    {
+        "ime": "English Shepherd",
+        "znacaj": "Independent"
+    },
+    {
+        "ime": "Finnish Hound",
+        "znacaj": "Independent"
+    },
+    {
+        "ime": "Greenland Dog",
+        "znacaj": "Independent"
+    },
+    {
+        "ime": "Griffon bleu de Gascogne",
+        "znacaj": "Independent"
+    },
+    {
+        "ime": "J&auml;mthund",
+        "znacaj": "Independent"
+    },
+    {
+        "ime": "Karelian Bear Dog",
+        "znacaj": "Independent"
+    },
+    {
+        "ime": "Pudelpointer",
+        "znacaj": "Independent"
+    },
+    {
+        "ime": "Rafeiro do Alentejo",
+        "znacaj": "Independent"
+    },
+    {
+        "ime": "Saarloos wolfdog",
+        "znacaj": "Independent"
+    },
+    {
+        "ime": "Sarplaninac",
+        "znacaj": "Independent"
+    },
+    {
+        "ime": "Thai Ridgeback",
+        "znacaj": "Independent"
+    },
+    {
+        "ime": "Bull Arab",
+        "znacaj": "Independent"
+    },
+    {
+        "ime": "Chippiparai",
+        "znacaj": "Independent"
+    },
+    {
+        "ime": "Majestic Tree Hound",
+        "znacaj": "Independent"
+    },
+    {
+        "ime": "Mal-Shi",
+        "znacaj": "Independent"
+    },
+    {
+        "ime": "Brussels Griffon",
+        "znacaj": "Inquisitive"
+    },
+    {
+        "ime": "Rat Terrier",
+        "znacaj": "Inquisitive"
+    },
+    {
+        "ime": "Silky Terrier",
+        "znacaj": "Inquisitive"
+    },
+    {
+        "ime": "American Hairless Terrier",
+        "znacaj": "Inquisitive"
+    },
+    {
+        "ime": "Icelandic Sheepdog",
+        "znacaj": "Inquisitive"
+    },
+    {
+        "ime": "Irish Water Spaniel",
+        "znacaj": "Inquisitive"
+    },
+    {
+        "ime": "Patterdale Terrier",
+        "znacaj": "Inquisitive"
+    },
+    {
+        "ime": "Seppala Siberian Sleddog",
+        "znacaj": "Inquisitive"
+    },
+    {
+        "ime": "Poodle (Standard)",
+        "znacaj": "Instinctual"
+    },
+    {
+        "ime": "Miniature Poodle",
+        "znacaj": "Instinctual"
+    },
+    {
+        "ime": "Toy Poodle",
+        "znacaj": "Instinctual"
+    },
+    {
+        "ime": "Labrador Retriever",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "German Shepherd",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "Golden Retriever",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "Beagle",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "Poodle (Standard)",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "Rottweiler",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "Yorkshire Terrier",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "German Shorthaired Pointer",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "Boxer",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "Siberian Husky",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "Great Dane",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "Pembroke Welsh Corgi",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "Doberman Pinscher",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "Australian Shepherd",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "Miniature Schnauzer",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "Cavalier King Charles Spaniel",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "Shih Tzu",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "Boston Terrier",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "Pomeranian",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "Havanese",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "Shetland Sheepdog",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "Bernese Mountain Dog",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "Brittany",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "English Springer Spaniel",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "Mastiff",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "American Cocker Spaniel",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "Vizsla",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "Pug",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "Chihuahua",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "Maltese",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "Weimaraner",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "Miniature American Shepherd",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "Newfoundland",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "Border Collie",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "Collie",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "Rhodesian Ridgeback",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "West Highland White Terrier",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "Chesapeake Bay Retriever",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "Bichon Frise",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "Akita",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "St. Bernard (Saint Bernard)",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "Soft Coated Wheaten Terrier",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "English Cocker Spaniel",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "Papillon",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "Portuguese Water Dog",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "Airedale Terrier",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "Australian Cattle Dog",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "Samoyed",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "Whippet",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "German Wirehaired Pointer",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "Dalmatian",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "Wirehaired Pointing Griffon",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "Old English Sheepdog",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "Italian Greyhound",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "Chow Chow",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "Lhasa Apso",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "Giant Schnauzer",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "Coton De Tulear",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "Staffordshire Bull Terrier",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "Basenji",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "Bouvier des Flandres",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "Anatolian Shepherd Dog",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "Pekingese",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "Standard Schnauzer",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "Border Terrier",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "English Setter",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "Flat-Coated Retriever",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "Boykin Spaniel",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "Borzoi",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "Belgian Tervuren",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "Norwich Terrier",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "Japanese Chin",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "Welsh Terrier",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "Toy Fox Terrier",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "Irish Terrier",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "Lagotto Romagnolo",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "American Eskimo Dog (Toy, Miniature, Standard)",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "Parson Russell Terrier",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "Tibetan Spaniel",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "Smooth Fox Terrier",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "Saluki",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "Boerboel",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "Bearded Collie",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "American Hairless Terrier",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "Briard",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "Lakeland Terrier",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "Puli",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "Berger Picard",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "Sealyham Terrier",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "Wirehaired Vizsla",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "Greyhound",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "Kuvasz",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "Pumi",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "Irish Water Spaniel",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "Ibizan Hound",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "American Water Spaniel",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "Curly-Coated Retriever",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "Skye Terrier",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "Pharaoh Hound",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "Finnish Spitz",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "American Foxhound",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "Sloughi",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "Miniature Poodle",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "Toy Poodle",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "Grand Bleu de Gascogne",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "Akbash Dog",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "Alaskan Klee Kai",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "American Pit Bull Terrier",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "Australian Bulldog",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "Australian Kelpie",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "Australian Stumpy Tail Cattle Dog",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "Barbet",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "Black Norwegian Elkhound",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "Blue Lacy",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "Bohemian Shepherd",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "Braque du Bourbonnais",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "Bulgarian Shepherd Dog",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "C&atilde;o da Serra de Aires",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "Canadian Eskimo Dog",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "Catahoula Bulldog",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "Catahoula Leopard Dog",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "Catalan Sheepdog",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "Cockapoo",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "Croatian Sheepdog",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "Danish-Swedish Farmdog",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "Drentse Patrijshond",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "East-European Shepherd",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "English Shepherd",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "Eurasier",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "French Spaniel",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "Jagdterrier",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "German Longhaired Pointer",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "Goldendoodle",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "Polish Hunting Dog",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "Large Munsterlander",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "Japanese Spitz",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "Korean Jindo",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "Kooikerhondje",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "Koolie",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "Lancashire Heeler",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "Landseer",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "Mudi",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "Small Munsterlander",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "Patterdale Terrier",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "Peruvian Inca Orchid",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "Prazsky Krysarik",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "Sarplaninac",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "Schapendoes",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "Shikoku dog",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "Spanish Mastiff",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "Tamaskan Dog",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "Thai Bangkaew Dog",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "Thai Ridgeback",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "Tosa",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "Alopekis",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "Basset Artesien Normand",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "Chizer",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "Cotonese",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "King Shepherd",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "Majestic Tree Hound",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "Cockalier",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "Dorgi",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "Dorkie",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "Double Doodle",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "Maremma Sheepdog",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "Mal-Shi",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "Shichon",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "Stabyhoun",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "Mountain Cur",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "Polish Tatra Sheepdog",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "Puggle",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "Russian Tsvetnaya Bolonka",
+        "znacaj": "Intelligent"
+    },
+    {
+        "ime": "Blue Lacy",
+        "znacaj": "Intense"
+    },
+    {
+        "ime": "American Cocker Spaniel",
+        "znacaj": "Joyful"
+    },
+    {
+        "ime": "Silky Terrier",
+        "znacaj": "Joyful"
+    },
+    {
+        "ime": "Barbet",
+        "znacaj": "Joyful"
+    },
+    {
+        "ime": "French Bulldog",
+        "znacaj": "Keen"
+    },
+    {
+        "ime": "Shiba Inu",
+        "znacaj": "Keen"
+    },
+    {
+        "ime": "Bull Terrier",
+        "znacaj": "Keen"
+    },
+    {
+        "ime": "Wire Fox Terrier",
+        "znacaj": "Keen"
+    },
+    {
+        "ime": "Austrian Black and Tan Hound",
+        "znacaj": "Keen"
+    },
+    {
+        "ime": "Brazilian Terrier",
+        "znacaj": "Keen"
+    },
+    {
+        "ime": "Cesky Fousek",
+        "znacaj": "Keen"
+    },
+    {
+        "ime": "Croatian Sheepdog",
+        "znacaj": "Keen"
+    },
+    {
+        "ime": "Drever",
+        "znacaj": "Keen"
+    },
+    {
+        "ime": "Golden Retriever",
+        "znacaj": "Kind"
+    },
+    {
+        "ime": "Giant Schnauzer",
+        "znacaj": "Kind"
+    },
+    {
+        "ime": "Pointer",
+        "znacaj": "Kind"
+    },
+    {
+        "ime": "American Foxhound",
+        "znacaj": "Kind"
+    },
+    {
+        "ime": "Black Mouth Cur",
+        "znacaj": "Kind"
+    },
+    {
+        "ime": "Braque du Bourbonnais",
+        "znacaj": "Kind"
+    },
+    {
+        "ime": "German Longhaired Pointer",
+        "znacaj": "Kind"
+    },
+    {
+        "ime": "Smaland Hound",
+        "znacaj": "Kind"
+    },
+    {
+        "ime": "Serbian Hound",
+        "znacaj": "Kind"
+    },
+    {
+        "ime": "Swedish Lapphund",
+        "znacaj": "Kind"
+    },
+    {
+        "ime": "Bull Arab",
+        "znacaj": "Kind"
+    },
+    {
+        "ime": "French Bulldog",
+        "znacaj": "Lively"
+    },
+    {
+        "ime": "Beagle",
+        "znacaj": "Lively"
+    },
+    {
+        "ime": "Dachshund (Toy, Miniature, Standard)",
+        "znacaj": "Lively"
+    },
+    {
+        "ime": "Pembroke Welsh Corgi",
+        "znacaj": "Lively"
+    },
+    {
+        "ime": "Shih Tzu",
+        "znacaj": "Lively"
+    },
+    {
+        "ime": "Boston Terrier",
+        "znacaj": "Lively"
+    },
+    {
+        "ime": "Pomeranian",
+        "znacaj": "Lively"
+    },
+    {
+        "ime": "Shetland Sheepdog",
+        "znacaj": "Lively"
+    },
+    {
+        "ime": "Chihuahua",
+        "znacaj": "Lively"
+    },
+    {
+        "ime": "Samoyed",
+        "znacaj": "Lively"
+    },
+    {
+        "ime": "Whippet",
+        "znacaj": "Lively"
+    },
+    {
+        "ime": "Irish Setter",
+        "znacaj": "Lively"
+    },
+    {
+        "ime": "Lhasa Apso",
+        "znacaj": "Lively"
+    },
+    {
+        "ime": "Chinese Crested",
+        "znacaj": "Lively"
+    },
+    {
+        "ime": "Coton De Tulear",
+        "znacaj": "Lively"
+    },
+    {
+        "ime": "Standard Schnauzer",
+        "znacaj": "Lively"
+    },
+    {
+        "ime": "Rat Terrier",
+        "znacaj": "Lively"
+    },
+    {
+        "ime": "Irish Terrier",
+        "znacaj": "Lively"
+    },
+    {
+        "ime": "Black Russian Terrier",
+        "znacaj": "Lively"
+    },
+    {
+        "ime": "Bearded Collie",
+        "znacaj": "Lively"
+    },
+    {
+        "ime": "American Hairless Terrier",
+        "znacaj": "Lively"
+    },
+    {
+        "ime": "German Pinscher",
+        "znacaj": "Lively"
+    },
+    {
+        "ime": "Berger Picard",
+        "znacaj": "Lively"
+    },
+    {
+        "ime": "Portuguese Podengo Pequeno",
+        "znacaj": "Lively"
+    },
+    {
+        "ime": "Petit Basset Griffon Vendeen",
+        "znacaj": "Lively"
+    },
+    {
+        "ime": "Pumi",
+        "znacaj": "Lively"
+    },
+    {
+        "ime": "Curly-Coated Retriever",
+        "znacaj": "Lively"
+    },
+    {
+        "ime": "Polish Lowland Sheepdog",
+        "znacaj": "Lively"
+    },
+    {
+        "ime": "Dandie Dinmont Terrier",
+        "znacaj": "Lively"
+    },
+    {
+        "ime": "Appenzeller Sennenhund",
+        "znacaj": "Lively"
+    },
+    {
+        "ime": "Austrian Pinscher",
+        "znacaj": "Lively"
+    },
+    {
+        "ime": "Basset Bleu de Gascogne",
+        "znacaj": "Lively"
+    },
+    {
+        "ime": "Belgian Shepherd Laekenois",
+        "znacaj": "Lively"
+    },
+    {
+        "ime": "C&atilde;o da Serra de Aires",
+        "znacaj": "Lively"
+    },
+    {
+        "ime": "Czechoslovakian Wolfdog",
+        "znacaj": "Lively"
+    },
+    {
+        "ime": "Danish-Swedish Farmdog",
+        "znacaj": "Lively"
+    },
+    {
+        "ime": "Griffon bleu de Gascogne",
+        "znacaj": "Lively"
+    },
+    {
+        "ime": "Japanese Terrier",
+        "znacaj": "Lively"
+    },
+    {
+        "ime": "Kooikerhondje",
+        "znacaj": "Lively"
+    },
+    {
+        "ime": "Mudi",
+        "znacaj": "Lively"
+    },
+    {
+        "ime": "Peruvian Inca Orchid",
+        "znacaj": "Lively"
+    },
+    {
+        "ime": "Portuguese Pointer",
+        "znacaj": "Lively"
+    },
+    {
+        "ime": "Prazsky Krysarik",
+        "znacaj": "Lively"
+    },
+    {
+        "ime": "Saarloos wolfdog",
+        "znacaj": "Lively"
+    },
+    {
+        "ime": "Schapendoes",
+        "znacaj": "Lively"
+    },
+    {
+        "ime": "South Russian Ovcharka",
+        "znacaj": "Lively"
+    },
+    {
+        "ime": "Serbian Hound",
+        "znacaj": "Lively"
+    },
+    {
+        "ime": "Swedish Lapphund",
+        "znacaj": "Lively"
+    },
+    {
+        "ime": "Volpino Italiano",
+        "znacaj": "Lively"
+    },
+    {
+        "ime": "West Siberian Laika",
+        "znacaj": "Lively"
+    },
+    {
+        "ime": "Alopekis",
+        "znacaj": "Lively"
+    },
+    {
+        "ime": "Chorkie",
+        "znacaj": "Lively"
+    },
+    {
+        "ime": "Shichon",
+        "znacaj": "Lively"
+    },
+    {
+        "ime": "Slovensky Cuvac",
+        "znacaj": "Lively"
+    },
+    {
+        "ime": "Norfolk Terrier",
+        "znacaj": "Lovable"
+    },
+    {
+        "ime": "Black and Tan Coonhound",
+        "znacaj": "Lovable"
+    },
+    {
+        "ime": "Mountain Feist",
+        "znacaj": "Loveable"
+    },
+    {
+        "ime": "Labrador Retriever",
+        "znacaj": "Loving"
+    },
+    {
+        "ime": "Bulldog",
+        "znacaj": "Loving"
+    },
+    {
+        "ime": "Beagle",
+        "znacaj": "Loving"
+    },
+    {
+        "ime": "Great Dane",
+        "znacaj": "Loving"
+    },
+    {
+        "ime": "Chinese Shar-Pei",
+        "znacaj": "Loving"
+    },
+    {
+        "ime": "Old English Sheepdog",
+        "znacaj": "Loving"
+    },
+    {
+        "ime": "Leonberger",
+        "znacaj": "Loving"
+    },
+    {
+        "ime": "Japanese Chin",
+        "znacaj": "Loving"
+    },
+    {
+        "ime": "Welsh Terrier",
+        "znacaj": "Loving"
+    },
+    {
+        "ime": "Miniature Bull Terrier",
+        "znacaj": "Loving"
+    },
+    {
+        "ime": "Lagotto Romagnolo",
+        "znacaj": "Loving"
+    },
+    {
+        "ime": "American Hairless Terrier",
+        "znacaj": "Loving"
+    },
+    {
+        "ime": "Treeing Walker Coonhound",
+        "znacaj": "Loving"
+    },
+    {
+        "ime": "English Toy Spaniel",
+        "znacaj": "Loving"
+    },
+    {
+        "ime": "German Pinscher",
+        "znacaj": "Loving"
+    },
+    {
+        "ime": "Wirehaired Vizsla",
+        "znacaj": "Loving"
+    },
+    {
+        "ime": "American Foxhound",
+        "znacaj": "Loving"
+    },
+    {
+        "ime": "Alapaha Blue Blood Bulldog",
+        "znacaj": "Loving"
+    },
+    {
+        "ime": "Australian Bulldog",
+        "znacaj": "Loving"
+    },
+    {
+        "ime": "Catahoula Leopard Dog",
+        "znacaj": "Loving"
+    },
+    {
+        "ime": "Cockapoo",
+        "znacaj": "Loving"
+    },
+    {
+        "ime": "French Spaniel",
+        "znacaj": "Loving"
+    },
+    {
+        "ime": "Kooikerhondje",
+        "znacaj": "Loving"
+    },
+    {
+        "ime": "Landseer",
+        "znacaj": "Loving"
+    },
+    {
+        "ime": "Miniature Bulldog",
+        "znacaj": "Loving"
+    },
+    {
+        "ime": "Olde English Bulldogge",
+        "znacaj": "Loving"
+    },
+    {
+        "ime": "Shiloh Shepherd dog",
+        "znacaj": "Loving"
+    },
+    {
+        "ime": "Thai Ridgeback",
+        "znacaj": "Loving"
+    },
+    {
+        "ime": "Alopekis",
+        "znacaj": "Loving"
+    },
+    {
+        "ime": "American Bulldog",
+        "znacaj": "Loving"
+    },
+    {
+        "ime": "Chizer",
+        "znacaj": "Loving"
+    },
+    {
+        "ime": "Cotonese",
+        "znacaj": "Loving"
+    },
+    {
+        "ime": "King Shepherd",
+        "znacaj": "Loving"
+    },
+    {
+        "ime": "Chorkie",
+        "znacaj": "Loving"
+    },
+    {
+        "ime": "Cockalier",
+        "znacaj": "Loving"
+    },
+    {
+        "ime": "Dorgi",
+        "znacaj": "Loving"
+    },
+    {
+        "ime": "Dorkie",
+        "znacaj": "Loving"
+    },
+    {
+        "ime": "Double Doodle",
+        "znacaj": "Loving"
+    },
+    {
+        "ime": "Mal-Shi",
+        "znacaj": "Loving"
+    },
+    {
+        "ime": "Shichon",
+        "znacaj": "Loving"
+    },
+    {
+        "ime": "Labrador Retriever",
+        "znacaj": "Loyal"
+    },
+    {
+        "ime": "German Shepherd",
+        "znacaj": "Loyal"
+    },
+    {
+        "ime": "Rottweiler",
+        "znacaj": "Loyal"
+    },
+    {
+        "ime": "Yorkshire Terrier",
+        "znacaj": "Loyal"
+    },
+    {
+        "ime": "Boxer",
+        "znacaj": "Loyal"
+    },
+    {
+        "ime": "Doberman Pinscher",
+        "znacaj": "Loyal"
+    },
+    {
+        "ime": "Bernese Mountain Dog",
+        "znacaj": "Loyal"
+    },
+    {
+        "ime": "Mastiff",
+        "znacaj": "Loyal"
+    },
+    {
+        "ime": "Miniature American Shepherd",
+        "znacaj": "Loyal"
+    },
+    {
+        "ime": "Newfoundland",
+        "znacaj": "Loyal"
+    },
+    {
+        "ime": "Cane Corso",
+        "znacaj": "Loyal"
+    },
+    {
+        "ime": "Border Collie",
+        "znacaj": "Loyal"
+    },
+    {
+        "ime": "Collie",
+        "znacaj": "Loyal"
+    },
+    {
+        "ime": "Rhodesian Ridgeback",
+        "znacaj": "Loyal"
+    },
+    {
+        "ime": "Bullmastiff",
+        "znacaj": "Loyal"
+    },
+    {
+        "ime": "Australian Cattle Dog",
+        "znacaj": "Loyal"
+    },
+    {
+        "ime": "Alaskan Malamute",
+        "znacaj": "Loyal"
+    },
+    {
+        "ime": "German Wirehaired Pointer",
+        "znacaj": "Loyal"
+    },
+    {
+        "ime": "Wirehaired Pointing Griffon",
+        "znacaj": "Loyal"
+    },
+    {
+        "ime": "Dogue de Bordeaux",
+        "znacaj": "Loyal"
+    },
+    {
+        "ime": "Irish Wolfhound",
+        "znacaj": "Loyal"
+    },
+    {
+        "ime": "Chow Chow",
+        "znacaj": "Loyal"
+    },
+    {
+        "ime": "Giant Schnauzer",
+        "znacaj": "Loyal"
+    },
+    {
+        "ime": "American Staffordshire Terrier",
+        "znacaj": "Loyal"
+    },
+    {
+        "ime": "Bouvier des Flandres",
+        "znacaj": "Loyal"
+    },
+    {
+        "ime": "Norwegian Elkhound",
+        "znacaj": "Loyal"
+    },
+    {
+        "ime": "Leonberger",
+        "znacaj": "Loyal"
+    },
+    {
+        "ime": "Belgian Tervuren",
+        "znacaj": "Loyal"
+    },
+    {
+        "ime": "Gordon Setter",
+        "znacaj": "Loyal"
+    },
+    {
+        "ime": "Japanese Chin",
+        "znacaj": "Loyal"
+    },
+    {
+        "ime": "Spinone Italiano",
+        "znacaj": "Loyal"
+    },
+    {
+        "ime": "Toy Fox Terrier",
+        "znacaj": "Loyal"
+    },
+    {
+        "ime": "Pointer",
+        "znacaj": "Loyal"
+    },
+    {
+        "ime": "Lagotto Romagnolo",
+        "znacaj": "Loyal"
+    },
+    {
+        "ime": "Briard",
+        "znacaj": "Loyal"
+    },
+    {
+        "ime": "Kerry Blue Terrier",
+        "znacaj": "Loyal"
+    },
+    {
+        "ime": "Welsh Springer Spaniel",
+        "znacaj": "Loyal"
+    },
+    {
+        "ime": "Manchester Terrier (Toy, Standard)",
+        "znacaj": "Loyal"
+    },
+    {
+        "ime": "Australian Terrier",
+        "znacaj": "Loyal"
+    },
+    {
+        "ime": "Clumber Spaniel",
+        "znacaj": "Loyal"
+    },
+    {
+        "ime": "Beauceron",
+        "znacaj": "Loyal"
+    },
+    {
+        "ime": "Puli",
+        "znacaj": "Loyal"
+    },
+    {
+        "ime": "Xoloitzcuintli",
+        "znacaj": "Loyal"
+    },
+    {
+        "ime": "Spanish Water Dog",
+        "znacaj": "Loyal"
+    },
+    {
+        "ime": "Bedlington Terrier",
+        "znacaj": "Loyal"
+    },
+    {
+        "ime": "Entlebucher Mountain Dog",
+        "znacaj": "Loyal"
+    },
+    {
+        "ime": "Tibetan Mastiff",
+        "znacaj": "Loyal"
+    },
+    {
+        "ime": "Irish Red and White Setter",
+        "znacaj": "Loyal"
+    },
+    {
+        "ime": "Wirehaired Vizsla",
+        "znacaj": "Loyal"
+    },
+    {
+        "ime": "Kuvasz",
+        "znacaj": "Loyal"
+    },
+    {
+        "ime": "Glen of Imaal Terrier",
+        "znacaj": "Loyal"
+    },
+    {
+        "ime": "Portuguese Podengo Pequeno",
+        "znacaj": "Loyal"
+    },
+    {
+        "ime": "Plott Hound",
+        "znacaj": "Loyal"
+    },
+    {
+        "ime": "Skye Terrier",
+        "znacaj": "Loyal"
+    },
+    {
+        "ime": "Finnish Spitz",
+        "znacaj": "Loyal"
+    },
+    {
+        "ime": "American English Coonhound",
+        "znacaj": "Loyal"
+    },
+    {
+        "ime": "American Foxhound",
+        "znacaj": "Loyal"
+    },
+    {
+        "ime": "Norwegian Lundehund",
+        "znacaj": "Loyal"
+    },
+    {
+        "ime": "Akbash Dog",
+        "znacaj": "Loyal"
+    },
+    {
+        "ime": "Alaskan Klee Kai",
+        "znacaj": "Loyal"
+    },
+    {
+        "ime": "American Pit Bull Terrier",
+        "znacaj": "Loyal"
+    },
+    {
+        "ime": "Dogo Argentino",
+        "znacaj": "Loyal"
+    },
+    {
+        "ime": "Australian Bulldog",
+        "znacaj": "Loyal"
+    },
+    {
+        "ime": "Australian Kelpie",
+        "znacaj": "Loyal"
+    },
+    {
+        "ime": "Australian Stumpy Tail Cattle Dog",
+        "znacaj": "Loyal"
+    },
+    {
+        "ime": "Bavarian Mountain Hound",
+        "znacaj": "Loyal"
+    },
+    {
+        "ime": "Black Mouth Cur",
+        "znacaj": "Loyal"
+    },
+    {
+        "ime": "Bracco Italiano",
+        "znacaj": "Loyal"
+    },
+    {
+        "ime": "Canadian Eskimo Dog",
+        "znacaj": "Loyal"
+    },
+    {
+        "ime": "Caravan Hound",
+        "znacaj": "Loyal"
+    },
+    {
+        "ime": "Carolina Dog",
+        "znacaj": "Loyal"
+    },
+    {
+        "ime": "Catahoula Bulldog",
+        "znacaj": "Loyal"
+    },
+    {
+        "ime": "Catahoula Leopard Dog",
+        "znacaj": "Loyal"
+    },
+    {
+        "ime": "Cesky Fousek",
+        "znacaj": "Loyal"
+    },
+    {
+        "ime": "Cockapoo",
+        "znacaj": "Loyal"
+    },
+    {
+        "ime": "Dingo",
+        "znacaj": "Loyal"
+    },
+    {
+        "ime": "Drentse Patrijshond",
+        "znacaj": "Loyal"
+    },
+    {
+        "ime": "Dutch Shepherd Dog",
+        "znacaj": "Loyal"
+    },
+    {
+        "ime": "East Siberian Laika",
+        "znacaj": "Loyal"
+    },
+    {
+        "ime": "East-European Shepherd",
+        "znacaj": "Loyal"
+    },
+    {
+        "ime": "Fila Brasileiro",
+        "znacaj": "Loyal"
+    },
+    {
+        "ime": "Greenland Dog",
+        "znacaj": "Loyal"
+    },
+    {
+        "ime": "J&auml;mthund",
+        "znacaj": "Loyal"
+    },
+    {
+        "ime": "Japanese Spitz",
+        "znacaj": "Loyal"
+    },
+    {
+        "ime": "Korean Jindo",
+        "znacaj": "Loyal"
+    },
+    {
+        "ime": "Karelian Bear Dog",
+        "znacaj": "Loyal"
+    },
+    {
+        "ime": "Miniature Bulldog",
+        "znacaj": "Loyal"
+    },
+    {
+        "ime": "Perro de Presa Mallorquin",
+        "znacaj": "Loyal"
+    },
+    {
+        "ime": "Rajapalayam",
+        "znacaj": "Loyal"
+    },
+    {
+        "ime": "Russian Toy",
+        "znacaj": "Loyal"
+    },
+    {
+        "ime": "Sapsali",
+        "znacaj": "Loyal"
+    },
+    {
+        "ime": "Shikoku dog",
+        "znacaj": "Loyal"
+    },
+    {
+        "ime": "Shiloh Shepherd dog",
+        "znacaj": "Loyal"
+    },
+    {
+        "ime": "Smaland Hound",
+        "znacaj": "Loyal"
+    },
+    {
+        "ime": "Thai Ridgeback",
+        "znacaj": "Loyal"
+    },
+    {
+        "ime": "Transylvanian Hound",
+        "znacaj": "Loyal"
+    },
+    {
+        "ime": "Alopekis",
+        "znacaj": "Loyal"
+    },
+    {
+        "ime": "Beagle-Harrier",
+        "znacaj": "Loyal"
+    },
+    {
+        "ime": "Beaglier",
+        "znacaj": "Loyal"
+    },
+    {
+        "ime": "Bolognese dog",
+        "znacaj": "Loyal"
+    },
+    {
+        "ime": "Chippiparai",
+        "znacaj": "Loyal"
+    },
+    {
+        "ime": "Chizer",
+        "znacaj": "Loyal"
+    },
+    {
+        "ime": "Taco Terrier",
+        "znacaj": "Loyal"
+    },
+    {
+        "ime": "Cairmal",
+        "znacaj": "Loyal"
+    },
+    {
+        "ime": "Majestic Tree Hound",
+        "znacaj": "Loyal"
+    },
+    {
+        "ime": "Chorkie",
+        "znacaj": "Loyal"
+    },
+    {
+        "ime": "Cockalier",
+        "znacaj": "Loyal"
+    },
+    {
+        "ime": "Dorgi",
+        "znacaj": "Loyal"
+    },
+    {
+        "ime": "Maremma Sheepdog",
+        "znacaj": "Loyal"
+    },
+    {
+        "ime": "Stabyhoun",
+        "znacaj": "Loyal"
+    },
+    {
+        "ime": "Puggle",
+        "znacaj": "Loyal"
+    },
+    {
+        "ime": "Russian Tsvetnaya Bolonka",
+        "znacaj": "Loyal"
+    },
+    {
+        "ime": "Berger Picard",
+        "znacaj": "Mellow"
+    },
+    {
+        "ime": "American Cocker Spaniel",
+        "znacaj": "Merry"
+    },
+    {
+        "ime": "Rhodesian Ridgeback",
+        "znacaj": "Mischievous"
+    },
+    {
+        "ime": "Italian Greyhound",
+        "znacaj": "Mischievous"
+    },
+    {
+        "ime": "English Setter",
+        "znacaj": "Mischievous"
+    },
+    {
+        "ime": "Peruvian Inca Orchid",
+        "znacaj": "Noble"
+    },
+    {
+        "ime": "Spanish Mastiff",
+        "znacaj": "Noble"
+    },
+    {
+        "ime": "Cesky Terrier",
+        "znacaj": "Nonaggressive"
+    },
+    {
+        "ime": "Basset Artesien Normand",
+        "znacaj": "Obedience"
+    },
+    {
+        "ime": "German Shepherd",
+        "znacaj": "Obedient"
+    },
+    {
+        "ime": "Doberman Pinscher",
+        "znacaj": "Obedient"
+    },
+    {
+        "ime": "Miniature Schnauzer",
+        "znacaj": "Obedient"
+    },
+    {
+        "ime": "Portuguese Water Dog",
+        "znacaj": "Obedient"
+    },
+    {
+        "ime": "Lhasa Apso",
+        "znacaj": "Obedient"
+    },
+    {
+        "ime": "Keeshond",
+        "znacaj": "Obedient"
+    },
+    {
+        "ime": "Border Terrier",
+        "znacaj": "Obedient"
+    },
+    {
+        "ime": "Leonberger",
+        "znacaj": "Obedient"
+    },
+    {
+        "ime": "Neapolitan Mastiff",
+        "znacaj": "Obedient"
+    },
+    {
+        "ime": "Parson Russell Terrier",
+        "znacaj": "Obedient"
+    },
+    {
+        "ime": "Boerboel",
+        "znacaj": "Obedient"
+    },
+    {
+        "ime": "Briard",
+        "znacaj": "Obedient"
+    },
+    {
+        "ime": "Puli",
+        "znacaj": "Obedient"
+    },
+    {
+        "ime": "American Water Spaniel",
+        "znacaj": "Obedient"
+    },
+    {
+        "ime": "Alano Espanol",
+        "znacaj": "Obedient"
+    },
+    {
+        "ime": "American Pit Bull Terrier",
+        "znacaj": "Obedient"
+    },
+    {
+        "ime": "Australian Stumpy Tail Cattle Dog",
+        "znacaj": "Obedient"
+    },
+    {
+        "ime": "Drentse Patrijshond",
+        "znacaj": "Obedient"
+    },
+    {
+        "ime": "Dutch Shepherd Dog",
+        "znacaj": "Obedient"
+    },
+    {
+        "ime": "Fila Brasileiro",
+        "znacaj": "Obedient"
+    },
+    {
+        "ime": "McNab",
+        "znacaj": "Obedient"
+    },
+    {
+        "ime": "Serbian Hound",
+        "znacaj": "Obedient"
+    },
+    {
+        "ime": "Tamaskan Dog",
+        "znacaj": "Obedient"
+    },
+    {
+        "ime": "Texas Heeler",
+        "znacaj": "Obedient"
+    },
+    {
+        "ime": "Kyi-Leo",
+        "znacaj": "Obedient"
+    },
+    {
+        "ime": "Bouvier des Ardennes",
+        "znacaj": "Obstinate"
+    },
+    {
+        "ime": "Pekingese",
+        "znacaj": "Opinionated"
+    },
+    {
+        "ime": "Flat-Coated Retriever",
+        "znacaj": "Optimistic"
+    },
+    {
+        "ime": "Labrador Retriever",
+        "znacaj": "Out-Going"
+    },
+    {
+        "ime": "Pembroke Welsh Corgi",
+        "znacaj": "Out-Going"
+    },
+    {
+        "ime": "Pug",
+        "znacaj": "Out-Going"
+    },
+    {
+        "ime": "St. Bernard (Saint Bernard)",
+        "znacaj": "Out-Going"
+    },
+    {
+        "ime": "Wirehaired Vizsla",
+        "znacaj": "Out-Going"
+    },
+    {
+        "ime": "Cockapoo",
+        "znacaj": "Out-Going"
+    },
+    {
+        "ime": "Kooikerhondje",
+        "znacaj": "Out-Going"
+    },
+    {
+        "ime": "American Bulldog",
+        "znacaj": "Out-Going"
+    },
+    {
+        "ime": "Cockalier",
+        "znacaj": "Out-Going"
+    },
+    {
+        "ime": "Mal-Shi",
+        "znacaj": "Out-Going"
+    },
+    {
+        "ime": "Shih Tzu",
+        "znacaj": "Outgoing"
+    },
+    {
+        "ime": "American Cocker Spaniel",
+        "znacaj": "Outgoing"
+    },
+    {
+        "ime": "Airedale Terrier",
+        "znacaj": "Outgoing"
+    },
+    {
+        "ime": "Dalmatian",
+        "znacaj": "Outgoing"
+    },
+    {
+        "ime": "Miniature Pinscher",
+        "znacaj": "Outgoing"
+    },
+    {
+        "ime": "Flat-Coated Retriever",
+        "znacaj": "Outgoing"
+    },
+    {
+        "ime": "Harrier",
+        "znacaj": "Outgoing"
+    },
+    {
+        "ime": "Shiloh Shepherd dog",
+        "znacaj": "Outgoing"
+    },
+    {
+        "ime": "Briquet Griffon Vendeen",
+        "znacaj": "Passionate"
+    },
+    {
+        "ime": "Finnish Hound",
+        "znacaj": "Passionate"
+    },
+    {
+        "ime": "Great Pyrenees",
+        "znacaj": "Patient"
+    },
+    {
+        "ime": "Irish Wolfhound",
+        "znacaj": "Patient"
+    },
+    {
+        "ime": "Spinone Italiano",
+        "znacaj": "Patient"
+    },
+    {
+        "ime": "Kuvasz",
+        "znacaj": "Patient"
+    },
+    {
+        "ime": "Bergamasco",
+        "znacaj": "Patient"
+    },
+    {
+        "ime": "Alano Espanol",
+        "znacaj": "Patient"
+    },
+    {
+        "ime": "Hamilton Hound",
+        "znacaj": "Patient"
+    },
+    {
+        "ime": "Landseer",
+        "znacaj": "Patient"
+    },
+    {
+        "ime": "Tornjak",
+        "znacaj": "Peaceful"
+    },
+    {
+        "ime": "English Setter",
+        "znacaj": "People-Oriented"
+    },
+    {
+        "ime": "Polish Lowland Sheepdog",
+        "znacaj": "Perceptive"
+    },
+    {
+        "ime": "Tornjak",
+        "znacaj": "Persistent"
+    },
+    {
+        "ime": "Labrador Retriever",
+        "znacaj": "Playful"
+    },
+    {
+        "ime": "French Bulldog",
+        "znacaj": "Playful"
+    },
+    {
+        "ime": "Dachshund (Toy, Miniature, Standard)",
+        "znacaj": "Playful"
+    },
+    {
+        "ime": "Pomeranian",
+        "znacaj": "Playful"
+    },
+    {
+        "ime": "Havanese",
+        "znacaj": "Playful"
+    },
+    {
+        "ime": "Shetland Sheepdog",
+        "znacaj": "Playful"
+    },
+    {
+        "ime": "English Springer Spaniel",
+        "znacaj": "Playful"
+    },
+    {
+        "ime": "Vizsla",
+        "znacaj": "Playful"
+    },
+    {
+        "ime": "Pug",
+        "znacaj": "Playful"
+    },
+    {
+        "ime": "Maltese",
+        "znacaj": "Playful"
+    },
+    {
+        "ime": "Bichon Frise",
+        "znacaj": "Playful"
+    },
+    {
+        "ime": "Soft Coated Wheaten Terrier",
+        "znacaj": "Playful"
+    },
+    {
+        "ime": "English Cocker Spaniel",
+        "znacaj": "Playful"
+    },
+    {
+        "ime": "Samoyed",
+        "znacaj": "Playful"
+    },
+    {
+        "ime": "Scottish Terrier",
+        "znacaj": "Playful"
+    },
+    {
+        "ime": "Alaskan Malamute",
+        "znacaj": "Playful"
+    },
+    {
+        "ime": "Dalmatian",
+        "znacaj": "Playful"
+    },
+    {
+        "ime": "Old English Sheepdog",
+        "znacaj": "Playful"
+    },
+    {
+        "ime": "Miniature Pinscher",
+        "znacaj": "Playful"
+    },
+    {
+        "ime": "Irish Setter",
+        "znacaj": "Playful"
+    },
+    {
+        "ime": "Lhasa Apso",
+        "znacaj": "Playful"
+    },
+    {
+        "ime": "Chinese Crested",
+        "znacaj": "Playful"
+    },
+    {
+        "ime": "Coton De Tulear",
+        "znacaj": "Playful"
+    },
+    {
+        "ime": "Basenji",
+        "znacaj": "Playful"
+    },
+    {
+        "ime": "Keeshond",
+        "znacaj": "Playful"
+    },
+    {
+        "ime": "Nova Scotia Duck Tolling Retriever",
+        "znacaj": "Playful"
+    },
+    {
+        "ime": "Standard Schnauzer",
+        "znacaj": "Playful"
+    },
+    {
+        "ime": "Norwegian Elkhound",
+        "znacaj": "Playful"
+    },
+    {
+        "ime": "Toy Fox Terrier",
+        "znacaj": "Playful"
+    },
+    {
+        "ime": "Miniature Bull Terrier",
+        "znacaj": "Playful"
+    },
+    {
+        "ime": "Smooth Fox Terrier",
+        "znacaj": "Playful"
+    },
+    {
+        "ime": "American Hairless Terrier",
+        "znacaj": "Playful"
+    },
+    {
+        "ime": "Welsh Springer Spaniel",
+        "znacaj": "Playful"
+    },
+    {
+        "ime": "English Toy Spaniel",
+        "znacaj": "Playful"
+    },
+    {
+        "ime": "Affenpinscher",
+        "znacaj": "Playful"
+    },
+    {
+        "ime": "Bedlington Terrier",
+        "znacaj": "Playful"
+    },
+    {
+        "ime": "Irish Red and White Setter",
+        "znacaj": "Playful"
+    },
+    {
+        "ime": "Pharaoh Hound",
+        "znacaj": "Playful"
+    },
+    {
+        "ime": "Finnish Spitz",
+        "znacaj": "Playful"
+    },
+    {
+        "ime": "Sloughi",
+        "znacaj": "Playful"
+    },
+    {
+        "ime": "Austrian Pinscher",
+        "znacaj": "Playful"
+    },
+    {
+        "ime": "Blue Picardy Spaniel",
+        "znacaj": "Playful"
+    },
+    {
+        "ime": "Bouvier des Ardennes",
+        "znacaj": "Playful"
+    },
+    {
+        "ime": "Bracco Italiano",
+        "znacaj": "Playful"
+    },
+    {
+        "ime": "Cockapoo",
+        "znacaj": "Playful"
+    },
+    {
+        "ime": "East-European Shepherd",
+        "znacaj": "Playful"
+    },
+    {
+        "ime": "English Shepherd",
+        "znacaj": "Playful"
+    },
+    {
+        "ime": "Japanese Spitz",
+        "znacaj": "Playful"
+    },
+    {
+        "ime": "Landseer",
+        "znacaj": "Playful"
+    },
+    {
+        "ime": "Miniature Bulldog",
+        "znacaj": "Playful"
+    },
+    {
+        "ime": "Russian Toy",
+        "znacaj": "Playful"
+    },
+    {
+        "ime": "Sapsali",
+        "znacaj": "Playful"
+    },
+    {
+        "ime": "Silken Windhound",
+        "znacaj": "Playful"
+    },
+    {
+        "ime": "Volpino Italiano",
+        "znacaj": "Playful"
+    },
+    {
+        "ime": "Beaglier",
+        "znacaj": "Playful"
+    },
+    {
+        "ime": "Cotonese",
+        "znacaj": "Playful"
+    },
+    {
+        "ime": "Taco Terrier",
+        "znacaj": "Playful"
+    },
+    {
+        "ime": "Cairmal",
+        "znacaj": "Playful"
+    },
+    {
+        "ime": "Kyi-Leo",
+        "znacaj": "Playful"
+    },
+    {
+        "ime": "Dorkie",
+        "znacaj": "Playful"
+    },
+    {
+        "ime": "Mal-Shi",
+        "znacaj": "Playful"
+    },
+    {
+        "ime": "Shichon",
+        "znacaj": "Playful"
+    },
+    {
+        "ime": "Puggle",
+        "znacaj": "Playful"
+    },
+    {
+        "ime": "Russian Tsvetnaya Bolonka",
+        "znacaj": "Playful"
+    },
+    {
+        "ime": "Scottish Deerhound",
+        "znacaj": "Polite"
+    },
+    {
+        "ime": "Weimaraner",
+        "znacaj": "Powerful"
+    },
+    {
+        "ime": "Bullmastiff",
+        "znacaj": "Powerful"
+    },
+    {
+        "ime": "Giant Schnauzer",
+        "znacaj": "Powerful"
+    },
+    {
+        "ime": "Aidi",
+        "znacaj": "Powerful"
+    },
+    {
+        "ime": "Caucasian Ovcharka",
+        "znacaj": "Powerful"
+    },
+    {
+        "ime": "Alaskan Husky",
+        "znacaj": "Powerful"
+    },
+    {
+        "ime": "Carolina Dog",
+        "znacaj": "Primitive"
+    },
+    {
+        "ime": "Seppala Siberian Sleddog",
+        "znacaj": "Primitive"
+    },
+    {
+        "ime": "Rottweiler",
+        "znacaj": "Protective"
+    },
+    {
+        "ime": "Australian Shepherd",
+        "znacaj": "Protective"
+    },
+    {
+        "ime": "Vizsla",
+        "znacaj": "Protective"
+    },
+    {
+        "ime": "Collie",
+        "znacaj": "Protective"
+    },
+    {
+        "ime": "Chesapeake Bay Retriever",
+        "znacaj": "Protective"
+    },
+    {
+        "ime": "Belgian Malinois",
+        "znacaj": "Protective"
+    },
+    {
+        "ime": "Bullmastiff",
+        "znacaj": "Protective"
+    },
+    {
+        "ime": "Australian Cattle Dog",
+        "znacaj": "Protective"
+    },
+    {
+        "ime": "Bull Terrier",
+        "znacaj": "Protective"
+    },
+    {
+        "ime": "Greater Swiss Mountain Dog",
+        "znacaj": "Protective"
+    },
+    {
+        "ime": "Chow Chow",
+        "znacaj": "Protective"
+    },
+    {
+        "ime": "Bouvier des Flandres",
+        "znacaj": "Protective"
+    },
+    {
+        "ime": "Belgian Tervuren",
+        "znacaj": "Protective"
+    },
+    {
+        "ime": "Neapolitan Mastiff",
+        "znacaj": "Protective"
+    },
+    {
+        "ime": "Irish Terrier",
+        "znacaj": "Protective"
+    },
+    {
+        "ime": "American Eskimo Dog (Toy, Miniature, Standard)",
+        "znacaj": "Protective"
+    },
+    {
+        "ime": "Belgian Sheepdog",
+        "znacaj": "Protective"
+    },
+    {
+        "ime": "Briard",
+        "znacaj": "Protective"
+    },
+    {
+        "ime": "Beauceron",
+        "znacaj": "Protective"
+    },
+    {
+        "ime": "Xoloitzcuintli",
+        "znacaj": "Protective"
+    },
+    {
+        "ime": "Tibetan Mastiff",
+        "znacaj": "Protective"
+    },
+    {
+        "ime": "Wirehaired Vizsla",
+        "znacaj": "Protective"
+    },
+    {
+        "ime": "Kuvasz",
+        "znacaj": "Protective"
+    },
+    {
+        "ime": "Pumi",
+        "znacaj": "Protective"
+    },
+    {
+        "ime": "American Water Spaniel",
+        "znacaj": "Protective"
+    },
+    {
+        "ime": "Norwegian Lundehund",
+        "znacaj": "Protective"
+    },
+    {
+        "ime": "Kangal Dog",
+        "znacaj": "Protective"
+    },
+    {
+        "ime": "Aidi",
+        "znacaj": "Protective"
+    },
+    {
+        "ime": "Alapaha Blue Blood Bulldog",
+        "znacaj": "Protective"
+    },
+    {
+        "ime": "American Mastiff",
+        "znacaj": "Protective"
+    },
+    {
+        "ime": "Dogo Argentino",
+        "znacaj": "Protective"
+    },
+    {
+        "ime": "Belgian Shepherd Laekenois",
+        "znacaj": "Protective"
+    },
+    {
+        "ime": "Black Mouth Cur",
+        "znacaj": "Protective"
+    },
+    {
+        "ime": "Blue Picardy Spaniel",
+        "znacaj": "Protective"
+    },
+    {
+        "ime": "Catahoula Bulldog",
+        "znacaj": "Protective"
+    },
+    {
+        "ime": "Catalan Sheepdog",
+        "znacaj": "Protective"
+    },
+    {
+        "ime": "McNab",
+        "znacaj": "Protective"
+    },
+    {
+        "ime": "Peruvian Inca Orchid",
+        "znacaj": "Protective"
+    },
+    {
+        "ime": "Rafeiro do Alentejo",
+        "znacaj": "Protective"
+    },
+    {
+        "ime": "Sarplaninac",
+        "znacaj": "Protective"
+    },
+    {
+        "ime": "Thai Bangkaew Dog",
+        "znacaj": "Protective"
+    },
+    {
+        "ime": "Thai Ridgeback",
+        "znacaj": "Protective"
+    },
+    {
+        "ime": "Transylvanian Hound",
+        "znacaj": "Protective"
+    },
+    {
+        "ime": "West Siberian Laika",
+        "znacaj": "Protective"
+    },
+    {
+        "ime": "Alaskan Husky",
+        "znacaj": "Protective"
+    },
+    {
+        "ime": "Alopekis",
+        "znacaj": "Protective"
+    },
+    {
+        "ime": "Chorkie",
+        "znacaj": "Protective"
+    },
+    {
+        "ime": "Mountain Cur",
+        "znacaj": "Protective"
+    },
+    {
+        "ime": "Wirehaired Pointing Griffon",
+        "znacaj": "Proud"
+    },
+    {
+        "ime": "Anatolian Shepherd Dog",
+        "znacaj": "Proud"
+    },
+    {
+        "ime": "Black Norwegian Elkhound",
+        "znacaj": "Proud"
+    },
+    {
+        "ime": "Bulgarian Shepherd Dog",
+        "znacaj": "Proud"
+    },
+    {
+        "ime": "Japanese Spitz",
+        "znacaj": "Proud"
+    },
+    {
+        "ime": "Saarloos wolfdog",
+        "znacaj": "Proud"
+    },
+    {
+        "ime": "Portuguese Water Dog",
+        "znacaj": "Quarrelsome"
+    },
+    {
+        "ime": "Chihuahua",
+        "znacaj": "Quick"
+    },
+    {
+        "ime": "Scottish Terrier",
+        "znacaj": "Quick"
+    },
+    {
+        "ime": "Keeshond",
+        "znacaj": "Quick"
+    },
+    {
+        "ime": "Wire Fox Terrier",
+        "znacaj": "Quick"
+    },
+    {
+        "ime": "Silky Terrier",
+        "znacaj": "Quick"
+    },
+    {
+        "ime": "Irish Water Spaniel",
+        "znacaj": "Quick"
+    },
+    {
+        "ime": "Canaan Dog",
+        "znacaj": "Quick"
+    },
+    {
+        "ime": "Alaskan Klee Kai",
+        "znacaj": "Quick"
+    },
+    {
+        "ime": "Ariege Pointer",
+        "znacaj": "Quick"
+    },
+    {
+        "ime": "Caucasian Ovcharka",
+        "znacaj": "Quick"
+    },
+    {
+        "ime": "Czechoslovakian Wolfdog",
+        "znacaj": "Quick"
+    },
+    {
+        "ime": "Prazsky Krysarik",
+        "znacaj": "Quick"
+    },
+    {
+        "ime": "Vizsla",
+        "znacaj": "Quiet"
+    },
+    {
+        "ime": "Cane Corso",
+        "znacaj": "Quiet"
+    },
+    {
+        "ime": "Chesapeake Bay Retriever",
+        "znacaj": "Quiet"
+    },
+    {
+        "ime": "St. Bernard (Saint Bernard)",
+        "znacaj": "Quiet"
+    },
+    {
+        "ime": "English Cocker Spaniel",
+        "znacaj": "Quiet"
+    },
+    {
+        "ime": "Whippet",
+        "znacaj": "Quiet"
+    },
+    {
+        "ime": "Chow Chow",
+        "znacaj": "Quiet"
+    },
+    {
+        "ime": "Borzoi",
+        "znacaj": "Quiet"
+    },
+    {
+        "ime": "Saluki",
+        "znacaj": "Quiet"
+    },
+    {
+        "ime": "Manchester Terrier (Toy, Standard)",
+        "znacaj": "Quiet"
+    },
+    {
+        "ime": "Greyhound",
+        "znacaj": "Quiet"
+    },
+    {
+        "ime": "Bergamasco",
+        "znacaj": "Quiet"
+    },
+    {
+        "ime": "Cesky Terrier",
+        "znacaj": "Quiet"
+    },
+    {
+        "ime": "Spanish Greyhound",
+        "znacaj": "Quiet"
+    },
+    {
+        "ime": "Bavarian Mountain Hound",
+        "znacaj": "Quiet"
+    },
+    {
+        "ime": "Perro de Presa Mallorquin",
+        "znacaj": "Quiet"
+    },
+    {
+        "ime": "Wetterhoun",
+        "znacaj": "Quiet"
+    },
+    {
+        "ime": "Kyi-Leo",
+        "znacaj": "Quiet"
+    },
+    {
+        "ime": "Mal-Shi",
+        "znacaj": "Quiet"
+    },
+    {
+        "ime": "Scottish Deerhound",
+        "znacaj": "Quietly"
+    },
+    {
+        "ime": "Bouvier des Flandres",
+        "znacaj": "Rational"
+    },
+    {
+        "ime": "Azawakh",
+        "znacaj": "Refined"
+    },
+    {
+        "ime": "Golden Retriever",
+        "znacaj": "Reliable"
+    },
+    {
+        "ime": "Staffordshire Bull Terrier",
+        "znacaj": "Reliable"
+    },
+    {
+        "ime": "Bedlington Terrier",
+        "znacaj": "Reliable"
+    },
+    {
+        "ime": "Irish Red and White Setter",
+        "znacaj": "Reliable"
+    },
+    {
+        "ime": "Alano Espanol",
+        "znacaj": "Reliable"
+    },
+    {
+        "ime": "Appenzeller Sennenhund",
+        "znacaj": "Reliable"
+    },
+    {
+        "ime": "Dutch Shepherd Dog",
+        "znacaj": "Reliable"
+    },
+    {
+        "ime": "Jagdterrier",
+        "znacaj": "Reliable"
+    },
+    {
+        "ime": "Russian Spaniel",
+        "znacaj": "Reliable"
+    },
+    {
+        "ime": "Saarloos wolfdog",
+        "znacaj": "Reliable"
+    },
+    {
+        "ime": "Sarplaninac",
+        "znacaj": "Reliable"
+    },
+    {
+        "ime": "Chinese Shar-Pei",
+        "znacaj": "Reserved"
+    },
+    {
+        "ime": "Tibetan Terrier",
+        "znacaj": "Reserved"
+    },
+    {
+        "ime": "Saluki",
+        "znacaj": "Reserved"
+    },
+    {
+        "ime": "English Toy Spaniel",
+        "znacaj": "Reserved"
+    },
+    {
+        "ime": "Pumi",
+        "znacaj": "Reserved"
+    },
+    {
+        "ime": "Cesky Terrier",
+        "znacaj": "Reserved"
+    },
+    {
+        "ime": "Chart Polski",
+        "znacaj": "Reserved"
+    },
+    {
+        "ime": "Eurasier",
+        "znacaj": "Reserved"
+    },
+    {
+        "ime": "Hovawart",
+        "znacaj": "Reserved"
+    },
+    {
+        "ime": "Wetterhoun",
+        "znacaj": "Reserved"
+    },
+    {
+        "ime": "Bolognese dog",
+        "znacaj": "Reserved"
+    },
+    {
+        "ime": "Borzoi",
+        "znacaj": "Respectful"
+    },
+    {
+        "ime": "Irish Terrier",
+        "znacaj": "Respectful"
+    },
+    {
+        "ime": "Alapaha Blue Blood Bulldog",
+        "znacaj": "Responsible"
+    },
+    {
+        "ime": "Labrador Retriever",
+        "znacaj": "Responsive"
+    },
+    {
+        "ime": "Havanese",
+        "znacaj": "Responsive"
+    },
+    {
+        "ime": "Brittany",
+        "znacaj": "Responsive"
+    },
+    {
+        "ime": "Maltese",
+        "znacaj": "Responsive"
+    },
+    {
+        "ime": "Border Collie",
+        "znacaj": "Responsive"
+    },
+    {
+        "ime": "Collie",
+        "znacaj": "Responsive"
+    },
+    {
+        "ime": "Miniature Pinscher",
+        "znacaj": "Responsive"
+    },
+    {
+        "ime": "Silky Terrier",
+        "znacaj": "Responsive"
+    },
+    {
+        "ime": "Cockapoo",
+        "znacaj": "Responsive"
+    },
+    {
+        "ime": "Cotonese",
+        "znacaj": "Responsive"
+    },
+    {
+        "ime": "Brazilian Terrier",
+        "znacaj": "Restless"
+    },
+    {
+        "ime": "Ariege Pointer",
+        "znacaj": "Robust"
+    },
+    {
+        "ime": "Black Norwegian Elkhound",
+        "znacaj": "Robust"
+    },
+    {
+        "ime": "Azawakh",
+        "znacaj": "Rugged"
+    },
+    {
+        "ime": "Kangal Dog",
+        "znacaj": "Self-Controlled"
+    },
+    {
+        "ime": "Pudelpointer",
+        "znacaj": "Self-Controlled"
+    },
+    {
+        "ime": "Scottish Terrier",
+        "znacaj": "Self-assured"
+    },
+    {
+        "ime": "Appenzeller Sennenhund",
+        "znacaj": "Self-assured"
+    },
+    {
+        "ime": "Chart Polski",
+        "znacaj": "Self-assured"
+    },
+    {
+        "ime": "Drever",
+        "znacaj": "Self-assured"
+    },
+    {
+        "ime": "Greater Swiss Mountain Dog",
+        "znacaj": "Self-confidence"
+    },
+    {
+        "ime": "Bearded Collie",
+        "znacaj": "Self-confidence"
+    },
+    {
+        "ime": "Norfolk Terrier",
+        "znacaj": "Self-confidence"
+    },
+    {
+        "ime": "American White Shepherd",
+        "znacaj": "Self-confidence"
+    },
+    {
+        "ime": "Rafeiro do Alentejo",
+        "znacaj": "Self-confidence"
+    },
+    {
+        "ime": "Brussels Griffon",
+        "znacaj": "Self-important"
+    },
+    {
+        "ime": "Rhodesian Ridgeback",
+        "znacaj": "Sensitive"
+    },
+    {
+        "ime": "Brussels Griffon",
+        "znacaj": "Sensitive"
+    },
+    {
+        "ime": "Tibetan Terrier",
+        "znacaj": "Sensitive"
+    },
+    {
+        "ime": "Field Spaniel",
+        "znacaj": "Sensitive"
+    },
+    {
+        "ime": "Curly-Coated Retriever",
+        "znacaj": "Sensitive"
+    },
+    {
+        "ime": "Sloughi",
+        "znacaj": "Sensitive"
+    },
+    {
+        "ime": "Kangal Dog",
+        "znacaj": "Sensitive"
+    },
+    {
+        "ime": "Aidi",
+        "znacaj": "Sensitive"
+    },
+    {
+        "ime": "Tosa",
+        "znacaj": "Sensitive"
+    },
+    {
+        "ime": "Alaskan Husky",
+        "znacaj": "Sensitive"
+    },
+    {
+        "ime": "Alano Espanol",
+        "znacaj": "Serious"
+    },
+    {
+        "ime": "Andalusian Hound",
+        "znacaj": "Smell"
+    },
+    {
+        "ime": "Rafeiro do Alentejo",
+        "znacaj": "Sober"
+    },
+    {
+        "ime": "American Cocker Spaniel",
+        "znacaj": "Sociable"
+    },
+    {
+        "ime": "Samoyed",
+        "znacaj": "Sociable"
+    },
+    {
+        "ime": "Old English Sheepdog",
+        "znacaj": "Sociable"
+    },
+    {
+        "ime": "Field Spaniel",
+        "znacaj": "Sociable"
+    },
+    {
+        "ime": "Sussex Spaniel",
+        "znacaj": "Sociable"
+    },
+    {
+        "ime": "Pharaoh Hound",
+        "znacaj": "Sociable"
+    },
+    {
+        "ime": "English Foxhound",
+        "znacaj": "Sociable"
+    },
+    {
+        "ime": "Ariegeois",
+        "znacaj": "Sociable"
+    },
+    {
+        "ime": "Basset Fauve de Bretagne",
+        "znacaj": "Sociable"
+    },
+    {
+        "ime": "Czechoslovakian Wolfdog",
+        "znacaj": "Sociable"
+    },
+    {
+        "ime": "Jagdterrier",
+        "znacaj": "Sociable"
+    },
+    {
+        "ime": "McNab",
+        "znacaj": "Sociable"
+    },
+    {
+        "ime": "Tamaskan Dog",
+        "znacaj": "Sociable"
+    },
+    {
+        "ime": "Bulldog",
+        "znacaj": "Social"
+    },
+    {
+        "ime": "Cavalier King Charles Spaniel",
+        "znacaj": "Social"
+    },
+    {
+        "ime": "Newfoundland",
+        "znacaj": "Social"
+    },
+    {
+        "ime": "Lagotto Romagnolo",
+        "znacaj": "Social"
+    },
+    {
+        "ime": "Appenzeller Sennenhund",
+        "znacaj": "Social"
+    },
+    {
+        "ime": "American Bulldog",
+        "znacaj": "Social"
+    },
+    {
+        "ime": "Majestic Tree Hound",
+        "znacaj": "Social"
+    },
+    {
+        "ime": "Chorkie",
+        "znacaj": "Social"
+    },
+    {
+        "ime": "Shichon",
+        "znacaj": "Social"
+    },
+    {
+        "ime": "Miniature Schnauzer",
+        "znacaj": "Spirited"
+    },
+    {
+        "ime": "Soft Coated Wheaten Terrier",
+        "znacaj": "Spirited"
+    },
+    {
+        "ime": "Lhasa Apso",
+        "znacaj": "Spirited"
+    },
+    {
+        "ime": "Welsh Terrier",
+        "znacaj": "Spirited"
+    },
+    {
+        "ime": "Toy Fox Terrier",
+        "znacaj": "Spirited"
+    },
+    {
+        "ime": "Norfolk Terrier",
+        "znacaj": "Spirited"
+    },
+    {
+        "ime": "Kerry Blue Terrier",
+        "znacaj": "Spirited"
+    },
+    {
+        "ime": "German Pinscher",
+        "znacaj": "Spirited"
+    },
+    {
+        "ime": "Australian Terrier",
+        "znacaj": "Spirited"
+    },
+    {
+        "ime": "Glen of Imaal Terrier",
+        "znacaj": "Spirited"
+    },
+    {
+        "ime": "Bavarian Mountain Hound",
+        "znacaj": "Spirited"
+    },
+    {
+        "ime": "Kromfohrlander",
+        "znacaj": "Spirited"
+    },
+    {
+        "ime": "Beagle-Harrier",
+        "znacaj": "Spirited"
+    },
+    {
+        "ime": "Mountain Feist",
+        "znacaj": "Spirited"
+    },
+    {
+        "ime": "Black Russian Terrier",
+        "znacaj": "Stable"
+    },
+    {
+        "ime": "Bohemian Shepherd",
+        "znacaj": "Stable"
+    },
+    {
+        "ime": "Polish Hunting Dog",
+        "znacaj": "Stable"
+    },
+    {
+        "ime": "Weimaraner",
+        "znacaj": "Steady"
+    },
+    {
+        "ime": "Lhasa Apso",
+        "znacaj": "Steady"
+    },
+    {
+        "ime": "Anatolian Shepherd Dog",
+        "znacaj": "Steady"
+    },
+    {
+        "ime": "Komondor",
+        "znacaj": "Steady"
+    },
+    {
+        "ime": "Tornjak",
+        "znacaj": "Steady"
+    },
+    {
+        "ime": "Catahoula Bulldog",
+        "znacaj": "Strong"
+    },
+    {
+        "ime": "Caucasian Ovcharka",
+        "znacaj": "Strong"
+    },
+    {
+        "ime": "Central Asian Ovtcharka",
+        "znacaj": "Strong"
+    },
+    {
+        "ime": "Olde English Bulldogge",
+        "znacaj": "Strong"
+    },
+    {
+        "ime": "Rhodesian Ridgeback",
+        "znacaj": "Strong Willed"
+    },
+    {
+        "ime": "Great Pyrenees",
+        "znacaj": "Strong Willed"
+    },
+    {
+        "ime": "Giant Schnauzer",
+        "znacaj": "Strong Willed"
+    },
+    {
+        "ime": "Norwegian Elkhound",
+        "znacaj": "Strong Willed"
+    },
+    {
+        "ime": "English Setter",
+        "znacaj": "Strong Willed"
+    },
+    {
+        "ime": "Kerry Blue Terrier",
+        "znacaj": "Strong Willed"
+    },
+    {
+        "ime": "Tibetan Mastiff",
+        "znacaj": "Strong Willed"
+    },
+    {
+        "ime": "American Pit Bull Terrier",
+        "znacaj": "Strong Willed"
+    },
+    {
+        "ime": "Black Norwegian Elkhound",
+        "znacaj": "Strong Willed"
+    },
+    {
+        "ime": "Jagdterrier",
+        "znacaj": "Strong Willed"
+    },
+    {
+        "ime": "Small Munsterlander",
+        "znacaj": "Strong Willed"
+    },
+    {
+        "ime": "Perro de Presa Canario",
+        "znacaj": "Strong Willed"
+    },
+    {
+        "ime": "Dachshund (Toy, Miniature, Standard)",
+        "znacaj": "Stubborn"
+    },
+    {
+        "ime": "Weimaraner",
+        "znacaj": "Stubborn"
+    },
+    {
+        "ime": "Belgian Malinois",
+        "znacaj": "Stubborn"
+    },
+    {
+        "ime": "Bloodhound",
+        "znacaj": "Stubborn"
+    },
+    {
+        "ime": "Pekingese",
+        "znacaj": "Stubborn"
+    },
+    {
+        "ime": "Neapolitan Mastiff",
+        "znacaj": "Stubborn"
+    },
+    {
+        "ime": "Miniature Bull Terrier",
+        "znacaj": "Stubborn"
+    },
+    {
+        "ime": "Belgian Sheepdog",
+        "znacaj": "Stubborn"
+    },
+    {
+        "ime": "Welsh Springer Spaniel",
+        "znacaj": "Stubborn"
+    },
+    {
+        "ime": "Berger Picard",
+        "znacaj": "Stubborn"
+    },
+    {
+        "ime": "Affenpinscher",
+        "znacaj": "Stubborn"
+    },
+    {
+        "ime": "Tibetan Mastiff",
+        "znacaj": "Stubborn"
+    },
+    {
+        "ime": "Ibizan Hound",
+        "znacaj": "Stubborn"
+    },
+    {
+        "ime": "American Pit Bull Terrier",
+        "znacaj": "Stubborn"
+    },
+    {
+        "ime": "Basset Fauve de Bretagne",
+        "znacaj": "Stubborn"
+    },
+    {
+        "ime": "Bracco Italiano",
+        "znacaj": "Stubborn"
+    },
+    {
+        "ime": "Grand Basset Griffon Vendeen",
+        "znacaj": "Stubborn"
+    },
+    {
+        "ime": "Keeshond",
+        "znacaj": "Sturdy"
+    },
+    {
+        "ime": "Portuguese Pointer",
+        "znacaj": "Submissive"
+    },
+    {
+        "ime": "Chinese Shar-Pei",
+        "znacaj": "Suspicious"
+    },
+    {
+        "ime": "Tosa",
+        "znacaj": "Suspicious"
+    },
+    {
+        "ime": "Bulldog",
+        "znacaj": "Sweet"
+    },
+    {
+        "ime": "Newfoundland",
+        "znacaj": "Sweet"
+    },
+    {
+        "ime": "Maltese",
+        "znacaj": "Sweet-Tempered"
+    },
+    {
+        "ime": "Basset Hound",
+        "znacaj": "Sweet-Tempered"
+    },
+    {
+        "ime": "Bull Terrier",
+        "znacaj": "Sweet-Tempered"
+    },
+    {
+        "ime": "Irish Wolfhound",
+        "znacaj": "Sweet-Tempered"
+    },
+    {
+        "ime": "Chinese Crested",
+        "znacaj": "Sweet-Tempered"
+    },
+    {
+        "ime": "Harrier",
+        "znacaj": "Sweet-Tempered"
+    },
+    {
+        "ime": "American Foxhound",
+        "znacaj": "Sweet-Tempered"
+    },
+    {
+        "ime": "Drentse Patrijshond",
+        "znacaj": "Sweet-Tempered"
+    },
+    {
+        "ime": "Japanese Terrier",
+        "znacaj": "Swift"
+    },
+    {
+        "ime": "Mountain Feist",
+        "znacaj": "Swift"
+    },
+    {
+        "ime": "Bull Arab",
+        "znacaj": "Tempered"
+    },
+    {
+        "ime": "Border Collie",
+        "znacaj": "Tenacious"
+    },
+    {
+        "ime": "Basset Hound",
+        "znacaj": "Tenacious"
+    },
+    {
+        "ime": "American Staffordshire Terrier",
+        "znacaj": "Tenacious"
+    },
+    {
+        "ime": "American Staghound",
+        "znacaj": "Tenacious"
+    },
+    {
+        "ime": "Karelian Bear Dog",
+        "znacaj": "Tenacious"
+    },
+    {
+        "ime": "Serbian Hound",
+        "znacaj": "Tenacious"
+    },
+    {
+        "ime": "Africanis",
+        "znacaj": "Territorial"
+    },
+    {
+        "ime": "Karelian Bear Dog",
+        "znacaj": "Territorial"
+    },
+    {
+        "ime": "Rafeiro do Alentejo",
+        "znacaj": "Territorial"
+    },
+    {
+        "ime": "Irish Wolfhound",
+        "znacaj": "Thoughtful"
+    },
+    {
+        "ime": "Harrier",
+        "znacaj": "Tolerant"
+    },
+    {
+        "ime": "English Foxhound",
+        "znacaj": "Tolerant"
+    },
+    {
+        "ime": "Dogo Argentino",
+        "znacaj": "Tolerant"
+    },
+    {
+        "ime": "Canadian Eskimo Dog",
+        "znacaj": "Tough"
+    },
+    {
+        "ime": "French Spaniel",
+        "znacaj": "Tough"
+    },
+    {
+        "ime": "Poodle (Standard)",
+        "znacaj": "Trainable"
+    },
+    {
+        "ime": "German Shorthaired Pointer",
+        "znacaj": "Trainable"
+    },
+    {
+        "ime": "Wirehaired Pointing Griffon",
+        "znacaj": "Trainable"
+    },
+    {
+        "ime": "Coton De Tulear",
+        "znacaj": "Trainable"
+    },
+    {
+        "ime": "Standard Schnauzer",
+        "znacaj": "Trainable"
+    },
+    {
+        "ime": "Boykin Spaniel",
+        "znacaj": "Trainable"
+    },
+    {
+        "ime": "Neapolitan Mastiff",
+        "znacaj": "Trainable"
+    },
+    {
+        "ime": "Irish Terrier",
+        "znacaj": "Trainable"
+    },
+    {
+        "ime": "Lagotto Romagnolo",
+        "znacaj": "Trainable"
+    },
+    {
+        "ime": "Lakeland Terrier",
+        "znacaj": "Trainable"
+    },
+    {
+        "ime": "American Water Spaniel",
+        "znacaj": "Trainable"
+    },
+    {
+        "ime": "Curly-Coated Retriever",
+        "znacaj": "Trainable"
+    },
+    {
+        "ime": "Pharaoh Hound",
+        "znacaj": "Trainable"
+    },
+    {
+        "ime": "Pyrenean Shepherd",
+        "znacaj": "Trainable"
+    },
+    {
+        "ime": "Cesky Terrier",
+        "znacaj": "Trainable"
+    },
+    {
+        "ime": "Miniature Poodle",
+        "znacaj": "Trainable"
+    },
+    {
+        "ime": "Toy Poodle",
+        "znacaj": "Trainable"
+    },
+    {
+        "ime": "Africanis",
+        "znacaj": "Trainable"
+    },
+    {
+        "ime": "Ariege Pointer",
+        "znacaj": "Trainable"
+    },
+    {
+        "ime": "Ariegeois",
+        "znacaj": "Trainable"
+    },
+    {
+        "ime": "Black Mouth Cur",
+        "znacaj": "Trainable"
+    },
+    {
+        "ime": "Bracco Italiano",
+        "znacaj": "Trainable"
+    },
+    {
+        "ime": "Catalan Sheepdog",
+        "znacaj": "Trainable"
+    },
+    {
+        "ime": "Dutch Shepherd Dog",
+        "znacaj": "Trainable"
+    },
+    {
+        "ime": "Goldendoodle",
+        "znacaj": "Trainable"
+    },
+    {
+        "ime": "Polish Hunting Dog",
+        "znacaj": "Trainable"
+    },
+    {
+        "ime": "Kromfohrlander",
+        "znacaj": "Trainable"
+    },
+    {
+        "ime": "Small Munsterlander",
+        "znacaj": "Trainable"
+    },
+    {
+        "ime": "Picardy Spaniel",
+        "znacaj": "Trainable"
+    },
+    {
+        "ime": "Seppala Siberian Sleddog",
+        "znacaj": "Trainable"
+    },
+    {
+        "ime": "Shiloh Shepherd dog",
+        "znacaj": "Trainable"
+    },
+    {
+        "ime": "Pont-Audemer Spaniel",
+        "znacaj": "Trainable"
+    },
+    {
+        "ime": "Swedish Lapphund",
+        "znacaj": "Trainable"
+    },
+    {
+        "ime": "Black and Tan Coonhound",
+        "znacaj": "Trusting"
+    },
+    {
+        "ime": "Silken Windhound",
+        "znacaj": "Trusting"
+    },
+    {
+        "ime": "Golden Retriever",
+        "znacaj": "Trustworthy"
+    },
+    {
+        "ime": "Redbone Coonhound",
+        "znacaj": "Unflappable"
+    },
+    {
+        "ime": "Finnish Hound",
+        "znacaj": "Versatile"
+    },
+    {
+        "ime": "Swedish Lapphund",
+        "znacaj": "Versatile"
+    },
+    {
+        "ime": "Wirehaired Pointing Griffon",
+        "znacaj": "Vigilant"
+    },
+    {
+        "ime": "Dogue de Bordeaux",
+        "znacaj": "Vigilant"
+    },
+    {
+        "ime": "Bergamasco",
+        "znacaj": "Vigilant"
+    },
+    {
+        "ime": "Bulgarian Shepherd Dog",
+        "znacaj": "Vigilant"
+    },
+    {
+        "ime": "Japanese Terrier",
+        "znacaj": "Vigilant"
+    },
+    {
+        "ime": "Tornjak",
+        "znacaj": "Vigilant"
+    },
+    {
+        "ime": "Coton De Tulear",
+        "znacaj": "Vocal"
+    },
+    {
+        "ime": "Pumi",
+        "znacaj": "Vocal"
+    },
+    {
+        "ime": "Finnish Spitz",
+        "znacaj": "Vocal"
+    },
+    {
+        "ime": "Grand Basset Griffon Vendeen",
+        "znacaj": "Vocal"
+    },
+    {
+        "ime": "German Shepherd",
+        "znacaj": "Watchful"
+    },
+    {
+        "ime": "Belgian Malinois",
+        "znacaj": "Watchful"
+    },
+    {
+        "ime": "Brussels Griffon",
+        "znacaj": "Watchful"
+    },
+    {
+        "ime": "Belgian Sheepdog",
+        "znacaj": "Watchful"
+    },
+    {
+        "ime": "Pyrenean Shepherd",
+        "znacaj": "Watchful"
+    },
+    {
+        "ime": "Australian Stumpy Tail Cattle Dog",
+        "znacaj": "Watchful"
+    },
+    {
+        "ime": "Belgian Shepherd Laekenois",
+        "znacaj": "Watchful"
+    },
+    {
+        "ime": "Eurasier",
+        "znacaj": "Watchful"
+    },
+    {
+        "ime": "Hovawart",
+        "znacaj": "Watchful"
+    },
+    {
+        "ime": "Schapendoes",
+        "znacaj": "Watchful"
+    },
+    {
+        "ime": "Thai Bangkaew Dog",
+        "znacaj": "Watchful"
+    },
+    {
+        "ime": "Volpino Italiano",
+        "znacaj": "Watchful"
+    },
+    {
+        "ime": "Slovensky Cuvac",
+        "znacaj": "Watchful"
+    },
+    {
+        "ime": "Grand Basset Griffon Vendeen",
+        "znacaj": "Well-mannered"
+    },
+    {
+        "ime": "McNab",
+        "znacaj": "Well-mannered"
+    },
+    {
+        "ime": "German Wirehaired Pointer",
+        "znacaj": "Willful"
+    },
+    {
+        "ime": "Tibetan Spaniel",
+        "znacaj": "Willful"
+    },
+    {
+        "ime": "Beauceron",
+        "znacaj": "obedient"
+    }
+]

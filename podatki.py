@@ -19,98 +19,35 @@ csv_filename = 'dog_data.csv'
 
 
 
-def download_url_to_string(url):
-    '''This function takes a URL as argument and tries to download it
-    using requests. Upon success, it returns the page contents as string.'''
+def pripravi_imenik(ime_datoteke):
+    '''Če še ne obstaja, pripravi prazen imenik za dano datoteko.'''
+    imenik = os.path.dirname(ime_datoteke)
+    if imenik:
+        os.makedirs(imenik, exist_ok=True)
+
+
+def shrani_spletno_stran(url, ime_datoteke, vsili_prenos=False):
+    '''Vsebino strani na danem naslovu shrani v datoteko z danim imenom.'''
     try:
-        # del kode, ki morda sproži napako
+        print('Shranjujem {} ...'.format(url), end='')
+        sys.stdout.flush()
+        if os.path.isfile(ime_datoteke) and not vsili_prenos:
+            print('shranjeno že od prej!')
+            return
         r = requests.get(url)
     except requests.exceptions.ConnectionError:
-        # koda, ki se izvede pri napaki
-        print("Could not access page" + url)
-        # dovolj je če izpišemo opozorilo in prekinemo izvajanje funkcije
-        return ""
-        #ne vrnemo nic, izprintamo da ni slo 
-    # nadaljujemo s kodo če ni prišlo do napake
-    return r.text
-
-fp_text = download_url_to_string(fp_url)
-
-def save_string_to_file(text, directory, filename):
-    '''Write "text" to the file "filename" located in directory "directory",
-    creating "directory" if necessary. If "directory" is the empty string, use
-    the current directory.'''
-    os.makedirs(directory, exist_ok=True)
-    path = os.path.join(directory, filename)
-    with open(path, 'w', encoding='utf-8') as file_out:
-        file_out.write(text)
-    return None
-
-
-def save_frontpage(url, ime_datoteke):
-    r = requests.get(url)
-    with open(ime_datoteke, 'w', encoding='utf-8') as datoteka:
+        print('stran ne obstaja!')
+    else:
+        pripravi_imenik(ime_datoteke)
+        with open(ime_datoteke, 'w', encoding='utf-8') as datoteka:
             datoteka.write(r.text)
             print('shranjeno!')
-'''Save "cats_frontpage_url" to the file
-"cat_directory"/"frontpage_filename"'''
 
 
-def read_file_to_string(directory, filename):
-    print(filename)
-    with open(filename, encoding='utf-8') as datoteka:
-         return datoteka.read()
-'''Return the contents of the file "directory"/"filename" as a string.'''
-
-
-def razlicne_pasme(directory, filename):
-    '''Split "page" to a list of advertisement blocks.'''
-    datoteka = read_file_to_string(directory, filename)
-    seznam_psov = []
-    pes = r'<div class="list-01">' + r'.*?' + r'<span>Rank</span></div>'
-    for ujemanje in re.finditer(pes, datoteka, re.DOTALL):
-        nas_pes = ujemanje.group(0)
-        seznam_psov.append(nas_pes)
-    return seznam_psov
-
-
-
-def get_dict_from_ad_block(directory, filename):
-    '''Build a dictionary containing the name, description and price
-    of an ad block.'''
-    vzorec = re.compile(
-    r'<div class="list">'
-    r'.*?'
-    r'alt="(?P<ime>)"/></a></div><div'
-    r'.*?'
-    r'<div class="list-03"><p>(?P<lasnosti>)</p><p>(?P<lastnosti>)' #A lahko tako naredimo?
-    r'<div class="pop"><p>(?P<popularnost>)</p><span>Popularity</span></div><div'
-    r'.*?'
-    r'<b>Origin:</b> (?P <drzava>)</p><span><a'
-    r'.*?'
-    r'</span</div>',
-    re.DOTALL)
-    seznam_psov = razlicne_pasme(directory, filename)
-    podatki_psov = []
-    for pes in seznam_psov:
-        for ujemanje in vzorec.finditer(pes):
-            podatki_psa = ujemanje.groupdict()
-            podatki_psov.append(podatki_psa)
-    return podatki_psov
-
-
-
-def pasme_file(filename, directory):
-    '''Parse the ads in filename/directory into a dictionary list.'''
-    vsebina = read_file_to_string(directory, filename)
-    oglasi = razlicne_pasme(directory, filename)
-    seznam_slovarjev = get_dict_from_ad_block(directory, filename)
-    return seznam_slovarjev
-
-
-def write_cat_ads_to_csv(seznam_slovarjev):
-    write_csv(['ime', 'popularnost', 'drzava'], seznam_slovarjev, dog_directory, csv_filename)
-    return None
+def vsebina_datoteke(ime_datoteke):
+    '''Vrne niz z vsebino datoteke z danim imenom.'''
+    with open(ime_datoteke, encoding='utf-8') as datoteka:
+        return datoteka.read()
 
 
 def zapisi_csv(slovarji, imena_polj, ime_datoteke):
@@ -123,97 +60,174 @@ def zapisi_csv(slovarji, imena_polj, ime_datoteke):
             writer.writerow(slovar)
 
 
+def zapisi_json(objekt, ime_datoteke):
+    '''Iz danega objekta ustvari JSON datoteko.'''
+    pripravi_imenik(ime_datoteke)
+    with open(ime_datoteke, 'w', encoding='utf-8') as json_datoteka:
+        json.dump(objekt, json_datoteka, indent=4, ensure_ascii=False)
+
+
+#pridobivanje linkov posamezne pasme       
+
+vzorec = re.compile(
+    r'<div class="list-01"><div class="left"><a href="(?P<link>.*?)">.*?',
+    re.DOTALL)
+
+
+def izloci_podatke_linkov(ujemanje_linka):
+    podatki_linka = ujemanje_linka.groupdict()
+    podatki_linka['link'] = podatki_linka['link'].strip()    
+    return podatki_linka
 
 
 
-##def pripravi_imenik(ime_datoteke):
-##    '''Če še ne obstaja, pripravi prazen imenik za dano datoteko.'''
-##    imenik = os.path.dirname(ime_datoteke)
-##    if imenik:
-##        os.makedirs(imenik, exist_ok=True)
-##
-##
-##def shrani_spletno_stran(url, ime_datoteke, vsili_prenos=False):
-##    '''Vsebino strani na danem naslovu shrani v datoteko z danim imenom.'''
-##    try:
-##        print('Shranjujem {} ...'.format(url), end='')
-##        sys.stdout.flush()
-##        if os.path.isfile(ime_datoteke) and not vsili_prenos:
-##            print('shranjeno že od prej!')
-##            return
-##        r = requests.get(url)
-##    except requests.exceptions.ConnectionError:
-##        print('stran ne obstaja!')
-##    else:
-##        pripravi_imenik(ime_datoteke)
-##        with open(ime_datoteke, 'w', encoding='utf-8') as datoteka:
-##            datoteka.write(r.text)
-##            print('shranjeno!')
-##
-##
-##def vsebina_datoteke(ime_datoteke):
-##    '''Vrne niz z vsebino datoteke z danim imenom.'''
-##    with open(ime_datoteke, encoding='utf-8') as datoteka:
-##        return datoteka.read()
-##
-##
-##def zapisi_csv(slovarji, imena_polj, ime_datoteke):
-##    '''Iz seznama slovarjev ustvari CSV datoteko z glavo.'''
-##    pripravi_imenik(ime_datoteke)
-##    with open(ime_datoteke, 'w', encoding='utf-8') as csv_datoteka:
-##        writer = csv.DictWriter(csv_datoteka, fieldnames=imena_polj)
-##        writer.writeheader()
-##        for slovar in slovarji:
-##            writer.writerow(slovar)
-##
-##
-##def zapisi_json(objekt, ime_datoteke):
-##    '''Iz danega objekta ustvari JSON datoteko.'''
-##    pripravi_imenik(ime_datoteke)
-##    with open(ime_datoteke, 'w', encoding='utf-8') as json_datoteka:
-##        json.dump(objekt, json_datoteka, indent=4, ensure_ascii=False)
-##
-##
-##
-###sestavim vzorec
-##    
-##vzorec = re.compile(
-##    r'<div class="list">'
-##    r'.*?'
-##    r'alt="(?P<ime>)"/></a></div><div'
-##    r'.*?'
-##    r'<div class="pop"><p>(?P<popularnost>)</p><span>Popularity</span></div><div'
-##    r'.*?'
-##    r'<b>Origin:</b> (?P <drzava>)</p><span><a'
-##    r'.*?'
-##    r'</span</div>',
-##    re.DOTALL)
-##
-##
-##def izloci_podatke_psa(ujemanje_psa):
-##    podatki_psa = ujemanje_psa.groupdict()
-##    podatki_psa['ime'] = podatki_psa['ime']
-##    podatki_psa['popularnost'] = podatki_psa['popularnost']
-##    podatki_psa['drzava'] = podatki_psa['drzava']    
-##    return podatki_psa
-##
-##
-### shranim vse strani dne 27.10.2018 (od 1 do 19, vse skupaj 369 zadetkov)
+
+# shranim vse strani dne 27.10.2018 (od 1 do 19, vse skupaj 369 zadetkov)
 ##for i in range(1, 20):
 ##    url = (
-##        'http://www.dogbreedslist.info/Popular-Puppy-Names.html#.W9Qpj5MzbMU'
+##        'http://www.dogbreedslist.info/all-dog-breeds/list_1_{}.html'
 ##    ).format(i)
 ##    shrani_spletno_stran(url, 'zajete_strani/pasme_psov_{}.html'.format(i))
-##
-##
-##
-##
-##podatki_psov = []
-##for i in range(1, 20):
-##    vsebina = vsebina_datoteke(
-##        'zajete-strani/pasme_psov{}.html'.format(i))
-##    for ujemanje_psa in vzorec.finditer(vsebina):
-##        podatki_psov.append(izloci_podatke_psa(ujemanje_psa))
-##zapisi_json(podatki_psov, 'obdelani-podatki/vsi-psi.json')
-##zapisi_csv(podatki_psov, ['ime', 'popularnost', 'drzava'], 'obdelani-podatki/vsi-psi.csv')
+
+
+
+
+podatki_linkov = []
+for i in range(1, 20):
+    vsebina = vsebina_datoteke(
+        'zajete_strani/pasme_psov_{}.html'.format(i))
+    for ujemanje_linka in vzorec.finditer(vsebina):
+        podatki_linkov.append(izloci_podatke_linkov(ujemanje_linka))
+zapisi_json(podatki_linkov, 'obdelani-podatki/vsi_psi.json')
+zapisi_csv(podatki_linkov, ['link'], 'obdelani-podatki/vsi_psi.csv')
+
+#vsi vzorci
+
+vzorec_ime = re.compile(
+    r'<td class="left">Name</td>.*?<td>(?P<ime>.*?)<.*?',
+    re.DOTALL)
+
+	
+vzorec_drzava = re.compile(
+    r'<td class="left">Origin</td>.*?"flag">(<.*?>)?(?P<drzava>.*?)<.*?',
+    re.DOTALL)
+
+
+vzorec_doba = re.compile(
+    r'<td class="left">Life span</td>.*?<td>(?P<zivljenska_doba>.*?)<',
+    re.DOTALL)
+
+
+vzorec_velikost = re.compile(
+    r'<td class="left">Size</td>.*?/">(?P<velikost>.*?)<.*?',
+    re.DOTALL)
+
+vzorec_visina = re.compile(
+    r'<td class="left">Height</td>.*?(<td>|<td>Male: )(?P<visina>.*?)(</td>|( )?<span>.*?)',
+    re.DOTALL)
+
+
+vzorec_popularnost = re.compile(
+    r'<td class="left">Popularity(.*?)?</td>.*?<td>2017: (?P<popularnost>.*?)<.*?',
+    re.DOTALL)
+
+
+vzorec_cena = re.compile(
+    r'<td class="left">Puppy Price</td>.*?<td>Average (?P<cena>.*?) USD</td>.*?',
+    re.DOTALL)
+
+
+
+vzorec_znacaj = re.compile(
+    r'<td class="left">Temperament</td>.*?<td>(?P<znacaj>.*?)</td>',
+    flags=re.DOTALL)
+
+vzorec_lastnost = re.compile(
+    r'(?P<lastnost>.*?)(<span>|</span>)',
+    flags=re.DOTALL)
+    
+
+
+
+def izloci_podatke_psov(vsebina):
+    podatki_psa = dict()
+    podatki_psa['ime'] = vzorec_ime.search(vsebina).group('ime').replace("&rsquo;", "\'")
+    podatki_psa['drzava'] = vzorec_drzava.search(vsebina).group('drzava').strip()
+    drzava = vzorec_drzava.search(vsebina)
+    if drzava['drzava'] == '&nbsp;':
+        podatki_psa['drzava'] = None
+    else:
+        podatki_psa['drzava'] = drzava['drzava']
+    podatki_psa['zivljenska_doba'] = vzorec_doba.search(vsebina).group('zivljenska_doba')
+    
+    visina = vzorec_visina.search(vsebina)
+    if visina:
+        podatki_psa['visina'] = visina['visina'].replace('Male: ', '').replace('Female: ','').replace('Standard: ','').replace('&frac12;', '').strip('Small: ').replace('&ndash;', '-').strip('~').strip('Up to ').replace('and under', '').strip('Males: ')
+    else :
+        podatki_psa['visina'] = None
+    podatki_psa['velikost'] = vzorec_velikost.search(vsebina).group('velikost')
+    popularnost = vzorec_popularnost.search(vsebina)
+    if popularnost:
+        podatki_psa['popularnost'] = popularnost['popularnost']
+    else:
+        podatki_psa['popularnost'] = None
+    cena = vzorec_cena.search(vsebina)
+    if cena:
+        podatki_psa['cena'] = cena['cena']
+    else:
+        podatki_psa['cena'] = None
+
+    seznam_znacajev = []
+    znacaji = vzorec_znacaj.search(vsebina).group('znacaj')
+    for ujemanje in vzorec_lastnost.finditer(znacaji):
+        seznam_znacajev.append(ujemanje.group('lastnost'))
+    
+    podatki_psa['znacaj'] = seznam_znacajev
+
+   
+
+    return podatki_psa
+
+
+#izločeni podatki za posebne tabele 
+def izloci_gnezdene_podatke(seznam):
+    znacaji = []
+
+    for podatki_psa in seznam_slovarjev:
+        for znacaj in podatki_psa.pop('znacaj'):
+            znacaji.append({'ime': podatki_psa['ime'], 'znacaj': znacaj})
+   
+    znacaji.sort(key=lambda znacaj: (podatki_psa['ime'], znacaj['znacaj']))
+
+    return znacaji
+
+
+
+
+#seznam slovarjev vseh psov
+
+seznam_slovarjev = []
+for i in range(1, 370):
+    datoteka = 'zajete_strani_pasem/pasma_psa_{}.html'.format(i)
+    vsebina = vsebina_datoteke(datoteka)
+    slovar_psa = izloci_podatke_psov(vsebina)
+    seznam_slovarjev.append(slovar_psa)
+
+
+#za enega psa popravimo na roke
+seznam_slovarjev[183]['visina'] = None
+
+zapisi_json(seznam_slovarjev, 'obdelani-podatki/vse_pasme.json')
+zapisi_csv(seznam_slovarjev, ['ime', 'drzava', 'zivljenska_doba', 'visina', 'velikost', 'popularnost', 'cena', 'znacaj'], 'obdelani-podatki/vse_pasme.csv') 
+
+
+znacaji = izloci_gnezdene_podatke(seznam_slovarjev)
+
+zapisi_json(znacaji, 'obdelani-podatki/znacaji_psov.json')
+zapisi_csv(znacaji, ['ime', 'znacaj'], 'obdelani-podatki/znacaji_psov.csv')
+
+
+
+print(len(seznam_slovarjev))
+
 
