@@ -4,10 +4,9 @@ Pasme psov
 
 Za vsako pasmo bom predstavila:
 * ime
-* velikost in težo
+* velikost 
 * povprečno življensko dobo
 * državo porekla
-* skupina
 * temperament
 * popularnost
 * cene mladičkov
