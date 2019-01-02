@@ -5,7 +5,7 @@
         "zivljenska_doba": "10-12 years",
         "visina": "22-24 inches (56-61cm)",
         "velikost": "Medium",
-        "popularnost": "#1",
+        "popularnost": "1",
         "cena": "$1000 - $2000",
         "znacaj": [
             "Affectionate",
@@ -28,7 +28,7 @@
         "zivljenska_doba": "10-13 years",
         "visina": "24-26 inches (60-65 cm)",
         "velikost": "Medium",
-        "popularnost": "#2",
+        "popularnost": "2",
         "cena": "$800 - $2000",
         "znacaj": [
             "Alert",
@@ -47,7 +47,7 @@
         "zivljenska_doba": "10-12 years",
         "visina": "22-24 inches (56-61cm)",
         "velikost": "Medium",
-        "popularnost": "#3",
+        "popularnost": "3",
         "cena": "$1000 - $2000",
         "znacaj": [
             "Confident",
@@ -64,7 +64,7 @@
         "zivljenska_doba": "10-12 years",
         "visina": "12 inches (30 cm)",
         "velikost": "Small",
-        "popularnost": "#4",
+        "popularnost": "4",
         "cena": "$2000 - $4000",
         "znacaj": [
             "Affectionate",
@@ -83,7 +83,7 @@
         "zivljenska_doba": "8-10 years",
         "visina": "12-16 inches (31-40 cm)",
         "velikost": "Medium",
-        "popularnost": "#5",
+        "popularnost": "5",
         "cena": "$1200 - $2000",
         "znacaj": [
             "Aggressive",
@@ -100,7 +100,7 @@
         "zivljenska_doba": "12-15 years",
         "visina": "14-16 inches (36-41 cm)",
         "velikost": "Small",
-        "popularnost": "#6",
+        "popularnost": "6",
         "cena": "$500 - $800",
         "znacaj": [
             "Friendly",
@@ -117,7 +117,7 @@
         "zivljenska_doba": "12-15 years",
         "visina": "15 inches (38 cm) or mor",
         "velikost": "Medium",
-        "popularnost": "#7",
+        "popularnost": "7",
         "cena": "$1000 - $1500",
         "znacaj": [
             "Active",
@@ -134,7 +134,7 @@
         "zivljenska_doba": "8-11 years",
         "visina": "24-27 inches (61-69 cm)",
         "velikost": "Medium",
-        "popularnost": "#8",
+        "popularnost": "8",
         "cena": "$1200 - $2000",
         "znacaj": [
             "Alert",
@@ -153,7 +153,7 @@
         "zivljenska_doba": "12-16 years",
         "visina": "20-23 cm (8-9 inches)",
         "velikost": "Small",
-        "popularnost": "#9",
+        "popularnost": "9",
         "cena": "$600 - $1000",
         "znacaj": [
             "Alert",
@@ -170,7 +170,7 @@
         "zivljenska_doba": "12-14 years",
         "visina": "23-25 inches (59-64 cm)",
         "velikost": "Medium",
-        "popularnost": "#10",
+        "popularnost": "10",
         "cena": "$600 - $800",
         "znacaj": [
             "Affectionate",
@@ -187,7 +187,7 @@
         "zivljenska_doba": "10-12 years",
         "visina": "22-25 inches (56-63 cm)",
         "velikost": "Medium",
-        "popularnost": "#11",
+        "popularnost": "11",
         "cena": "$600 - $1200",
         "znacaj": [
             "Brave",
@@ -206,7 +206,7 @@
         "zivljenska_doba": "12-14 years",
         "visina": "21-24 inches (53-61 cm)",
         "velikost": "Medium",
-        "popularnost": "#12",
+        "popularnost": "12",
         "cena": "$700 - $1200",
         "znacaj": [
             "Alert",
@@ -221,7 +221,7 @@
         "zivljenska_doba": "12-15 years",
         "visina": "Toy: 12 inches (30 cm)",
         "velikost": "Small",
-        "popularnost": "#13",
+        "popularnost": "13",
         "cena": "$500 - $700",
         "znacaj": [
             "Clever",
@@ -238,7 +238,7 @@
         "zivljenska_doba": "7-10 years",
         "visina": "30-34 inches (76-86 cm)",
         "velikost": "Giant",
-        "popularnost": "#14",
+        "popularnost": "14",
         "cena": "$800 - $1200",
         "znacaj": [
             "Friendly",
@@ -255,7 +255,7 @@
         "zivljenska_doba": "12-14 years",
         "visina": "10-12 inches (25-30 cm)",
         "velikost": "Small",
-        "popularnost": "#15",
+        "popularnost": "15",
         "cena": "$600 - $1000",
         "znacaj": [
             "Affectionate",
@@ -272,7 +272,7 @@
         "zivljenska_doba": "10-12 years",
         "visina": "26-28 inches (66-71cm)",
         "velikost": "Medium",
-        "popularnost": "#16",
+        "popularnost": "16",
         "cena": "$800 - $1000",
         "znacaj": [
             "Alert",
@@ -289,7 +289,7 @@
         "zivljenska_doba": "12-15 years",
         "visina": "20-23 inches (52-58cm)",
         "velikost": "Medium",
-        "popularnost": "#17",
+        "popularnost": "17",
         "cena": "$600 - $800",
         "znacaj": [
             "Active",
@@ -306,7 +306,7 @@
         "zivljenska_doba": "12-14 years",
         "visina": "14 inches (35.6 cm)",
         "velikost": "Small",
-        "popularnost": "#18",
+        "popularnost": "18",
         "cena": "$600 - $1000",
         "znacaj": [
             "Alert",
@@ -323,7 +323,7 @@
         "zivljenska_doba": "10-14 years",
         "visina": "12-13 inches (30-33 cm)",
         "velikost": "Small",
-        "popularnost": "#19",
+        "popularnost": "19",
         "cena": "$1200 - $1500",
         "znacaj": [
             "Affectionate",
@@ -340,7 +340,7 @@
         "zivljenska_doba": "10-16 years",
         "visina": "8-11 inches (20-28 cm)",
         "velikost": "Small",
-        "popularnost": "#20",
+        "popularnost": "20",
         "cena": "$800 - $1200",
         "znacaj": [
             "Active",
@@ -359,7 +359,7 @@
         "zivljenska_doba": "12-15 years",
         "visina": "15-17 inches (38-43 cm)",
         "velikost": "Small",
-        "popularnost": "#21",
+        "popularnost": "21",
         "cena": "$600 - $800",
         "znacaj": [
             "Affectionate",
@@ -376,7 +376,7 @@
         "zivljenska_doba": "12-16 years",
         "visina": "7-12 inches (18-30 cm)",
         "velikost": "Small",
-        "popularnost": "#22",
+        "popularnost": "22",
         "cena": "$600 - $800",
         "znacaj": [
             "Active",
@@ -393,7 +393,7 @@
         "zivljenska_doba": "14-16 years",
         "visina": "8-11 inches (20-28 cm)",
         "velikost": "Small",
-        "popularnost": "#23",
+        "popularnost": "23",
         "cena": "$900 - $1200",
         "znacaj": [
             "Affectionate",
@@ -410,7 +410,7 @@
         "zivljenska_doba": "12-14 years",
         "visina": "13-16 inches (33-41 cm)",
         "velikost": "Small",
-        "popularnost": "#24",
+        "popularnost": "24",
         "cena": "$800 - $1000",
         "znacaj": [
             "Affectionate",
@@ -427,7 +427,7 @@
         "zivljenska_doba": "7-10 years",
         "visina": "24-28 inches (61-71 cm)",
         "velikost": "Large",
-        "popularnost": "#25",
+        "popularnost": "25",
         "cena": "$800 - $1000",
         "znacaj": [
             "Affectionate",
@@ -442,7 +442,7 @@
         "zivljenska_doba": "12-15 years",
         "visina": "17-21 inches (43-53 cm)",
         "velikost": "Medium",
-        "popularnost": "#26",
+        "popularnost": "26",
         "cena": "$700 - $800",
         "znacaj": [
             "Alert",
@@ -457,7 +457,7 @@
         "zivljenska_doba": "10-14 years",
         "visina": "19-21 inches (48-56 cm)",
         "velikost": "Medium",
-        "popularnost": "#27",
+        "popularnost": "27",
         "cena": "$700 - $800",
         "znacaj": [
             "Affectionate",
@@ -474,7 +474,7 @@
         "zivljenska_doba": "10-12 years",
         "visina": "30 inches (76 cm)",
         "velikost": "Giant",
-        "popularnost": "#28",
+        "popularnost": "28",
         "cena": "$1200 - $1500",
         "znacaj": [
             "Affectionate",
@@ -491,7 +491,7 @@
         "zivljenska_doba": "12-15 years",
         "visina": "15-16.5 inches (38-41 cm)",
         "velikost": "Medium",
-        "popularnost": "#29",
+        "popularnost": "29",
         "cena": "$600 - $800",
         "znacaj": [
             "Even Tempered",
@@ -508,7 +508,7 @@
         "zivljenska_doba": "10-14 years",
         "visina": "22-26 inches (56-66 cm)",
         "velikost": "Medium",
-        "popularnost": "#30",
+        "popularnost": "30",
         "cena": "$800 - $1200",
         "znacaj": [
             "Affectionate",
@@ -527,7 +527,7 @@
         "zivljenska_doba": "12-15 years",
         "visina": "12-14 inches (30-36 cm)",
         "velikost": "Small",
-        "popularnost": "#31",
+        "popularnost": "31",
         "cena": "$300 - $500",
         "znacaj": [
             "Affectionate",
@@ -546,7 +546,7 @@
         "zivljenska_doba": "14-18 years",
         "visina": "6-9 inches (15-23 cm)",
         "velikost": "Small",
-        "popularnost": "#32",
+        "popularnost": "32",
         "cena": "$600 - $800",
         "znacaj": [
             "Alert",
@@ -563,7 +563,7 @@
         "zivljenska_doba": "15-18 years",
         "visina": "8-10 inches (21-25 cm)",
         "velikost": "Small",
-        "popularnost": "#33",
+        "popularnost": "33",
         "cena": "$600 - $800",
         "znacaj": [
             "Active",
@@ -582,7 +582,7 @@
         "zivljenska_doba": "10-12 years",
         "visina": "24-24 inches (61-69 cm)",
         "velikost": "Medium",
-        "popularnost": "#34",
+        "popularnost": "34",
         "cena": "$1500 - $2000",
         "znacaj": [
             "Alert",
@@ -601,7 +601,7 @@
         "zivljenska_doba": "13-15 years",
         "visina": "14-18 inches (36-46 cm)",
         "velikost": "Small",
-        "popularnost": "#35",
+        "popularnost": "35",
         "cena": "$900 - $1000",
         "znacaj": [
             "Devoted",
@@ -616,7 +616,7 @@
         "zivljenska_doba": "9-12 years",
         "visina": "27-29 inches (69-74 cm)",
         "velikost": "Large",
-        "popularnost": "#36",
+        "popularnost": "36",
         "cena": "$1500 - $2000",
         "znacaj": [
             "Cheerful",
@@ -633,7 +633,7 @@
         "zivljenska_doba": "10-11 years",
         "visina": "24-27 inches (64-68 cm)",
         "velikost": "Large",
-        "popularnost": "#37",
+        "popularnost": "37",
         "cena": "$1500 - $2000",
         "znacaj": [
             "Cheerful",
@@ -648,7 +648,7 @@
         "zivljenska_doba": "12-15 years",
         "visina": "19-22 inches (48-56 cm)",
         "velikost": "Medium",
-        "popularnost": "#38",
+        "popularnost": "38",
         "cena": "$600 - $800",
         "znacaj": [
             "Intelligent",
@@ -665,7 +665,7 @@
         "zivljenska_doba": "10-12 years",
         "visina": "12-15 inches (30-38 cm)",
         "velikost": "Medium",
-        "popularnost": "#39",
+        "popularnost": "39",
         "cena": "$300 - $500",
         "znacaj": [
             "Affectionate",
@@ -682,7 +682,7 @@
         "zivljenska_doba": "14-16 years",
         "visina": "24-26 inches (61-66 cm)",
         "velikost": "Large",
-        "popularnost": "#40",
+        "popularnost": "40",
         "cena": "$400 - $600",
         "znacaj": [
             "Friendly",
@@ -699,7 +699,7 @@
         "zivljenska_doba": "10-12 years",
         "visina": "25-27 inches (63-69 cm)",
         "velikost": "Large",
-        "popularnost": "#41",
+        "popularnost": "41",
         "cena": "$900 - $1200",
         "znacaj": [
             "Dignified",
@@ -716,7 +716,7 @@
         "zivljenska_doba": "12-16 years",
         "visina": "10-12 inches (25-30 cm)",
         "velikost": "Small",
-        "popularnost": "#42",
+        "popularnost": "42",
         "cena": "$900 - $1200",
         "znacaj": [
             "Affectionate",
@@ -733,7 +733,7 @@
         "zivljenska_doba": "10-13 years",
         "visina": "23-26 inches (58-66 cm)",
         "velikost": "Large",
-        "popularnost": "#43",
+        "popularnost": "43",
         "cena": "$700 - $900",
         "znacaj": [
             "Happy",
@@ -750,7 +750,7 @@
         "zivljenska_doba": "12-14 years",
         "visina": "61-66 cm (24-26 in)",
         "velikost": "Medium",
-        "popularnost": "#44",
+        "popularnost": "44",
         "cena": "$600 - $800",
         "znacaj": [
             "Active",
@@ -769,7 +769,7 @@
         "zivljenska_doba": "12-15 years",
         "visina": "14-16 inches (36-41 cm)",
         "velikost": "Medium",
-        "popularnost": "#45",
+        "popularnost": "45",
         "cena": "$800 - $1000",
         "znacaj": [
             "Alert",
@@ -786,7 +786,7 @@
         "zivljenska_doba": "12-15 years",
         "visina": "9-12 inches (23-30 cm)",
         "velikost": "Small",
-        "popularnost": "#46",
+        "popularnost": "46",
         "cena": "$700 - $1000",
         "znacaj": [
             "Affectionate",
@@ -803,7 +803,7 @@
         "zivljenska_doba": "10-14 years",
         "visina": "26-28 inches (66-71 cm)",
         "velikost": "Large",
-        "popularnost": "#47",
+        "popularnost": "47",
         "cena": "$800 - $1200",
         "znacaj": [
             "Alert",
@@ -820,7 +820,7 @@
         "zivljenska_doba": "8-10 years",
         "visina": "25.5-27.5 inches (61-70 cm)",
         "velikost": "Giant",
-        "popularnost": "#48",
+        "popularnost": "48",
         "cena": "$1500 - $1800",
         "znacaj": [
             "Friendly",
@@ -837,7 +837,7 @@
         "zivljenska_doba": "12-15 years",
         "visina": "18-20 inches (46-51 cm)",
         "velikost": "Medium",
-        "popularnost": "#49",
+        "popularnost": "49",
         "cena": "$800 - $1000",
         "znacaj": [
             "Affectionate",
@@ -854,7 +854,7 @@
         "zivljenska_doba": "10-12 years",
         "visina": "25-27 inches (63-69 cm)",
         "velikost": "Large",
-        "popularnost": "#50",
+        "popularnost": "50",
         "cena": "$800 - $1200",
         "znacaj": [
             "Affectionate",
@@ -869,7 +869,7 @@
         "zivljenska_doba": "8-10 years",
         "visina": "25-27 inches (63-69 cm)",
         "velikost": "Large",
-        "popularnost": "#51",
+        "popularnost": "51",
         "cena": "$1200 - $1500",
         "znacaj": [
             "Alert",
@@ -888,7 +888,7 @@
         "zivljenska_doba": "12-14 years",
         "visina": "15-17 inches (38-43 cm)",
         "velikost": "Medium",
-        "popularnost": "#52",
+        "popularnost": "52",
         "cena": "$900 - $1200",
         "znacaj": [
             "Affectionate",
@@ -905,7 +905,7 @@
         "zivljenska_doba": "13-16 years",
         "visina": "8-11 inches (20-28 cm)",
         "velikost": "Small",
-        "popularnost": "#53",
+        "popularnost": "53",
         "cena": "$400 - $600",
         "znacaj": [
             "Alert",
@@ -922,7 +922,7 @@
         "zivljenska_doba": "10-14 years",
         "visina": "20-22 inches (50-57 cm)",
         "velikost": "Medium",
-        "popularnost": "#54",
+        "popularnost": "54",
         "cena": "$2500 - $2800",
         "znacaj": [
             "Brave",
@@ -939,7 +939,7 @@
         "zivljenska_doba": "10-13 years",
         "visina": "22-24 inches (56-61 cm)",
         "velikost": "Medium",
-        "popularnost": "#55",
+        "popularnost": "55",
         "cena": "$600 - $800",
         "znacaj": [
             "Alert",
@@ -956,7 +956,7 @@
         "zivljenska_doba": "12-15 years",
         "visina": "17-20 inches (43-51 cm)",
         "velikost": "Medium",
-        "popularnost": "#56",
+        "popularnost": "56",
         "cena": "$500 - $700",
         "znacaj": [
             "Aggressive",
@@ -973,7 +973,7 @@
         "zivljenska_doba": "12-14 years",
         "visina": "21-23.5 inches (53-60 cm)",
         "velikost": "Medium",
-        "popularnost": "#57",
+        "popularnost": "57",
         "cena": "$1200 - $1500",
         "znacaj": [
             "Alert",
@@ -990,7 +990,7 @@
         "zivljenska_doba": "11-13 years",
         "visina": "10-11 inches (25-28 cm)",
         "velikost": "Small",
-        "popularnost": "#58",
+        "popularnost": "58",
         "cena": "$800 - $1000",
         "znacaj": [
             "Independent",
@@ -1007,7 +1007,7 @@
         "zivljenska_doba": "12-15 years",
         "visina": "24 - 26 inches (61 - 66 cm)",
         "velikost": "Large",
-        "popularnost": "#59",
+        "popularnost": "59",
         "cena": "$1200 - $1500",
         "znacaj": [
             "Affectionate",
@@ -1024,7 +1024,7 @@
         "zivljenska_doba": "10-12 years",
         "visina": "20-24 inches (51-61 cm)",
         "velikost": "Medium",
-        "popularnost": "#60",
+        "popularnost": "60",
         "cena": "$1200 - $1500",
         "znacaj": [
             "Active",
@@ -1039,7 +1039,7 @@
         "zivljenska_doba": "12-15 years",
         "visina": "19 - 22 inches (47 - 56 cm)",
         "velikost": "Medium",
-        "popularnost": "#61",
+        "popularnost": "61",
         "cena": "$800 - $1200",
         "znacaj": [
             "Affectionate",
@@ -1056,7 +1056,7 @@
         "zivljenska_doba": "12-14 years",
         "visina": "24-26 inches (60-67 cm)",
         "velikost": "Medium",
-        "popularnost": "#62",
+        "popularnost": "62",
         "cena": "$700 - $900",
         "znacaj": [
             "Active",
@@ -1073,7 +1073,7 @@
         "zivljenska_doba": "12-14 years",
         "visina": "22 - 24 inches (50 - 60 cm)",
         "velikost": "Large",
-        "popularnost": "#63",
+        "popularnost": "63",
         "cena": "$700 - $900",
         "znacaj": [
             "Active",
@@ -1090,7 +1090,7 @@
         "zivljenska_doba": "8-10 years",
         "visina": "18-20 inches (46-51 cm)",
         "velikost": "Medium",
-        "popularnost": "#64",
+        "popularnost": "64",
         "cena": "$1000 - $1200",
         "znacaj": [
             "Affectionate",
@@ -1107,7 +1107,7 @@
         "zivljenska_doba": "12-14 years",
         "visina": "20-24 inches (50-60 cm)",
         "velikost": "Medium",
-        "popularnost": "#65",
+        "popularnost": "65",
         "cena": "$600 - $800",
         "znacaj": [
             "Gentle",
@@ -1124,7 +1124,7 @@
         "zivljenska_doba": "10-12 years",
         "visina": "27-32 inches (69-81 cm)",
         "velikost": "Giant",
-        "popularnost": "#66",
+        "popularnost": "66",
         "cena": "$700 - $900",
         "znacaj": [
             "Affectionate",
@@ -1141,7 +1141,7 @@
         "zivljenska_doba": "10-12 years",
         "visina": "23-30 inches (58-75 cm)",
         "velikost": "Large",
-        "popularnost": "#67",
+        "popularnost": "67",
         "cena": "$1000 - $1300",
         "znacaj": [
             "Companionable",
@@ -1158,7 +1158,7 @@
         "zivljenska_doba": "12-15 years",
         "visina": "10-13 inches (25-33 cm)",
         "velikost": "Medium",
-        "popularnost": "#68",
+        "popularnost": "68",
         "cena": "$1000 - $1200",
         "znacaj": [
             "Active",
@@ -1175,7 +1175,7 @@
         "zivljenska_doba": "12-15 years",
         "visina": "10-13 inches (25-33 cm)",
         "velikost": "Small",
-        "popularnost": "#69",
+        "popularnost": "69",
         "cena": "$700 - $1000",
         "znacaj": [
             "Active",
@@ -1192,7 +1192,7 @@
         "zivljenska_doba": "10-12 years",
         "visina": "22-24 inches (56-61 cm)",
         "velikost": "Large",
-        "popularnost": "#70",
+        "popularnost": "70",
         "cena": "$1200 - $1500",
         "znacaj": [
             "Adaptable",
@@ -1209,7 +1209,7 @@
         "zivljenska_doba": "12-15 years",
         "visina": "10-12 inches (25-30 cm)",
         "velikost": "Small",
-        "popularnost": "#71",
+        "popularnost": "71",
         "cena": "$400 - $600",
         "znacaj": [
             "Clever",
@@ -1226,7 +1226,7 @@
         "zivljenska_doba": "12-14 years",
         "visina": "26-28 inches (66-71 cm)",
         "velikost": "Large",
-        "popularnost": "#72",
+        "popularnost": "72",
         "cena": "$800 - $1000",
         "znacaj": [
             "Affectionate",
@@ -1243,7 +1243,7 @@
         "zivljenska_doba": "6-10 years",
         "visina": "28-35 inches (71-90 cm)",
         "velikost": "Giant",
-        "popularnost": "#73",
+        "popularnost": "73",
         "cena": "$1800 - $2000",
         "znacaj": [
             "Dignified",
@@ -1260,7 +1260,7 @@
         "zivljenska_doba": "12-15 years",
         "visina": "12-15 inches (30-38 cm)",
         "velikost": "Small",
-        "popularnost": "#74",
+        "popularnost": "74",
         "cena": "$800 - $1000",
         "znacaj": [
             "Affectionate",
@@ -1277,7 +1277,7 @@
         "zivljenska_doba": "10-12 years",
         "visina": "23.5-28.5 (60-72 cm)",
         "velikost": "Large",
-        "popularnost": "#75",
+        "popularnost": "75",
         "cena": "$2000 - $2500",
         "znacaj": [
             "Alert",
@@ -1294,7 +1294,7 @@
         "zivljenska_doba": "13-15 years",
         "visina": "18-22 inches (46-56 cm)",
         "velikost": "Medium",
-        "popularnost": "#76",
+        "popularnost": "76",
         "cena": "$600 - $800",
         "znacaj": [
             "Aloof",
@@ -1311,7 +1311,7 @@
         "zivljenska_doba": "12-15 years",
         "visina": "10-11 inches (25-28 cm)",
         "velikost": "Small",
-        "popularnost": "#77",
+        "popularnost": "77",
         "cena": "$500 - $700",
         "znacaj": [
             "Alert",
@@ -1332,7 +1332,7 @@
         "zivljenska_doba": "13-16 years",
         "visina": "8-15 inches (20-38 cm)",
         "velikost": "Small",
-        "popularnost": "#78",
+        "popularnost": "78",
         "cena": "$700 - $1000",
         "znacaj": [
             "Alert",
@@ -1347,7 +1347,7 @@
         "zivljenska_doba": "12-14 years",
         "visina": "10-13 inches (25-33 cm)",
         "velikost": "Small",
-        "popularnost": "#79",
+        "popularnost": "79",
         "cena": "$800 - $1000",
         "znacaj": [
             "Affectionate",
@@ -1364,7 +1364,7 @@
         "zivljenska_doba": "10-12 years",
         "visina": "26-28 inches (66-71 cm)",
         "velikost": "Large",
-        "popularnost": "#80",
+        "popularnost": "80",
         "cena": "$1000 - $1500",
         "znacaj": [
             "Dominant",
@@ -1381,7 +1381,7 @@
         "zivljenska_doba": "14-16 years",
         "visina": "10-12 inches (25-30 cm)",
         "velikost": "Small",
-        "popularnost": "#81",
+        "popularnost": "81",
         "cena": "$2400 - $3000",
         "znacaj": [
             "Affectionate",
@@ -1398,7 +1398,7 @@
         "zivljenska_doba": "12-14 years",
         "visina": "14-16 inches (36-41 cm)",
         "velikost": "Medium",
-        "popularnost": "#82",
+        "popularnost": "82",
         "cena": "$1500 - $2000",
         "znacaj": [
             "Affectionate",
@@ -1415,7 +1415,7 @@
         "zivljenska_doba": "12-14 years",
         "visina": "17-19 inches (43-48 cm)",
         "velikost": "Medium",
-        "popularnost": "#83",
+        "popularnost": "83",
         "cena": "$800 - $1000",
         "znacaj": [
             "Attentive",
@@ -1432,7 +1432,7 @@
         "zivljenska_doba": "10-12 years",
         "visina": "16-17 inches (41-43 cm)",
         "velikost": "Medium",
-        "popularnost": "#84",
+        "popularnost": "84",
         "cena": "$1000 - $1200",
         "znacaj": [
             "Affectionate",
@@ -1449,7 +1449,7 @@
         "zivljenska_doba": "10-12 years",
         "visina": "23-28 inches (58-71 cm)",
         "velikost": "Large",
-        "popularnost": "#85",
+        "popularnost": "85",
         "cena": "$1500 - $2000",
         "znacaj": [
             "Familial",
@@ -1466,7 +1466,7 @@
         "zivljenska_doba": "10-13 years",
         "visina": "28-30 inches (71-76 cm)",
         "velikost": "Large",
-        "popularnost": "#86",
+        "popularnost": "86",
         "cena": "$700 - $900",
         "znacaj": [
             "Bold",
@@ -1483,7 +1483,7 @@
         "zivljenska_doba": "12-14 years",
         "visina": "17-19 inches (44-48 cm)",
         "velikost": "Medium",
-        "popularnost": "#87",
+        "popularnost": "87",
         "cena": "$800 - $1000",
         "znacaj": [
             "Agile",
@@ -1500,7 +1500,7 @@
         "zivljenska_doba": "13-15 years",
         "visina": "6-9 inches (30.4-45 cm)",
         "velikost": "Small",
-        "popularnost": "#88",
+        "popularnost": "88",
         "cena": "$600 - $800",
         "znacaj": [
             "Affectionate",
@@ -1517,7 +1517,7 @@
         "zivljenska_doba": "12-14 years",
         "visina": "17-21 inches (43-53 cm)",
         "velikost": "Medium",
-        "popularnost": "#89",
+        "popularnost": "89",
         "cena": "$1800 - $2000",
         "znacaj": [
             "Affectionate",
@@ -1534,7 +1534,7 @@
         "zivljenska_doba": "12-15 years",
         "visina": "18-20 inches (46-51 cm)",
         "velikost": "Medium",
-        "popularnost": "#90",
+        "popularnost": "90",
         "cena": "$1200 - $1500",
         "znacaj": [
             "Devoted",
@@ -1551,7 +1551,7 @@
         "zivljenska_doba": "10-12 years",
         "visina": "19-21 inches (48-53 cm)",
         "velikost": "Medium",
-        "popularnost": "#91",
+        "popularnost": "91",
         "cena": "$500 - $700",
         "znacaj": [
             "Alert",
@@ -1568,7 +1568,7 @@
         "zivljenska_doba": "12-15 years",
         "visina": "13-16 inches (33-41 cm)",
         "velikost": "Small",
-        "popularnost": "#92",
+        "popularnost": "92",
         "cena": "$1200 - $1400",
         "znacaj": [
             "Affectionate",
@@ -1585,7 +1585,7 @@
         "zivljenska_doba": "12-14 years",
         "visina": "27-29 inches (69-74 cm)",
         "velikost": "Large",
-        "popularnost": "#93",
+        "popularnost": "93",
         "cena": "$2000 - $2500",
         "znacaj": [
             "Aloof",
@@ -1600,7 +1600,7 @@
         "zivljenska_doba": "12-15 years",
         "visina": "7-8 inches (18-20 cm)",
         "velikost": "Small",
-        "popularnost": "#94",
+        "popularnost": "94",
         "cena": "$800 - $1000",
         "znacaj": [
             "Alert",
@@ -1617,7 +1617,7 @@
         "zivljenska_doba": "10-12 years",
         "visina": "24-27 inches (61-69 cm)",
         "velikost": "Large",
-        "popularnost": "#95",
+        "popularnost": "95",
         "cena": "$400 - $600",
         "znacaj": [
             "Strong Willed",
@@ -1634,7 +1634,7 @@
         "zivljenska_doba": "10-13 years",
         "visina": "22-23 inches (56-58 cm)",
         "velikost": "Medium",
-        "popularnost": "#96",
+        "popularnost": "96",
         "cena": "$1000 - $1200",
         "znacaj": [
             "Friendly",
@@ -1651,7 +1651,7 @@
         "zivljenska_doba": "15-18 years",
         "visina": "14-23 inches (35.5-58.5 cm)",
         "velikost": "Small",
-        "popularnost": "#97",
+        "popularnost": "97",
         "cena": "$300 - $500",
         "znacaj": [
             "Affectionate",
@@ -1666,7 +1666,7 @@
         "zivljenska_doba": "14-16 years",
         "visina": "15-18 inches (38-46 cm)",
         "velikost": "Medium",
-        "popularnost": "#98",
+        "popularnost": "98",
         "cena": "$800 - $1000",
         "znacaj": [
             "Companionable",
@@ -1683,7 +1683,7 @@
         "zivljenska_doba": "12-14 years",
         "visina": "14-16 inches (36-41 cm)",
         "velikost": "Medium",
-        "popularnost": "#99",
+        "popularnost": "99",
         "cena": "$800 - $1000",
         "znacaj": [
             "Alert",
@@ -1700,7 +1700,7 @@
         "zivljenska_doba": "8-10 years",
         "visina": "29-31 inches (74-80 cm)",
         "velikost": "Giant",
-        "popularnost": "#100",
+        "popularnost": "100",
         "cena": "$1500 - $2000",
         "znacaj": [
             "Adaptable",
@@ -1717,7 +1717,7 @@
         "zivljenska_doba": "12-15 years",
         "visina": "14-17 inches (36-43 cm)",
         "velikost": "Medium",
-        "popularnost": "#101",
+        "popularnost": "101",
         "cena": "$1200 - $2000",
         "znacaj": [
             "Affectionate",
@@ -1734,7 +1734,7 @@
         "zivljenska_doba": "10-12 years",
         "visina": "28 inches (71 cm)",
         "velikost": "Large",
-        "popularnost": "#102",
+        "popularnost": "102",
         "cena": "$1000 - $1200",
         "znacaj": [
             "Athletic",
@@ -1751,7 +1751,7 @@
         "zivljenska_doba": "10-12 years",
         "visina": "24-26 inches (61-66 cm)",
         "velikost": "Medium",
-        "popularnost": "#103",
+        "popularnost": "103",
         "cena": "$1200 - $1500",
         "znacaj": [
             "Alert",
@@ -1768,7 +1768,7 @@
         "zivljenska_doba": "10-12 years",
         "visina": "24-27 inches (61-69 cm)",
         "velikost": "Large",
-        "popularnost": "#104",
+        "popularnost": "104",
         "cena": "$800 - $1000",
         "znacaj": [
             "Alert",
@@ -1785,7 +1785,7 @@
         "zivljenska_doba": "12-15 years",
         "visina": "10 inches (25 cm)",
         "velikost": "Small",
-        "popularnost": "#105",
+        "popularnost": "105",
         "cena": "$1400 - $2000",
         "znacaj": [
             "Affectionate",
@@ -1800,7 +1800,7 @@
         "zivljenska_doba": "12-15 years",
         "visina": "9-10 inches (23-25 cm)",
         "velikost": "Small",
-        "popularnost": "#106",
+        "popularnost": "106",
         "cena": "$600 - $800",
         "znacaj": [
             "Alert",
@@ -1817,7 +1817,7 @@
         "zivljenska_doba": "8-10 years",
         "visina": "26-30 inches (65-75 cm)",
         "velikost": "Large",
-        "popularnost": "#107",
+        "popularnost": "107",
         "cena": "$1500 - $2000",
         "znacaj": [
             "Protective",
@@ -1834,7 +1834,7 @@
         "zivljenska_doba": "10-12 years",
         "visina": "7-11 inches (18-28 cm)",
         "velikost": "Small",
-        "popularnost": "#108",
+        "popularnost": "108",
         "cena": "$300 - $500",
         "znacaj": [
             "Alert",
@@ -1851,7 +1851,7 @@
         "zivljenska_doba": "10-14 years",
         "visina": "15 inches (39 cm)",
         "velikost": "Small",
-        "popularnost": "#109",
+        "popularnost": "109",
         "cena": "$800 - $1200",
         "znacaj": [
             "Alert",
@@ -1868,7 +1868,7 @@
         "zivljenska_doba": "13-15 years",
         "visina": "10-13 inches (21-33 cm)",
         "velikost": "Small",
-        "popularnost": "#110",
+        "popularnost": "110",
         "cena": "$600 - $1000",
         "znacaj": [
             "Agile",
@@ -1885,7 +1885,7 @@
         "zivljenska_doba": "12-14 years",
         "visina": "22-27 inch",
         "velikost": "Medium",
-        "popularnost": "#111",
+        "popularnost": "111",
         "cena": "$1500 - $2000",
         "znacaj": [
             "Friendly",
@@ -1902,7 +1902,7 @@
         "zivljenska_doba": "13-14 years",
         "visina": "10 inches (25 cm)",
         "velikost": "Small",
-        "popularnost": "#112",
+        "popularnost": "112",
         "cena": "$400 - $600",
         "znacaj": [
             "Alert",
@@ -1919,7 +1919,7 @@
         "zivljenska_doba": "12-15 years",
         "visina": "22-24 inches (55-62 cm)",
         "velikost": "Medium",
-        "popularnost": "#113",
+        "popularnost": "113",
         "cena": "$400 - $500",
         "znacaj": [
             "Active",
@@ -1936,7 +1936,7 @@
         "zivljenska_doba": "12-15 years",
         "visina": "18 inches (43 cm)",
         "velikost": "Medium",
-        "popularnost": "#114",
+        "popularnost": "114",
         "cena": "$600 - $800",
         "znacaj": [
             "Dominant",
@@ -1953,7 +1953,7 @@
         "zivljenska_doba": "10-12 years",
         "visina": "10-14 inches (25-33 cm)",
         "velikost": "Small",
-        "popularnost": "#115",
+        "popularnost": "115",
         "cena": "$1200 - $2000",
         "znacaj": [
             "Courageous",
@@ -1970,7 +1970,7 @@
         "zivljenska_doba": "10-14 years",
         "visina": "25-29 inches (64-74 cm)",
         "velikost": "Large",
-        "popularnost": "#116",
+        "popularnost": "116",
         "cena": "$1800 - $2500",
         "znacaj": [
             "Brave",
@@ -1987,7 +1987,7 @@
         "zivljenska_doba": "14-16 years",
         "visina": "17-19 inches (43-49 cm)",
         "velikost": "Medium",
-        "popularnost": "#117",
+        "popularnost": "117",
         "cena": "$500 - $700",
         "znacaj": [
             "Cheerful",
@@ -2004,7 +2004,7 @@
         "zivljenska_doba": "12-15 years",
         "visina": "Toy: 9-12 inches (22-30 cm)",
         "velikost": "Small",
-        "popularnost": "#118",
+        "popularnost": "118",
         "cena": "$600 - $800",
         "znacaj": [
             "Alert",
@@ -2021,7 +2021,7 @@
         "zivljenska_doba": "13-15 years",
         "visina": "12-14 inches (31-36 cm)",
         "velikost": "Medium",
-        "popularnost": "#119",
+        "popularnost": "119",
         "cena": "$400 - $600",
         "znacaj": [
             "Energetic",
@@ -2038,7 +2038,7 @@
         "zivljenska_doba": "12-14 years",
         "visina": "24-26 inches (61-66 cm)",
         "velikost": "Large",
-        "popularnost": "#120",
+        "popularnost": "120",
         "cena": "$1200 - $1400",
         "znacaj": [
             "Active",
@@ -2057,7 +2057,7 @@
         "zivljenska_doba": "12-15 years",
         "visina": "10 inches (25 cm)",
         "velikost": "Small",
-        "popularnost": "#121",
+        "popularnost": "121",
         "cena": "$800 - $1000",
         "znacaj": [
             "Intelligent",
@@ -2074,7 +2074,7 @@
         "zivljenska_doba": "12-15 years",
         "visina": "14-16 inches (36-41 cm)",
         "velikost": "Small",
-        "popularnost": "#122",
+        "popularnost": "122",
         "cena": "$700 - $1000",
         "znacaj": [
             "Active",
@@ -2091,7 +2091,7 @@
         "zivljenska_doba": "12-14 years",
         "visina": "23 - 28 inches (58 - 71cm)",
         "velikost": "Large",
-        "popularnost": "#123",
+        "popularnost": "123",
         "cena": "$600 - $800",
         "znacaj": [
             "Aloof",
@@ -2106,7 +2106,7 @@
         "zivljenska_doba": "10-12 years",
         "visina": "25-28 inches (64-70 cm)",
         "velikost": "Large",
-        "popularnost": "#124",
+        "popularnost": "124",
         "cena": "$1500 - $2000",
         "znacaj": [
             "Confident",
@@ -2121,7 +2121,7 @@
         "zivljenska_doba": "12-14 years",
         "visina": "20-22 inches (51-56 cm)",
         "velikost": "Medium",
-        "popularnost": "#125",
+        "popularnost": "125",
         "cena": "$1200 - $1400",
         "znacaj": [
             "Active",
@@ -2138,7 +2138,7 @@
         "zivljenska_doba": "14-16 years",
         "visina": "7-16 inches (18-41 cm)",
         "velikost": "Small",
-        "popularnost": "#126",
+        "popularnost": "126",
         "cena": "$300 - $500",
         "znacaj": [
             "Alert",
@@ -2155,7 +2155,7 @@
         "zivljenska_doba": "10-12 years",
         "visina": "24-27 inches (62-68 cm)",
         "velikost": "Large",
-        "popularnost": "#127",
+        "popularnost": "127",
         "cena": "$1000 - $1200",
         "znacaj": [
             "Faithful",
@@ -2172,7 +2172,7 @@
         "zivljenska_doba": "12-15 years",
         "visina": "10 inches (25 cm)",
         "velikost": "Small",
-        "popularnost": "#128",
+        "popularnost": "128",
         "cena": "$2000 - $2500",
         "znacaj": [
             "Companionable",
@@ -2189,7 +2189,7 @@
         "zivljenska_doba": "12-15 years",
         "visina": "18-20 inches (46-51 cm)",
         "velikost": "Medium",
-        "popularnost": "#129",
+        "popularnost": "129",
         "cena": "$500 - $600",
         "znacaj": [
             "Affectionate",
@@ -2206,7 +2206,7 @@
         "zivljenska_doba": "10-12 years",
         "visina": "23-27 inches (58-68 cm)",
         "velikost": "Large",
-        "popularnost": "#130",
+        "popularnost": "130",
         "cena": "$300 - $400",
         "znacaj": [
             "Adaptable",
@@ -2223,7 +2223,7 @@
         "zivljenska_doba": "12-13 years",
         "visina": "20-27 inches (51-69 cm)",
         "velikost": "Medium",
-        "popularnost": "#131",
+        "popularnost": "131",
         "cena": "$400 - $600",
         "znacaj": [
             "Affectionate",
@@ -2238,7 +2238,7 @@
         "zivljenska_doba": "11-12 years",
         "visina": "20-27 inches (51-69 cm)",
         "velikost": "Large",
-        "popularnost": "#132",
+        "popularnost": "132",
         "cena": "$500 - $600",
         "znacaj": [
             "Friendly",
@@ -2251,7 +2251,7 @@
         "zivljenska_doba": "12-15 years",
         "visina": "17-19 inches (43-48 cm)",
         "velikost": "Medium",
-        "popularnost": "#133",
+        "popularnost": "133",
         "cena": "$1200 - $1400",
         "znacaj": [
             "Affectionate",
@@ -2268,7 +2268,7 @@
         "zivljenska_doba": "10-12 years",
         "visina": "9-11 inches (23-28 cm)",
         "velikost": "Small",
-        "popularnost": "#134",
+        "popularnost": "134",
         "cena": "$1000 - $1800",
         "znacaj": [
             "Affectionate",
@@ -2285,7 +2285,7 @@
         "zivljenska_doba": "14-16 years",
         "visina": "Toy: 10-12 inches (25-30 cm)",
         "velikost": "Small",
-        "popularnost": "#135",
+        "popularnost": "135",
         "cena": "$600 - $1000",
         "znacaj": [
             "Active",
@@ -2302,7 +2302,7 @@
         "zivljenska_doba": "12-15 years",
         "visina": "16-19 inches (41-48 cm)",
         "velikost": "Medium",
-        "popularnost": "#136",
+        "popularnost": "136",
         "cena": "$1400 - $1600",
         "znacaj": [
             "Even Tempered",
@@ -2319,7 +2319,7 @@
         "zivljenska_doba": "12-15 years",
         "visina": "9-11 inches (23-28 cm)",
         "velikost": "Small",
-        "popularnost": "#137",
+        "popularnost": "137",
         "cena": "$1000 - $1500",
         "znacaj": [
             "Alert",
@@ -2336,7 +2336,7 @@
         "zivljenska_doba": "12-16 years",
         "visina": "14 inches (36.8 cm)",
         "velikost": "Small",
-        "popularnost": "#138",
+        "popularnost": "138",
         "cena": "$1200 - $1800",
         "znacaj": [
             "Independent",
@@ -2353,7 +2353,7 @@
         "zivljenska_doba": "12-14 years",
         "visina": "21-27 inches (53-66 cm)",
         "velikost": "Medium",
-        "popularnost": "#139",
+        "popularnost": "139",
         "cena": "$600 - $800",
         "znacaj": [
             "Affectionate",
@@ -2370,7 +2370,7 @@
         "zivljenska_doba": "10-12 years",
         "visina": "16-20 inches (41-51 cm)",
         "velikost": "Large",
-        "popularnost": "#140",
+        "popularnost": "140",
         "cena": "$800 - $1200",
         "znacaj": [
             "Gentle",
@@ -2387,7 +2387,7 @@
         "zivljenska_doba": "10-12 years",
         "visina": "24-27.5 inches (32-70 cm)",
         "velikost": "Large",
-        "popularnost": "#141",
+        "popularnost": "141",
         "cena": "$1200 - $1500",
         "znacaj": [
             "Courageous",
@@ -2402,7 +2402,7 @@
         "zivljenska_doba": "12-16 years",
         "visina": "16-17 inches (41-46 cm)",
         "velikost": "Medium",
-        "popularnost": "#142",
+        "popularnost": "142",
         "cena": "$1000 - $1200",
         "znacaj": [
             "Agile",
@@ -2419,7 +2419,7 @@
         "zivljenska_doba": "14-20 years",
         "visina": "15-20 inches (38-51 cm)",
         "velikost": "Medium",
-        "popularnost": "#143",
+        "popularnost": "143",
         "cena": "$600 - $800",
         "znacaj": [
             "Alert",
@@ -2436,7 +2436,7 @@
         "zivljenska_doba": "12-15 years",
         "visina": "12-16 inches (31-41 cm)",
         "velikost": "Medium",
-        "popularnost": "#144",
+        "popularnost": "144",
         "cena": "$800 - $1000",
         "znacaj": [
             "Agile",
@@ -2453,7 +2453,7 @@
         "zivljenska_doba": "11-15 years",
         "visina": "18 inches (46 cm)",
         "velikost": "Medium",
-        "popularnost": "#145",
+        "popularnost": "145",
         "cena": "$800 - $1000",
         "znacaj": [
             "Adaptable",
@@ -2470,7 +2470,7 @@
         "zivljenska_doba": "12-15 years",
         "visina": "24-26 inches (61-66 cm)",
         "velikost": "Medium",
-        "popularnost": "#146",
+        "popularnost": "146",
         "cena": "$2000 - $2500",
         "znacaj": [
             "Assertive",
@@ -2487,7 +2487,7 @@
         "zivljenska_doba": "12-14 years",
         "visina": "9-12 inches (23-30 cm)",
         "velikost": "Small",
-        "popularnost": "#147",
+        "popularnost": "147",
         "cena": "$800 - $1200",
         "znacaj": [
             "Active",
@@ -2504,7 +2504,7 @@
         "zivljenska_doba": "10-14 years",
         "visina": "17-20 inches (44-50 cm)",
         "velikost": "Medium",
-        "popularnost": "#148",
+        "popularnost": "148",
         "cena": "$1000 - $1200",
         "znacaj": [
             "Affectionate",
@@ -2519,7 +2519,7 @@
         "zivljenska_doba": "12-14 years",
         "visina": "12-16 inches (30-40 cm)",
         "velikost": "Medium",
-        "popularnost": "#149",
+        "popularnost": "149",
         "cena": "$700 - $900",
         "znacaj": [
             "Alert",
@@ -2534,7 +2534,7 @@
         "zivljenska_doba": "14-16 years",
         "visina": "12 inches (30 cm)",
         "velikost": "Small",
-        "popularnost": "#150",
+        "popularnost": "150",
         "cena": "$800 - $1000",
         "znacaj": [
             "Alert",
@@ -2551,7 +2551,7 @@
         "zivljenska_doba": "14-16 years",
         "visina": "16-17 inches (41-43 cm)",
         "velikost": "Medium",
-        "popularnost": "#151",
+        "popularnost": "151",
         "cena": "$1800 - $2000",
         "znacaj": [
             "Affectionate",
@@ -2568,7 +2568,7 @@
         "zivljenska_doba": "11-15 years",
         "visina": "19-20 inches (48-51 cm)",
         "velikost": "Medium",
-        "popularnost": "#152",
+        "popularnost": "152",
         "cena": "$1000 - $1200",
         "znacaj": [
             "Agile",
@@ -2583,7 +2583,7 @@
         "zivljenska_doba": "10-14 years",
         "visina": "25-28 inches (61-71 cm)",
         "velikost": "Large",
-        "popularnost": "#153",
+        "popularnost": "153",
         "cena": "$2500 - $3500",
         "znacaj": [
             "Aloof",
@@ -2600,7 +2600,7 @@
         "zivljenska_doba": "11-13 years",
         "visina": "24-26 inches (62-66 cm)",
         "velikost": "Large",
-        "popularnost": "#154",
+        "popularnost": "154",
         "cena": "$800 - $1000",
         "znacaj": [
             "Affectionate",
@@ -2617,7 +2617,7 @@
         "zivljenska_doba": "12-14 years",
         "visina": "23-25 inches (57-64 cm)",
         "velikost": "Medium",
-        "popularnost": "#155",
+        "popularnost": "155",
         "cena": "$800 - $1000",
         "znacaj": [
             "Friendly",
@@ -2634,7 +2634,7 @@
         "zivljenska_doba": "10-13 years",
         "visina": "28-30 inches (71-76 cm)",
         "velikost": "Giant",
-        "popularnost": "#156",
+        "popularnost": "156",
         "cena": "$500 - $800",
         "znacaj": [
             "Intelligent",
@@ -2651,7 +2651,7 @@
         "zivljenska_doba": "10-12 years",
         "visina": "28-30 inches (71-76 cm)",
         "velikost": "Giant",
-        "popularnost": "#157",
+        "popularnost": "157",
         "cena": "$1200 - $1500",
         "znacaj": [
             "Clownish",
@@ -2668,7 +2668,7 @@
         "zivljenska_doba": "12-14 years",
         "visina": "14 inches (35.5-36.5 cm)",
         "velikost": "Medium",
-        "popularnost": "#158",
+        "popularnost": "158",
         "cena": "$800 - $1000",
         "znacaj": [
             "Active",
@@ -2685,7 +2685,7 @@
         "zivljenska_doba": "12-14 years",
         "visina": "8-12 inches (20-31 cm)",
         "velikost": "Small",
-        "popularnost": "#159",
+        "popularnost": "159",
         "cena": "$800 - $1000",
         "znacaj": [
             "Active",
@@ -2702,7 +2702,7 @@
         "zivljenska_doba": "11-14 years",
         "visina": "13-15 inches (34-38 cm)",
         "velikost": "Medium",
-        "popularnost": "#160",
+        "popularnost": "160",
         "cena": "$1200 - $1600",
         "znacaj": [
             "Active",
@@ -2719,7 +2719,7 @@
         "zivljenska_doba": "12-15 years",
         "visina": "15-16 inches (38-40 cm)",
         "velikost": "Medium",
-        "popularnost": "#161",
+        "popularnost": "161",
         "cena": "$2400 - $2600",
         "znacaj": [
             "Calm",
@@ -2736,7 +2736,7 @@
         "zivljenska_doba": "12-15 years",
         "visina": "16-19 inches (41-47 cm)",
         "velikost": "Medium",
-        "popularnost": "#162",
+        "popularnost": "162",
         "cena": "$2500 - $3000",
         "znacaj": [
             "Active",
@@ -2753,7 +2753,7 @@
         "zivljenska_doba": "10-12 years",
         "visina": "25.5 inches (65 cm)",
         "velikost": "Large",
-        "popularnost": "#163",
+        "popularnost": "163",
         "cena": "$800 - $1200",
         "znacaj": [
             "Affectionate",
@@ -2770,7 +2770,7 @@
         "zivljenska_doba": "10-12 years",
         "visina": "20-23 inches (51-58 cm)",
         "velikost": "Medium",
-        "popularnost": "#164",
+        "popularnost": "164",
         "cena": "$800 - $1000",
         "znacaj": [
             "Active",
@@ -2787,7 +2787,7 @@
         "zivljenska_doba": "12-14 years",
         "visina": "22-29 inches (56-74 cm)",
         "velikost": "Large",
-        "popularnost": "#165",
+        "popularnost": "165",
         "cena": "$800 - $1200",
         "znacaj": [
             "Active",
@@ -2804,7 +2804,7 @@
         "zivljenska_doba": "12-14 years",
         "visina": "20-25 inches (51-63 cm)",
         "velikost": "Medium",
-        "popularnost": "#166",
+        "popularnost": "166",
         "cena": "$300 - $500",
         "znacaj": [
             "Alert",
@@ -2819,7 +2819,7 @@
         "zivljenska_doba": "10-13 years",
         "visina": "15-18 inches (36-46 cm)",
         "velikost": "Medium",
-        "popularnost": "#167",
+        "popularnost": "167",
         "cena": "$800 - $1000",
         "znacaj": [
             "Energetic",
@@ -2836,7 +2836,7 @@
         "zivljenska_doba": "8-10 years",
         "visina": "28-32 inches (71-81 cm)",
         "velikost": "Giant",
-        "popularnost": "#168",
+        "popularnost": "168",
         "cena": "$1000 - $1200",
         "znacaj": [
             "Dignified",
@@ -2853,7 +2853,7 @@
         "zivljenska_doba": "12-15 years",
         "visina": "10-13 inches (25-33 cm)",
         "velikost": "Small",
-        "popularnost": "#169",
+        "popularnost": "169",
         "cena": "$300 - $500",
         "znacaj": [
             "Active",
@@ -2868,7 +2868,7 @@
         "zivljenska_doba": "13-15 years",
         "visina": "17-18 inches (43-47 cm)",
         "velikost": "Medium",
-        "popularnost": "#170",
+        "popularnost": "170",
         "cena": "$800 - $1000",
         "znacaj": [
             "Agile",
@@ -2883,7 +2883,7 @@
         "zivljenska_doba": "8-12 years",
         "visina": "25-27 inches (63-69 cm)",
         "velikost": "Large",
-        "popularnost": "#171",
+        "popularnost": "171",
         "cena": "$600 - $800",
         "znacaj": [
             "Clever",
@@ -2900,7 +2900,7 @@
         "zivljenska_doba": "12-14 years",
         "visina": "9.75-10.25 inches (25-26 cm)",
         "velikost": "Medium",
-        "popularnost": "#172",
+        "popularnost": "172",
         "cena": "$700 - $900",
         "znacaj": [
             "Loyal",
@@ -2917,7 +2917,7 @@
         "zivljenska_doba": "12-15 years",
         "visina": "16-19 inches (41-47 cm)",
         "velikost": "Medium",
-        "popularnost": "#173",
+        "popularnost": "173",
         "cena": "$600 - $800",
         "znacaj": [
             "Calm",
@@ -2932,7 +2932,7 @@
         "zivljenska_doba": "12-14 years",
         "visina": "23-25 inches (59-63 cm)",
         "velikost": "Medium",
-        "popularnost": "#174",
+        "popularnost": "174",
         "cena": "$1800 - $2000",
         "znacaj": [
             "Active",
@@ -2949,7 +2949,7 @@
         "zivljenska_doba": "12-14 years",
         "visina": "19-24 inches (48-61 cm)",
         "velikost": "Medium",
-        "popularnost": "#175",
+        "popularnost": "175",
         "cena": "$800 - $1200",
         "znacaj": [
             "Alert",
@@ -2964,7 +2964,7 @@
         "zivljenska_doba": "10-12 years",
         "visina": "16-20 inches (41-51 cm)",
         "velikost": "Medium",
-        "popularnost": "#176",
+        "popularnost": "176",
         "cena": "$1500 - $2000",
         "znacaj": [
             "Agile",
@@ -2979,7 +2979,7 @@
         "zivljenska_doba": "12-15 years",
         "visina": "15-20 inches (38-51 cm)",
         "velikost": "Medium",
-        "popularnost": "#177",
+        "popularnost": "177",
         "cena": "$500 - $700",
         "znacaj": [
             "Happy",
@@ -2996,7 +2996,7 @@
         "zivljenska_doba": "10-12 years",
         "visina": "21 - 27 inches (53 - 69 cm)",
         "velikost": "Large",
-        "popularnost": "#178",
+        "popularnost": "178",
         "cena": "$1000 - $1200",
         "znacaj": [
             "Active",
@@ -3011,7 +3011,7 @@
         "zivljenska_doba": "12-15 years",
         "visina": "23-27 inches (58-69 cm)",
         "velikost": "Large",
-        "popularnost": "#179",
+        "popularnost": "179",
         "cena": "$800 - $1000",
         "znacaj": [
             "Alert",
@@ -3026,7 +3026,7 @@
         "zivljenska_doba": "15-17 years",
         "visina": "15.5-18.5 inches (39-47 cm)",
         "velikost": "Medium",
-        "popularnost": "#180",
+        "popularnost": "180",
         "cena": "$500 - $800",
         "znacaj": [
             "Bossy",
@@ -3043,7 +3043,7 @@
         "zivljenska_doba": "13-15 years",
         "visina": "22-24 inches (54-62 cm)",
         "velikost": "Large",
-        "popularnost": "#181",
+        "popularnost": "181",
         "cena": "$1000 - $1200",
         "znacaj": [
             "Determined",
@@ -3058,7 +3058,7 @@
         "zivljenska_doba": "12-14 years",
         "visina": "8-11 inches (20-28 cm)",
         "velikost": "Small",
-        "popularnost": "#182",
+        "popularnost": "182",
         "cena": "$1400 - $1600",
         "znacaj": [
             "Affectionate",
@@ -3075,7 +3075,7 @@
         "zivljenska_doba": "10-12 years",
         "visina": "19-21 inches (48-50 cm)",
         "velikost": "Medium",
-        "popularnost": "#183",
+        "popularnost": "183",
         "cena": "$300 - $400",
         "znacaj": [
             "Active",
@@ -3090,9 +3090,9 @@
         "ime": "Cirneco dell'Etna",
         "drzava": " Italy",
         "zivljenska_doba": "12-15 years",
-        "visina": null,
+        "visina": "/",
         "velikost": "Medium",
-        "popularnost": "#184",
+        "popularnost": "184",
         "cena": "$800 - $1000",
         "znacaj": [
             "Affectionate",
@@ -3105,7 +3105,7 @@
         "zivljenska_doba": "12-15 years",
         "visina": "10 - 13 inches (25 - 32 cm)",
         "velikost": "Small",
-        "popularnost": "#185",
+        "popularnost": "185",
         "cena": "$300 - $500",
         "znacaj": [
             "Calm",
@@ -3122,7 +3122,7 @@
         "zivljenska_doba": "10-12 years",
         "visina": "24-26 inches (60-65 cm)",
         "velikost": "Large",
-        "popularnost": "#186",
+        "popularnost": "186",
         "cena": "$500 - $600",
         "znacaj": [
             "Amiable",
@@ -3135,7 +3135,7 @@
         "zivljenska_doba": "10-12 years",
         "visina": "21-25 inches (53-64 cm)",
         "velikost": "Large",
-        "popularnost": "#187",
+        "popularnost": "187",
         "cena": "$400 - $600",
         "znacaj": [
             "Independent",
@@ -3152,7 +3152,7 @@
         "zivljenska_doba": "12-15 years",
         "visina": "26.4-28.3 inches (66-72 cm)",
         "velikost": "Medium",
-        "popularnost": "#188",
+        "popularnost": "188",
         "cena": "$800 - $1000",
         "znacaj": [
             "Alert",
@@ -3169,7 +3169,7 @@
         "zivljenska_doba": "10-13 years",
         "visina": "22-25 inches (56-63 cm)",
         "velikost": "Large",
-        "popularnost": "#189",
+        "popularnost": "189",
         "cena": "$800 - $1200",
         "znacaj": [
             "Active",
@@ -3186,7 +3186,7 @@
         "zivljenska_doba": "10-12 years",
         "visina": "12-15.5 inches (31-39 cm)",
         "velikost": "Small",
-        "popularnost": "#190",
+        "popularnost": "190",
         "cena": "$400 - $600",
         "znacaj": [
             "Alert",
@@ -3201,7 +3201,7 @@
         "zivljenska_doba": "14-16 years",
         "visina": "11-15 inches (28-38 cm)",
         "velikost": "Small",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$1000 - $1500",
         "znacaj": [
             "Active",
@@ -3218,7 +3218,7 @@
         "zivljenska_doba": "14-16 years",
         "visina": "10 inches (25.4 cm)",
         "velikost": "Small",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$1000 - $1500",
         "znacaj": [
             "Active",
@@ -3235,7 +3235,7 @@
         "zivljenska_doba": "9-11 years",
         "visina": "17 inches  (43 cm)",
         "velikost": "Small",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$1500 - $2000",
         "znacaj": [
             "Affectionate",
@@ -3252,7 +3252,7 @@
         "zivljenska_doba": "12-14 years",
         "visina": "26-28 inches (65-72 cm)",
         "velikost": "Large",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$1000 - $1500",
         "znacaj": [
             "Active",
@@ -3265,7 +3265,7 @@
         "zivljenska_doba": "12-15 years",
         "visina": "30-32 inches (77-86 cm)",
         "velikost": "Giant",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$600 - $800",
         "znacaj": [
             "Alert",
@@ -3282,7 +3282,7 @@
         "zivljenska_doba": "12-15 years",
         "visina": "23-28 inches (60-70 cm)",
         "velikost": "Large",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$600 - $800",
         "znacaj": [
             "Affectionate",
@@ -3297,7 +3297,7 @@
         "zivljenska_doba": "10-12 years",
         "visina": "20-24 inches (50-60 cm)",
         "velikost": "Medium",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$300 - $500",
         "znacaj": [
             "Friendly",
@@ -3312,7 +3312,7 @@
         "zivljenska_doba": "10-12 years",
         "visina": "21-24 inches (53-61 cm)",
         "velikost": "Medium",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$300 - $500",
         "znacaj": [
             "Agile",
@@ -3329,7 +3329,7 @@
         "zivljenska_doba": "10-12 years",
         "visina": "28-32 inches (71-81 cm)",
         "velikost": "Large",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$500 - $700",
         "znacaj": [
             "Affectionate",
@@ -3346,7 +3346,7 @@
         "zivljenska_doba": "11-14 years",
         "visina": "23-25 inches (58 - 64 cm)",
         "velikost": "Large",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$600 - $800",
         "znacaj": [
             "Affectionate",
@@ -3363,7 +3363,7 @@
         "zivljenska_doba": "12-15 years",
         "visina": "24 inches (61 cm)",
         "velikost": "Large",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$800 - $1200",
         "znacaj": [
             "Dutiful",
@@ -3378,7 +3378,7 @@
         "zivljenska_doba": "12-15 years",
         "visina": "13-17.5 inches (33-42 cm)",
         "velikost": "Medium",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$1000 - $1500",
         "znacaj": [
             "Active",
@@ -3395,7 +3395,7 @@
         "zivljenska_doba": "10-12 years",
         "visina": "28-36 inches (65-91 cm)",
         "velikost": "Large",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$1000 - $1500",
         "znacaj": [
             "Affectionate",
@@ -3412,7 +3412,7 @@
         "zivljenska_doba": "10-14 years",
         "visina": "14-24 inches (35-60 cm)",
         "velikost": "Medium",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$500 - $700",
         "znacaj": [
             "Affectionate",
@@ -3433,7 +3433,7 @@
         "zivljenska_doba": "10-12 years",
         "visina": "26-32 inches (66-81 cm)",
         "velikost": "Large",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$800 - $1000",
         "znacaj": [
             "Affectionate",
@@ -3448,7 +3448,7 @@
         "zivljenska_doba": "12-14 years",
         "visina": "24-26 inches (60-65 cm)",
         "velikost": "Medium",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$600 - $800",
         "znacaj": [
             "Alert",
@@ -3465,7 +3465,7 @@
         "zivljenska_doba": "12-15 years",
         "visina": "22-23 inches (56-58.5 cm)",
         "velikost": "Medium",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$600 - $800",
         "znacaj": [
             "Energetic",
@@ -3482,7 +3482,7 @@
         "zivljenska_doba": "10-12 years",
         "visina": "24-27 inches (60-68 cm)",
         "velikost": "Large",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$2800 - $5000",
         "znacaj": [
             "Affectionate",
@@ -3499,7 +3499,7 @@
         "zivljenska_doba": "10-13 years",
         "visina": "24-26 inches (60-67 cm)",
         "velikost": "Large",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$600 - $800",
         "znacaj": [
             "Docile",
@@ -3516,7 +3516,7 @@
         "zivljenska_doba": "10-12 years",
         "visina": "20-23 inches (52-58 cm)",
         "velikost": "Medium",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$600 - $800",
         "znacaj": [
             "Affectionate",
@@ -3533,7 +3533,7 @@
         "zivljenska_doba": "10-12 years",
         "visina": "18-20 inches (46-51 cm)",
         "velikost": "Medium",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$500 - $700",
         "znacaj": [
             "Alert",
@@ -3550,7 +3550,7 @@
         "zivljenska_doba": "10-14 years",
         "visina": "17-20 inches (43-51 cm)",
         "velikost": "Medium",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$500 - $700",
         "znacaj": [
             "Alert",
@@ -3567,7 +3567,7 @@
         "zivljenska_doba": "10-13 years",
         "visina": "18-20 inches (46-51 cm)",
         "velikost": "Medium",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$500 - $700",
         "znacaj": [
             "Alert",
@@ -3586,7 +3586,7 @@
         "zivljenska_doba": "12-14 years",
         "visina": "20-22 inches (50-56 cm)",
         "velikost": "Medium",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$400 - $600",
         "znacaj": [
             "Agreeable",
@@ -3601,7 +3601,7 @@
         "zivljenska_doba": "12-14 years",
         "visina": "17-20 inches (44-50 cm)",
         "velikost": "Medium",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$300 - $500",
         "znacaj": [
             "Alert",
@@ -3618,7 +3618,7 @@
         "zivljenska_doba": "10-12 years",
         "visina": "25-29 inches (64-74 cm)",
         "velikost": "Large",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$600 - $800",
         "znacaj": [
             "Affectionate",
@@ -3635,7 +3635,7 @@
         "zivljenska_doba": "13-15 years",
         "visina": "23-26 inches (58-65 cm)",
         "velikost": "Medium",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$600 - $1000",
         "znacaj": [
             "Companionable",
@@ -3650,7 +3650,7 @@
         "zivljenska_doba": "11-13 years",
         "visina": "13-15 inches (34-38 cm)",
         "velikost": "Small",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$600 - $800",
         "znacaj": [
             "Active",
@@ -3667,7 +3667,7 @@
         "zivljenska_doba": "11-14 years",
         "visina": "13-15 inches (32-38 cm)",
         "velikost": "Small",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$600 - $800",
         "znacaj": [
             "Adaptable",
@@ -3684,7 +3684,7 @@
         "zivljenska_doba": "10-12 years",
         "visina": "19-20 inches (47-52 cm)",
         "velikost": "Medium",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$600 - $800",
         "znacaj": [
             "Agile",
@@ -3701,7 +3701,7 @@
         "zivljenska_doba": "10-12 years",
         "visina": "24-26 inches (61-66 cm)",
         "velikost": "Medium",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$500 - $800",
         "znacaj": [
             "Active",
@@ -3718,7 +3718,7 @@
         "zivljenska_doba": "12-18 years",
         "visina": "16-25 inches (40-64 cm)",
         "velikost": "Medium",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$300 - $500",
         "znacaj": [
             "Active",
@@ -3735,7 +3735,7 @@
         "zivljenska_doba": "12-15 years",
         "visina": "19-21 inches (48-53 cm)",
         "velikost": "Medium",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$500 - $700",
         "znacaj": [
             "Alert",
@@ -3752,7 +3752,7 @@
         "zivljenska_doba": "14-16 years",
         "visina": "18-23 inches (46-58 cm)",
         "velikost": "Medium",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$600 - $800",
         "znacaj": [
             "Active",
@@ -3769,7 +3769,7 @@
         "zivljenska_doba": "12-14 years",
         "visina": "22-24 inches (56-61 cm)",
         "velikost": "Medium",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$600 - $800",
         "znacaj": [
             "Active",
@@ -3786,7 +3786,7 @@
         "zivljenska_doba": "10-13 years",
         "visina": "19-22 inches (48-56 cm)",
         "velikost": "Medium",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$700 - $900",
         "znacaj": [
             "Active",
@@ -3801,7 +3801,7 @@
         "zivljenska_doba": "12-14 years",
         "visina": "22-25 inches (55-63 cm)",
         "velikost": "Medium",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$700 - $900",
         "znacaj": [
             "Adaptable",
@@ -3816,7 +3816,7 @@
         "zivljenska_doba": "11-13 years",
         "visina": "23-26 inches (58-67 cm)",
         "velikost": "Medium",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$700 - $900",
         "znacaj": [
             "Affectionate",
@@ -3833,7 +3833,7 @@
         "zivljenska_doba": "13-15 years",
         "visina": "20-22 inches (51-57 cm)",
         "velikost": "Medium",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$900 - $1200",
         "znacaj": [
             "Affectionate",
@@ -3850,7 +3850,7 @@
         "zivljenska_doba": "12-14 years",
         "visina": "14-16 inches (36-41 cm)",
         "velikost": "Small",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$500 - $700",
         "znacaj": [
             "Active",
@@ -3867,7 +3867,7 @@
         "zivljenska_doba": "10-12 years",
         "visina": "19-22 inches (49-56 cm)",
         "velikost": "Medium",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$400 - $600",
         "znacaj": [
             "Courageous",
@@ -3882,7 +3882,7 @@
         "zivljenska_doba": "10-14 years",
         "visina": "27-31 inches (68-78 cm)",
         "velikost": "Large",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$800 - $1000",
         "znacaj": [
             "Calm",
@@ -3895,7 +3895,7 @@
         "zivljenska_doba": "12-14 years",
         "visina": "26-30 inches (65-75 cm)",
         "velikost": "Medium",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$800 - $1000",
         "znacaj": [
             "Brave",
@@ -3912,7 +3912,7 @@
         "zivljenska_doba": "12-14 years",
         "visina": "16-22 inches (41-56 cm)",
         "velikost": "Medium",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$800 - $1000",
         "znacaj": [
             "Intelligent",
@@ -3925,7 +3925,7 @@
         "zivljenska_doba": "12-14 years",
         "visina": "24-29 inches (61-73 cm)",
         "velikost": "Large",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$1000 - $1200",
         "znacaj": [
             "Affectionate",
@@ -3942,7 +3942,7 @@
         "zivljenska_doba": "10-15 years",
         "visina": "26-29 inches (66-74 cm)",
         "velikost": "Large",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$800 - $1000",
         "znacaj": [
             "Aloof",
@@ -3959,7 +3959,7 @@
         "zivljenska_doba": "12-14 years",
         "visina": "17-24 inches (45-61 cm)",
         "velikost": "Medium",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$800 - $1000",
         "znacaj": [
             "Adaptable",
@@ -3974,7 +3974,7 @@
         "zivljenska_doba": "12-14 years",
         "visina": "25-29 inches (65-73 cm)",
         "velikost": "Large",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$800 - $1000",
         "znacaj": [
             "Courageous",
@@ -3987,7 +3987,7 @@
         "zivljenska_doba": "10-14 years",
         "visina": "24-26 inches (61-66 cm)",
         "velikost": "Large",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$500 - $700",
         "znacaj": [
             "Alert",
@@ -4006,7 +4006,7 @@
         "zivljenska_doba": "11-13 years",
         "visina": "22-26 inches (56-58 cm)",
         "velikost": "Medium",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$300 - $500",
         "znacaj": [
             "Alert",
@@ -4025,7 +4025,7 @@
         "zivljenska_doba": "12-14 years",
         "visina": "19-22 inches (47-55 cm)",
         "velikost": "Medium",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$600 - $800",
         "znacaj": [
             "Agile",
@@ -4040,7 +4040,7 @@
         "zivljenska_doba": "10-12 years",
         "visina": "25-28 inches (64-72 cm)",
         "velikost": "Large",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$1500 - $2000",
         "znacaj": [
             "Alert",
@@ -4057,7 +4057,7 @@
         "zivljenska_doba": "12-14 years",
         "visina": "27-32 inches (65-78 cm)",
         "velikost": "Large",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$1200 - $2000",
         "znacaj": [
             "Adaptable",
@@ -4074,7 +4074,7 @@
         "zivljenska_doba": "12-15 years",
         "visina": "24-26 inches (60-66 cm)",
         "velikost": "Medium",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$500 - $700",
         "znacaj": [
             "Adaptable",
@@ -4091,7 +4091,7 @@
         "zivljenska_doba": "10-12 years",
         "visina": "28-31 inches (70-80 cm)",
         "velikost": "Large",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$800 - $1000",
         "znacaj": [
             "Brave",
@@ -4106,7 +4106,7 @@
         "zivljenska_doba": "14-18 years",
         "visina": "10-15 inches (25-38 cm)",
         "velikost": "Small",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$900 - $1100",
         "znacaj": [
             "Affectionate",
@@ -4127,7 +4127,7 @@
         "zivljenska_doba": "12-14 years",
         "visina": "16-21 inches (40-53 cm)",
         "velikost": "Medium",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$1000 - $1200",
         "znacaj": [
             "Agile",
@@ -4144,7 +4144,7 @@
         "zivljenska_doba": "12-15 years",
         "visina": "26 inches (65 cm)",
         "velikost": "Medium",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$800 - $1500",
         "znacaj": [
             "Active",
@@ -4161,7 +4161,7 @@
         "zivljenska_doba": "10-15 years",
         "visina": "13-15 inches (32-39 cm)",
         "velikost": "Small",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$600 - $800",
         "znacaj": [
             "Alert",
@@ -4176,7 +4176,7 @@
         "zivljenska_doba": "10-12 years",
         "visina": "16-21 inches (40-53 cm)",
         "velikost": "Medium",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$400 - $600",
         "znacaj": [
             "A light",
@@ -4189,7 +4189,7 @@
         "zivljenska_doba": "16-20 years",
         "visina": "19-23 inches (48-58.5 cm)",
         "velikost": "Medium",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$500 - $1000",
         "znacaj": [
             "Agile",
@@ -4204,7 +4204,7 @@
         "zivljenska_doba": "12-14 years",
         "visina": "23-25 inches (58-63 cm)",
         "velikost": "Medium",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$500 - $700",
         "znacaj": [
             "Companionable",
@@ -4221,7 +4221,7 @@
         "zivljenska_doba": "12-14 years",
         "visina": "11-16 inches (28-40 cm)",
         "velikost": "Small",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$600 - $800",
         "znacaj": [
             "Alert",
@@ -4236,7 +4236,7 @@
         "zivljenska_doba": "10-12 years",
         "visina": "20-22 inches (50-55 cm)",
         "velikost": "Medium",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$500 - $700",
         "znacaj": [
             "Calm",
@@ -4251,7 +4251,7 @@
         "zivljenska_doba": "12-15 years",
         "visina": "22.5-24.5 inches (57-62 cm)",
         "velikost": "Large",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$1000 - $1200",
         "znacaj": [
             "Affectionate",
@@ -4268,7 +4268,7 @@
         "zivljenska_doba": "12-15 years",
         "visina": "14-17 inches (35-42 cm)",
         "velikost": "Small",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$500 - $700",
         "znacaj": [
             "Affectionate",
@@ -4281,7 +4281,7 @@
         "zivljenska_doba": "12-15 years",
         "visina": "22-26 inches (55-66 cm)",
         "velikost": "Large",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$800 - $1000",
         "znacaj": [
             "Aggressive",
@@ -4296,7 +4296,7 @@
         "zivljenska_doba": "10-14 years",
         "visina": "26-30 inches (66-76 cm)",
         "velikost": "Large",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$800 - $1000",
         "znacaj": [
             "Aggressive",
@@ -4311,7 +4311,7 @@
         "zivljenska_doba": "12-15 years",
         "visina": "18-23 inches (46-58 cm)",
         "velikost": "Medium",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$800 - $1000",
         "znacaj": [
             "Adaptable",
@@ -4330,7 +4330,7 @@
         "zivljenska_doba": "11-13 years",
         "visina": "20-24 inches (52-60 cm)",
         "velikost": "Medium",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$2000 - $2500",
         "znacaj": [
             "Alert",
@@ -4347,7 +4347,7 @@
         "zivljenska_doba": "9-11 years",
         "visina": "26-30 inches (65-75 cm)",
         "velikost": "Large",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$1000 - $1300",
         "znacaj": [
             "Brave",
@@ -4364,7 +4364,7 @@
         "zivljenska_doba": "10-12 years",
         "visina": "20-24 inches (52-61 cm)",
         "velikost": "Medium",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$600 - $800",
         "znacaj": [
             "Calm",
@@ -4381,7 +4381,7 @@
         "zivljenska_doba": "10-12 years",
         "visina": "22-24 inches (55-61 cm)",
         "velikost": "Medium",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$600 - $800",
         "znacaj": [
             "Adaptable",
@@ -4398,7 +4398,7 @@
         "zivljenska_doba": "10-12 years",
         "visina": "26-28 inches (65-72 cm)",
         "velikost": "Large",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$500 - $700",
         "znacaj": [
             "Active",
@@ -4411,7 +4411,7 @@
         "zivljenska_doba": "12-15 years",
         "visina": "13-16 inches (33-40 cm)",
         "velikost": "Medium",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$300 - $500",
         "znacaj": [
             "Adaptable",
@@ -4428,7 +4428,7 @@
         "zivljenska_doba": "10-12 years",
         "visina": "24-28 inches (60-70 cm)",
         "velikost": "Large",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$600 - $800",
         "znacaj": [
             "Affectionate",
@@ -4445,7 +4445,7 @@
         "zivljenska_doba": "10-15 years",
         "visina": "13-24 inches (33-61 cm)",
         "velikost": "Small",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$600 - $800",
         "znacaj": [
             "Energetic",
@@ -4460,7 +4460,7 @@
         "zivljenska_doba": "10-13 years",
         "visina": "22-26 inches (55-66 cm)",
         "velikost": "Medium",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$600 - $800",
         "znacaj": [
             "Brave",
@@ -4477,7 +4477,7 @@
         "zivljenska_doba": "12-15 years",
         "visina": "15-18 inches (39-45 cm)",
         "velikost": "Medium",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$600 - $800",
         "znacaj": [
             "Alert",
@@ -4494,7 +4494,7 @@
         "zivljenska_doba": "12-14 years",
         "visina": "22-25 inches (56-64 cm)",
         "velikost": "Medium",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$500 - $800",
         "znacaj": [
             "Energetic",
@@ -4509,7 +4509,7 @@
         "zivljenska_doba": "12-15 years",
         "visina": "19.5-22.5 inch",
         "velikost": "Medium",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$400 - $500",
         "znacaj": [
             "Affectionate",
@@ -4526,7 +4526,7 @@
         "zivljenska_doba": "11-13 years",
         "visina": "23-25.5 inches (58-65 cm)",
         "velikost": "Large",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$400 - $500",
         "znacaj": [
             "Affectionate",
@@ -4541,7 +4541,7 @@
         "zivljenska_doba": "11-13 years",
         "visina": "18 - 22.5 inches (46 - 57 cm)",
         "velikost": "Medium",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$400 - $500",
         "znacaj": [
             "Courageous",
@@ -4558,7 +4558,7 @@
         "zivljenska_doba": "11-13 years",
         "visina": "18-22 inches (46-56 cm)",
         "velikost": "Medium",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$300 - $400",
         "znacaj": [
             "Alert",
@@ -4573,7 +4573,7 @@
         "zivljenska_doba": "10-14 years",
         "visina": "23 - 28 inches (58 - 70 cm)",
         "velikost": "Medium",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$1000 - $1200",
         "znacaj": [
             "Watchful",
@@ -4588,8 +4588,8 @@
         "zivljenska_doba": "11-14 years",
         "visina": "22-26 inches (57-65 cm)",
         "velikost": "Medium",
-        "popularnost": null,
-        "cena": null,
+        "popularnost": "/",
+        "cena": "/",
         "znacaj": [
             "Loyal",
             "Independent",
@@ -4605,7 +4605,7 @@
         "zivljenska_doba": "10-16 years",
         "visina": "12-15 inches (30-38 cm)",
         "velikost": "Small",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$500 - $800",
         "znacaj": [
             "Affectionate",
@@ -4622,8 +4622,8 @@
         "zivljenska_doba": "12-15 years",
         "visina": "8-13 inch",
         "velikost": "Small",
-        "popularnost": null,
-        "cena": null,
+        "popularnost": "/",
+        "cena": "/",
         "znacaj": [
             "Active",
             "Affectionate",
@@ -4639,7 +4639,7 @@
         "zivljenska_doba": "12-15 years",
         "visina": "18-25 inches (48-65 cm)",
         "velikost": "Medium",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$300 - $400",
         "znacaj": [
             "Active",
@@ -4656,7 +4656,7 @@
         "zivljenska_doba": "10-12 years",
         "visina": "19-23 inches (48-58 cm)",
         "velikost": "Medium",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$1000 - $1200",
         "znacaj": [
             "Brave",
@@ -4673,7 +4673,7 @@
         "zivljenska_doba": "11-13 years",
         "visina": "17-22 inches (43-56 cm)",
         "velikost": "Medium",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$300 - $500",
         "znacaj": [
             "Alert",
@@ -4688,7 +4688,7 @@
         "zivljenska_doba": "12-14 years",
         "visina": "14-16 inches (36-41 cm)",
         "velikost": "Medium",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$600 - $800",
         "znacaj": [
             "Alert",
@@ -4705,7 +4705,7 @@
         "zivljenska_doba": "16-18 years",
         "visina": "13-23 inches (34-60 cm)",
         "velikost": "Medium",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$400 - $600",
         "znacaj": [
             "Dominant",
@@ -4720,7 +4720,7 @@
         "zivljenska_doba": "12-14 years",
         "visina": "15-18 inches (38-46 cm)",
         "velikost": "Medium",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$400 - $600",
         "znacaj": [
             "Adaptable",
@@ -4737,7 +4737,7 @@
         "zivljenska_doba": "12-15 years",
         "visina": "10-12 inches (25-31 cm)",
         "velikost": "Small",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$600 - $800",
         "znacaj": [
             "Alert",
@@ -4752,7 +4752,7 @@
         "zivljenska_doba": "9-11 years",
         "visina": "28.5-31.5 inches (72-80 cm)",
         "velikost": "Giant",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$2000 - $2500",
         "znacaj": [
             "Courageous",
@@ -4769,7 +4769,7 @@
         "zivljenska_doba": "10-12 years",
         "visina": "19-21 inches (48-54 cm)",
         "velikost": "Medium",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$600 - $800",
         "znacaj": [
             "Calm",
@@ -4784,7 +4784,7 @@
         "zivljenska_doba": "13-15 years",
         "visina": "18-25 inches (45-64 cm)",
         "velikost": "Medium",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$300 - $500",
         "znacaj": [
             "Friendly",
@@ -4801,7 +4801,7 @@
         "zivljenska_doba": "9-12 years",
         "visina": "27-35 c",
         "velikost": "Small",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$800 - $1200",
         "znacaj": [
             "Active",
@@ -4818,7 +4818,7 @@
         "zivljenska_doba": "12-14 years",
         "visina": "15-19 inches (38-48 cm)",
         "velikost": "Medium",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$800 - $1000",
         "znacaj": [
             "Alert",
@@ -4835,7 +4835,7 @@
         "zivljenska_doba": "12-14 years",
         "visina": "20.5-22 inches (52-56 cm)",
         "velikost": "Medium",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$800 - $1000",
         "znacaj": [
             "Affectionate",
@@ -4852,8 +4852,8 @@
         "zivljenska_doba": "16-19 years",
         "visina": "14-15 inches (35-38 cm)",
         "velikost": "Small",
-        "popularnost": null,
-        "cena": null,
+        "popularnost": "/",
+        "cena": "/",
         "znacaj": [
             "Active",
             "Affectionate",
@@ -4867,7 +4867,7 @@
         "zivljenska_doba": "12-15 years",
         "visina": "17.72 inches (45 cm)",
         "velikost": "Medium",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$600 - $800",
         "znacaj": [
             "Active",
@@ -4882,7 +4882,7 @@
         "zivljenska_doba": "12-14 years",
         "visina": "23-32 inches (58-81 cm)",
         "velikost": "Medium",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$800 - $1000",
         "znacaj": [
             "Calm",
@@ -4897,7 +4897,7 @@
         "zivljenska_doba": "11-13 years",
         "visina": "17-20 inches (43-51 cm)",
         "velikost": "Medium",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$1800 - $2500",
         "znacaj": [
             "Alert",
@@ -4914,7 +4914,7 @@
         "zivljenska_doba": "8-10 years",
         "visina": "32-40 inches (81-101 cm)",
         "velikost": "Giant",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$800 - $1200",
         "znacaj": [
             "Aggressive",
@@ -4927,7 +4927,7 @@
         "zivljenska_doba": "11-14 years",
         "visina": "12-15 inch",
         "velikost": "Small",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$500 - $700",
         "znacaj": [
             "Bold",
@@ -4944,7 +4944,7 @@
         "zivljenska_doba": "9-11 years",
         "visina": "21-25 inches (55-65 cm)",
         "velikost": "Large",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$1200 - $3000",
         "znacaj": [
             "Calm",
@@ -4959,7 +4959,7 @@
         "zivljenska_doba": "10-12 years",
         "visina": "21-22 inches (55-58 cm)",
         "velikost": "Medium",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$800 - $1000",
         "znacaj": [
             "Brave",
@@ -4974,7 +4974,7 @@
         "zivljenska_doba": "11-13 years",
         "visina": "25-40 cm (10-16 inches)",
         "velikost": "Medium",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$400 - $600",
         "znacaj": [
             "Affectionate",
@@ -4991,7 +4991,7 @@
         "zivljenska_doba": "12-14 years",
         "visina": "22-24 inches (56-61 cm)",
         "velikost": "Large",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$600 - $800",
         "znacaj": [
             "Active",
@@ -5008,7 +5008,7 @@
         "zivljenska_doba": "12-15 years",
         "visina": "13-14 inches (32-36 cm)",
         "velikost": "Small",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$500 - $700",
         "znacaj": [
             "Alert",
@@ -5023,7 +5023,7 @@
         "zivljenska_doba": "12-14 years",
         "visina": "20-24 inches (51-61 cm)",
         "velikost": "Medium",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$800 - $1000",
         "znacaj": [
             "Affectionate",
@@ -5038,7 +5038,7 @@
         "zivljenska_doba": "12-15 years",
         "visina": "7-9 inches (19-22 cm)",
         "velikost": "Small",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$2500 - $3500",
         "znacaj": [
             "Active",
@@ -5055,7 +5055,7 @@
         "zivljenska_doba": "9-11 years",
         "visina": "21-26 inches (53-66 cm)",
         "velikost": "Large",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$800 - $1000",
         "znacaj": [
             "Calm",
@@ -5070,7 +5070,7 @@
         "zivljenska_doba": "10-12 years",
         "visina": "27-28 inches (66-75 cm)",
         "velikost": "Large",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$800 - $1000",
         "znacaj": [
             "Calm",
@@ -5087,7 +5087,7 @@
         "zivljenska_doba": "10-12 years",
         "visina": "25-30 inches (65-75 cm)",
         "velikost": "Large",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$200 - $300",
         "znacaj": [
             "Affectionate",
@@ -5102,7 +5102,7 @@
         "zivljenska_doba": "14-16 years",
         "visina": "15-17.75 inches (38.1-45.1 cm)",
         "velikost": "Small",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$1200 - $1500",
         "znacaj": [
             "Affectionate",
@@ -5119,7 +5119,7 @@
         "zivljenska_doba": "11-13 years",
         "visina": "8-10 inches (20-26 cm)",
         "velikost": "Small",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$600 - $800",
         "znacaj": [
             "Active",
@@ -5134,7 +5134,7 @@
         "zivljenska_doba": "10-12 years",
         "visina": "24-29.5 inches (60-75 cm)",
         "velikost": "Large",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$800 - $1000",
         "znacaj": [
             "Devoted",
@@ -5151,7 +5151,7 @@
         "zivljenska_doba": "11-13 years",
         "visina": "50-60 cm (20-24 in)",
         "velikost": "Medium",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$300 - $500",
         "znacaj": [
             "Friendly",
@@ -5166,7 +5166,7 @@
         "zivljenska_doba": "11-13 years",
         "visina": "22-24 inches (56-61 cm)",
         "velikost": "Large",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$800 - $1000",
         "znacaj": [
             "Independent",
@@ -5183,7 +5183,7 @@
         "zivljenska_doba": "12-14 years",
         "visina": "15-19 inches (40-50 cm)",
         "velikost": "Medium",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$500 - $700",
         "znacaj": [
             "Attentive",
@@ -5200,7 +5200,7 @@
         "zivljenska_doba": "12-16 years",
         "visina": "22-23 inches (56-58 cm)",
         "velikost": "Medium",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$600 - $800",
         "znacaj": [
             "Active",
@@ -5217,7 +5217,7 @@
         "zivljenska_doba": "10-12 years",
         "visina": "7-21 inches (46-52 cm)",
         "velikost": "Medium",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$500 - $700",
         "znacaj": [
             "Agile",
@@ -5234,7 +5234,7 @@
         "zivljenska_doba": "12-14 years",
         "visina": "28-30 inches (71-76 cm)",
         "velikost": "Giant",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$800 - $1000",
         "znacaj": [
             "Companionable",
@@ -5251,7 +5251,7 @@
         "zivljenska_doba": "16-20 years",
         "visina": "18-23.5 inches (46-60 cm)",
         "velikost": "Medium",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$800 - $1000",
         "znacaj": [
             "Affectionate",
@@ -5268,7 +5268,7 @@
         "zivljenska_doba": "12-14 years",
         "visina": "18-21 inches (46-53 cm)",
         "velikost": "Medium",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$600 - $800",
         "znacaj": [
             "Agile",
@@ -5285,7 +5285,7 @@
         "zivljenska_doba": "9-11 years",
         "visina": "25 inches (65 cm)",
         "velikost": "Large",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$800 - $1000",
         "znacaj": [
             "Active",
@@ -5300,7 +5300,7 @@
         "zivljenska_doba": "12-14 years",
         "visina": "20-23 inches (50-58 cm)",
         "velikost": "Medium",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$500 - $700",
         "znacaj": [
             "Affectionate",
@@ -5317,7 +5317,7 @@
         "zivljenska_doba": "10-12 years",
         "visina": "28-35 inches (72-88 cm)",
         "velikost": "Giant",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$600 - $800",
         "znacaj": [
             "Affectionate",
@@ -5332,7 +5332,7 @@
         "zivljenska_doba": "12-14 years",
         "visina": "18-22 inches (46-56 cm)",
         "velikost": "Medium",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$500 - $700",
         "znacaj": [
             "Obedient",
@@ -5349,7 +5349,7 @@
         "zivljenska_doba": "10-13 years",
         "visina": "18-20 inches (45-51 cm)",
         "velikost": "Medium",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$400 - $600",
         "znacaj": [
             "Affectionate",
@@ -5366,7 +5366,7 @@
         "zivljenska_doba": "14-16 years",
         "visina": "25-28 inches (63-71 cm)",
         "velikost": "Large",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$600 - $800",
         "znacaj": [
             "Agile",
@@ -5381,7 +5381,7 @@
         "zivljenska_doba": "10-12 years",
         "visina": "18-22 inches (45-56 cm)",
         "velikost": "Medium",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$400 - $600",
         "znacaj": [
             "Active",
@@ -5398,7 +5398,7 @@
         "zivljenska_doba": "11-13 years",
         "visina": "22-24 inches (56-60 cm)",
         "velikost": "Medium",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$600 - $800",
         "znacaj": [
             "Familial",
@@ -5415,7 +5415,7 @@
         "zivljenska_doba": "10-12 years",
         "visina": "25-27 inches (65-70 cm)",
         "velikost": "Large",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$600 - $800",
         "znacaj": [
             "Alert",
@@ -5432,7 +5432,7 @@
         "zivljenska_doba": "10-12 years",
         "visina": "22-24 inches (56-60 cm)",
         "velikost": "Large",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$600 - $800",
         "znacaj": [
             "Aggressive",
@@ -5449,7 +5449,7 @@
         "zivljenska_doba": "11-12 years",
         "visina": "22-25 inches (57-63 cm)",
         "velikost": "Medium",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$800 - $1000",
         "znacaj": [
             "Brave",
@@ -5462,7 +5462,7 @@
         "zivljenska_doba": "10-12 years",
         "visina": "22-26 inches (55-65 cm)",
         "velikost": "Medium",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$600 - $800",
         "znacaj": [
             "Courageous",
@@ -5477,7 +5477,7 @@
         "zivljenska_doba": "14-16 years",
         "visina": "9.5-12 inches (24-30 cm)",
         "velikost": "Small",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$600 - $800",
         "znacaj": [
             "Active",
@@ -5494,7 +5494,7 @@
         "zivljenska_doba": "14-16 years",
         "visina": "22-24 inches (56-61 cm)",
         "velikost": "Medium",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$600 - $800",
         "znacaj": [
             "Aggressive",
@@ -5509,7 +5509,7 @@
         "zivljenska_doba": "12-14 years",
         "visina": "21.5-23 inches (55-59 cm)",
         "velikost": "Medium",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$500 - $700",
         "znacaj": [
             "Quiet",
@@ -5522,7 +5522,7 @@
         "zivljenska_doba": "10-15 years",
         "visina": "20-24 inches (51-61 cm)",
         "velikost": "Medium",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$1000 - $1500",
         "znacaj": [
             "Agile",
@@ -5539,7 +5539,7 @@
         "zivljenska_doba": "14-16 years",
         "visina": "10-13 inches (25-32 cm)",
         "velikost": "Small",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$300 - $500",
         "znacaj": [
             "Alert",
@@ -5558,7 +5558,7 @@
         "zivljenska_doba": "10-12 years",
         "visina": "22-28 inches (55-70 cm)",
         "velikost": "Medium",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$700 - $900",
         "znacaj": [
             "Affectionate",
@@ -5577,7 +5577,7 @@
         "zivljenska_doba": "10-12 years",
         "visina": "12-17 inches (30-43 cm)",
         "velikost": "Small",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$300 - $500",
         "znacaj": [
             "Excellent sight",
@@ -5592,7 +5592,7 @@
         "zivljenska_doba": "13-15 years",
         "visina": "12-14 inches (30-36 cm)",
         "velikost": "Small",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$300 - $500",
         "znacaj": [
             "Gentle",
@@ -5607,7 +5607,7 @@
         "zivljenska_doba": "12-14 years",
         "visina": "18-20 inches (45-50 cm)",
         "velikost": "Medium",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$400 - $600",
         "znacaj": [
             "Calm",
@@ -5622,7 +5622,7 @@
         "zivljenska_doba": "13-15 years",
         "visina": "12-16 inches (30.5-40 cm)",
         "velikost": "Small",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$800 - $1200",
         "znacaj": [
             "Affectionate",
@@ -5637,7 +5637,7 @@
         "zivljenska_doba": "13-15 years",
         "visina": "10.5-12 inches (27-30 cm)",
         "velikost": "Small",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$1200 - $1500",
         "znacaj": [
             "Docile",
@@ -5652,7 +5652,7 @@
         "zivljenska_doba": "12-15 years",
         "visina": "25-27 inches (63-69 cm)",
         "velikost": "Large",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$300 - $400",
         "znacaj": [
             "Active",
@@ -5667,7 +5667,7 @@
         "zivljenska_doba": "10-15 years",
         "visina": "12-18 inches (30-45 cm)",
         "velikost": "Small",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$300 - $400",
         "znacaj": [
             "Agile",
@@ -5684,7 +5684,7 @@
         "zivljenska_doba": "13-15 years",
         "visina": "17-22 inches (43-61 cm)",
         "velikost": "Medium",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$200 - $400",
         "znacaj": [
             "Clever",
@@ -5697,7 +5697,7 @@
         "zivljenska_doba": "12-15 years",
         "visina": "25 inches (~63.5 cm)",
         "velikost": "Medium",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$80 - $120",
         "znacaj": [
             "Independent",
@@ -5710,7 +5710,7 @@
         "zivljenska_doba": "12-15 years",
         "visina": "6-14 inches (15-36 cm)",
         "velikost": "Small",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$300 - $400",
         "znacaj": [
             "Affectionate",
@@ -5723,11 +5723,11 @@
     },
     {
         "ime": "Cotonese",
-        "drzava": null,
+        "drzava": "/",
         "zivljenska_doba": "13-15 years",
         "visina": "8-12 inches (20-30 cm)",
         "velikost": "Small",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$400 - $600",
         "znacaj": [
             "Affectionate",
@@ -5742,11 +5742,11 @@
     },
     {
         "ime": "Taco Terrier",
-        "drzava": null,
+        "drzava": "/",
         "zivljenska_doba": "13-15 years",
         "visina": "8-10 inches (20-30 cm)",
         "velikost": "Small",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$300 - $400",
         "znacaj": [
             "Affectionate",
@@ -5757,11 +5757,11 @@
     },
     {
         "ime": "Cairmal",
-        "drzava": null,
+        "drzava": "/",
         "zivljenska_doba": "12-15 years",
         "visina": "10-13 inches (25-33 cm)",
         "velikost": "Small",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$400 - $600",
         "znacaj": [
             "Affectionate",
@@ -5776,7 +5776,7 @@
         "zivljenska_doba": "10-13 years",
         "visina": "25-29 inches (64-74 cm)",
         "velikost": "Large",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$1500 - $2500",
         "znacaj": [
             "Courageous",
@@ -5791,7 +5791,7 @@
         "zivljenska_doba": "12-15 years",
         "visina": "8-12 inches (20-30 cm)",
         "velikost": "Small",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$600 - $800",
         "znacaj": [
             "Active",
@@ -5808,7 +5808,7 @@
         "zivljenska_doba": "10-13 years",
         "visina": "24-30 inches (61-76 cm)",
         "velikost": "Large",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$600 - $800",
         "znacaj": [
             "Affectionate",
@@ -5821,11 +5821,11 @@
     },
     {
         "ime": "Chorkie",
-        "drzava": null,
+        "drzava": "/",
         "zivljenska_doba": "12-14 years",
         "visina": "6-9 inches (15-23 cm)",
         "velikost": "Small",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$300 - $400",
         "znacaj": [
             "Affectionate",
@@ -5840,11 +5840,11 @@
     },
     {
         "ime": "Cockalier",
-        "drzava": null,
+        "drzava": "/",
         "zivljenska_doba": "12-15 years",
         "visina": "12-15 inches (30-38 cm)",
         "velikost": "Medium",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$500 - $700",
         "znacaj": [
             "Affectionate",
@@ -5857,11 +5857,11 @@
     },
     {
         "ime": "Dorgi",
-        "drzava": null,
+        "drzava": "/",
         "zivljenska_doba": "12-14 years",
         "visina": "8-12 inches (20-30 cm)",
         "velikost": "Small",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$200 - $300",
         "znacaj": [
             "Alert",
@@ -5874,11 +5874,11 @@
     },
     {
         "ime": "Dorkie",
-        "drzava": null,
+        "drzava": "/",
         "zivljenska_doba": "13-15 years",
         "visina": "5-9 inches (13-23 cm)",
         "velikost": "Small",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$400 - $600",
         "znacaj": [
             "Affectionate",
@@ -5891,11 +5891,11 @@
     },
     {
         "ime": "Double Doodle",
-        "drzava": null,
+        "drzava": "/",
         "zivljenska_doba": "12-15 years",
         "visina": "20-24 inches (50-61 cm)",
         "velikost": "Medium",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$600 - $800",
         "znacaj": [
             "Affectionate",
@@ -5912,7 +5912,7 @@
         "zivljenska_doba": "11-13 years",
         "visina": "24-29 inches (60-73 cm)",
         "velikost": "Large",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$600 - $800",
         "znacaj": [
             "Alert",
@@ -5929,7 +5929,7 @@
         "zivljenska_doba": "14-15 years",
         "visina": "10-12 inches (25-30 cm)",
         "velikost": "Small",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$400 - $600",
         "znacaj": [
             "Friendly",
@@ -5942,7 +5942,7 @@
         "zivljenska_doba": "12-14 years",
         "visina": "22-28 inches (55-71 cm)",
         "velikost": "Large",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$600 - $800",
         "znacaj": [
             "Affectionate",
@@ -5955,7 +5955,7 @@
         "zivljenska_doba": "12-15 years",
         "visina": "10-20 inces (25-51 cm)",
         "velikost": "Small",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$800 - $1000",
         "znacaj": [
             "Affectionate",
@@ -5974,7 +5974,7 @@
         "zivljenska_doba": "12-15 years",
         "visina": "19-21 inches (49-53 cm)",
         "velikost": "Small",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$800 - $1200",
         "znacaj": [
             "Affectionate",
@@ -5993,7 +5993,7 @@
         "zivljenska_doba": "11-13 years",
         "visina": "66-99 pounds (30-45 kg)",
         "velikost": "Large",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$800 - $1200",
         "znacaj": [
             "Alert",
@@ -6008,7 +6008,7 @@
         "zivljenska_doba": "9-11 years",
         "visina": "25-27 inches (64-69 cm)",
         "velikost": "Large",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$600 - $800",
         "znacaj": [
             "Companionable",
@@ -6021,7 +6021,7 @@
         "zivljenska_doba": "13-14 years",
         "visina": "19-21 inches (49-53 cm)",
         "velikost": "Medium",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$600 - $800",
         "znacaj": [
             "Affectionate",
@@ -6036,7 +6036,7 @@
         "zivljenska_doba": "12-16 years",
         "visina": "18-26 inches (46-66 cm)",
         "velikost": "Medium",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$300 - $500",
         "znacaj": [
             "Intelligent",
@@ -6049,7 +6049,7 @@
         "zivljenska_doba": "10-12 years",
         "visina": "24-26 inches (60-65 cm)",
         "velikost": "Large",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$600 - $800",
         "znacaj": [
             "Calm",
@@ -6062,7 +6062,7 @@
         "zivljenska_doba": "10-15 years",
         "visina": "10-15 inches (25-38 cm)",
         "velikost": "Small",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$600 - $800",
         "znacaj": [
             "Affectionate",
@@ -6079,7 +6079,7 @@
         "zivljenska_doba": "12-16 years",
         "visina": "9-11 inches (22-37 cm)",
         "velikost": "Small",
-        "popularnost": null,
+        "popularnost": "/",
         "cena": "$1500 - $1800",
         "znacaj": [
             "Affectionate",

@@ -155,7 +155,7 @@ def izloci_podatke_psov(vsebina):
     podatki_psa['drzava'] = vzorec_drzava.search(vsebina).group('drzava').strip()
     drzava = vzorec_drzava.search(vsebina)
     if drzava['drzava'] == '&nbsp;':
-        podatki_psa['drzava'] = None
+        podatki_psa['drzava'] = '/'
     else:
         podatki_psa['drzava'] = drzava['drzava']
     podatki_psa['zivljenska_doba'] = vzorec_doba.search(vsebina).group('zivljenska_doba')
@@ -164,18 +164,18 @@ def izloci_podatke_psov(vsebina):
     if visina:
         podatki_psa['visina'] = visina['visina'].replace('Male: ', '').replace('Female: ','').replace('Standard: ','').replace('&frac12;', '').strip('Small: ').replace('&ndash;', '-').strip('~').strip('Up to ').replace('and under', '').strip('Males: ')
     else :
-        podatki_psa['visina'] = None
+        podatki_psa['visina'] = '/'
     podatki_psa['velikost'] = vzorec_velikost.search(vsebina).group('velikost')
     popularnost = vzorec_popularnost.search(vsebina)
     if popularnost:
-        podatki_psa['popularnost'] = popularnost['popularnost']
+        podatki_psa['popularnost'] = popularnost['popularnost'].strip('#')
     else:
-        podatki_psa['popularnost'] = None
+        podatki_psa['popularnost'] = '/'
     cena = vzorec_cena.search(vsebina)
     if cena:
         podatki_psa['cena'] = cena['cena']
     else:
-        podatki_psa['cena'] = None
+        podatki_psa['cena'] = '/'
 
     seznam_znacajev = []
     znacaji = vzorec_znacaj.search(vsebina).group('znacaj')
@@ -215,7 +215,7 @@ for i in range(1, 370):
 
 
 #za enega psa popravimo na roke
-seznam_slovarjev[183]['visina'] = None
+seznam_slovarjev[183]['visina'] = '/'
 
 zapisi_json(seznam_slovarjev, 'obdelani-podatki/vse_pasme.json')
 zapisi_csv(seznam_slovarjev, ['ime', 'drzava', 'zivljenska_doba', 'visina', 'velikost', 'popularnost', 'cena', 'znacaj'], 'obdelani-podatki/vse_pasme.csv') 
