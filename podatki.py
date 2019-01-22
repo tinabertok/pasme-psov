@@ -123,7 +123,7 @@ vzorec_velikost = re.compile(
     re.DOTALL)
 
 vzorec_visina = re.compile(
-    r'<td class="left">Height</td>.*?(<td>|<td>Male: )(?P<visina>.*?)(</td>|( )?<span>.*?)',
+    r'<td class="left">Height</td>.*?(<td>|<td>Male:)(?P<visina>.*?)(inches.*?)',
     re.DOTALL)
 
 
@@ -157,12 +157,12 @@ def izloci_podatke_psov(vsebina):
     if drzava['drzava'] == '&nbsp;':
         podatki_psa['drzava'] = '/'
     else:
-        podatki_psa['drzava'] = drzava['drzava']
-    podatki_psa['zivljenska_doba'] = vzorec_doba.search(vsebina).group('zivljenska_doba')
+        podatki_psa['drzava'] = drzava['drzava'].strip(' ')
+    podatki_psa['zivljenska_doba'] = vzorec_doba.search(vsebina).group('zivljenska_doba').split('-')[0]
     
     visina = vzorec_visina.search(vsebina)
     if visina:
-        podatki_psa['visina'] = visina['visina'].replace('Male: ', '').replace('Female: ','').replace('Standard: ','').replace('&frac12;', '').strip('Small: ').replace('&ndash;', '-').strip('~').strip('Up to ').replace('and under', '').strip('Males: ')
+        podatki_psa['visina'] = visina['visina'].replace('Male: ', '').replace('Female: ','').replace('Standard: ','').replace('&frac12;', '').strip('Small: ').replace('&ndash;', '-').strip('~').strip('Up to ').replace('and under', '').strip('Males: ').replace('Toy:', '').split('-')[0]
     else :
         podatki_psa['visina'] = '/'
     podatki_psa['velikost'] = vzorec_velikost.search(vsebina).group('velikost')
@@ -173,7 +173,8 @@ def izloci_podatke_psov(vsebina):
         podatki_psa['popularnost'] = '/'
     cena = vzorec_cena.search(vsebina)
     if cena:
-        podatki_psa['cena'] = cena['cena']
+        podatki_psa['cena'] = int(cena['cena'].split('-')[1].replace('$', ''))
+
     else:
         podatki_psa['cena'] = '/'
 
@@ -189,6 +190,9 @@ def izloci_podatke_psov(vsebina):
     return podatki_psa
 
 
+#print(type(podatki_psa['cena']))
+
+    
 #izločeni podatki za posebne tabele 
 def izloci_gnezdene_podatke(seznam):
     znacaji = []
@@ -216,16 +220,16 @@ for i in range(1, 370):
 
 #za enega psa popravimo na roke
 seznam_slovarjev[183]['visina'] = '/'
+seznam_slovarjev[233]['ime'] = 'Catilde da Serra de Aires'
+seznam_slovarjev[275]['ime'] = 'Jaumlmthund'
 
-zapisi_json(seznam_slovarjev, 'obdelani-podatki/vse_pasme.json')
-zapisi_csv(seznam_slovarjev, ['ime', 'drzava', 'zivljenska_doba', 'visina', 'velikost', 'popularnost', 'cena', 'znacaj'], 'obdelani-podatki/vse_pasme.csv') 
-
-
+#locimo znacaje od ostalih podatkov
 znacaji = izloci_gnezdene_podatke(seznam_slovarjev)
+
+#zapisemo podatke
+zapisi_json(seznam_slovarjev, 'obdelani-podatki/vse_pasme.json')
+zapisi_csv(seznam_slovarjev, ['ime', 'drzava', 'zivljenska_doba', 'visina', 'velikost', 'popularnost', 'cena'], 'obdelani-podatki/vse_pasme.csv') 
+
 
 zapisi_json(znacaji, 'obdelani-podatki/znacaji_psov.json')
 zapisi_csv(znacaji, ['ime', 'znacaj'], 'obdelani-podatki/znacaji_psov.csv')
-
-
-
-
