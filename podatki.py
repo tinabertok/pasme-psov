@@ -222,6 +222,7 @@ for i in range(1, 370):
 seznam_slovarjev[183]['visina'] = '/'
 seznam_slovarjev[233]['ime'] = 'Catilde da Serra de Aires'
 seznam_slovarjev[275]['ime'] = 'Jaumlmthund'
+seznam_slovarjev[362]['visina'] = '22'
 
 #locimo znacaje od ostalih podatkov
 znacaji = izloci_gnezdene_podatke(seznam_slovarjev)

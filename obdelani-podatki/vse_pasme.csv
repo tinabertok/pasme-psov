@@ -1,740 +1,370 @@
-ime,drzava,zivljenska_doba,visina,velikost,popularnost,cena
-
-Labrador Retriever,Canada,10,22,Medium,1,2000
-
-German Shepherd,Germany,10,24,Medium,2,2000
-
-Golden Retriever,United Kingdom,10,22,Medium,3,2000
-
-French Bulldog,France,10,12,Small,4,4000
-
-Bulldog,United Kingdom,8,12,Medium,5,2000
-
-Beagle,United Kingdom,12,14,Small,6,800
-
-Poodle (Standard),France,12,15,Medium,7,1500
-
-Rottweiler,Germany,8,24,Medium,8,2000
-
-Yorkshire Terrier,United Kingdom,12,20,Small,9,1000
-
-German Shorthaired Pointer,Germany,12,23,Medium,10,800
-
-Boxer,Germany,10,22,Medium,11,1200
-
-Siberian Husky,Russia,12,21,Medium,12,1200
-
-"Dachshund (Toy, Miniature, Standard)",Germany,12, 12,Small,13,700
-
-Great Dane,Germany,7,30,Giant,14,1200
-
-Pembroke Welsh Corgi,United Kingdom,12,10,Small,15,1000
-
-Doberman Pinscher,Germany,10,26,Medium,16,1000
-
-Australian Shepherd,United States,12,20,Medium,17,800
-
-Miniature Schnauzer,Germany,12,14,Small,18,1000
-
-Cavalier King Charles Spaniel,United Kingdom,10,12,Small,19,1500
-
-Shih Tzu,China,10,8,Small,20,1200
-
-Boston Terrier,United States,12,15,Small,21,800
-
-Pomeranian,Germany,12,7,Small,22,800
-
-Havanese,Cuba,14,8,Small,23,1200
-
-Shetland Sheepdog,United Kingdom,12,13,Small,24,1000
-
-Bernese Mountain Dog,Switzerland,7,24,Large,25,1000
-
-Brittany,France,12,17,Medium,26,800
-
-English Springer Spaniel,United Kingdom,10,19,Medium,27,800
-
-Mastiff,United Kingdom,10,30,Giant,28,1500
-
-American Cocker Spaniel,United States,12,15,Medium,29,800
-
-Vizsla,Hungary,10,22,Medium,30,1200
-
-Pug,China,12,12,Small,31,500
-
-Chihuahua,Mexico,14,6,Small,32,800
-
-Maltese,Italy,15,8,Small,33,800
-
-Weimaraner,Germany,10,24,Medium,34,2000
-
-Miniature American Shepherd,United States,13,14,Small,35,1000
-
-Newfoundland,United Kingdom,9,27,Large,36,2000
-
-Cane Corso,Italy,10,24,Large,37,2000
-
-Border Collie,United Kingdom,12,19,Medium,38,800
-
-Basset Hound,France,10,12,Medium,39,500
-
-Collie,United Kingdom,14,24,Large,40,600
-
-Rhodesian Ridgeback,Zimbabwe,10,25,Large,41,1200
-
-West Highland White Terrier,United Kingdom,12,10,Small,42,1200
-
-Chesapeake Bay Retriever,United States,10,23,Large,43,900
-
-Belgian Malinois,Belgium,12,/,Medium,44,800
-
-Shiba Inu,Japan,12,14,Medium,45,1000
-
-Bichon Frise,France,12,9,Small,46,1000
-
-Akita,Japan,10,26,Large,47,1200
-
-St. Bernard (Saint Bernard),Italy,8,25.5,Giant,48,1800
-
-Soft Coated Wheaten Terrier,Ireland,12,18,Medium,49,1000
-
-Bloodhound,United Kingdom,10,25,Large,50,1200
-
-Bullmastiff,United Kingdom,8,25,Large,51,1500
-
-English Cocker Spaniel,United Kingdom,12,15,Medium,52,1200
-
-Papillon,France,13,8,Small,53,600
-
-Portuguese Water Dog,Portugal,10,20,Medium,54,2800
-
-Airedale Terrier,United Kingdom,10,22,Medium,55,800
-
-Australian Cattle Dog,Australia,12,17,Medium,56,700
-
-Samoyed,Russia,12,21,Medium,57,1500
-
-Scottish Terrier,United Kingdom,11,10,Small,58,1000
-
-Alaskan Malamute,United States,12,24 ,Large,59,1500
-
-Bull Terrier,United Kingdom,10,20,Medium,60,1500
-
-Whippet,United Kingdom,12,19 ,Medium,61,1200
-
-German Wirehaired Pointer,Germany,12,24,Medium,62,900
-
-Dalmatian,United Kingdom,12,22 ,Large,63,900
-
-Chinese Shar-Pei,China,8,18,Medium,64,1200
-
-Wirehaired Pointing Griffon,France,12,20,Medium,65,800
-
-Great Pyrenees,France,10,27,Giant,66,900
-
-Dogue de Bordeaux,France,10,23,Large,67,1300
-
-Cardigan Welsh Corgi,United Kingdom,12,10,Medium,68,1200
-
-Cairn Terrier,United Kingdom,12,10,Small,69,1000
-
-Old English Sheepdog,United Kingdom,10,22,Large,70,1500
-
-Miniature Pinscher,Germany,12,10,Small,71,600
-
-Irish Setter,Ireland,12,26,Large,72,1000
-
-Irish Wolfhound,Belgium,6,28,Giant,73,2000
-
-Italian Greyhound,Italy,12,12,Small,74,1000
-
-Greater Swiss Mountain Dog,Switzerland,10,23.5,Large,75,2500
-
-Chow Chow,China,13,18,Medium,76,800
-
-Lhasa Apso,Tibet,12,10,Small,77,700
-
-Jack Russell Terrier,United Kingdom,13,8,Small,78,1000
-
-Chinese Crested,China,12,10,Small,79,1000
-
-Giant Schnauzer,Germany,10,26,Large,80,1500
-
-Coton De Tulear,Madagascar,14,10,Small,81,3000
-
-Staffordshire Bull Terrier,United Kingdom,12,14,Medium,82,2000
-
-American Staffordshire Terrier,United States,12,17,Medium,83,1000
-
-Basenji,Congo,10,16,Medium,84,1200
-
-Bouvier des Flandres,Belgium,10,23,Large,85,2000
-
-Anatolian Shepherd Dog,Turkey,10,28,Large,86,900
-
-Keeshond,Germany,12,17,Medium,87,1000
-
-Pekingese,China,13,6,Small,88,800
-
-Nova Scotia Duck Tolling Retriever,Canada,12,17,Medium,89,2000
-
-Standard Schnauzer,Germany,12,18,Medium,90,1500
-
-Norwegian Elkhound,Norway,10,19,Medium,91,700
-
-Border Terrier,United Kingdom,12,13,Small,92,1400
-
-Afghan Hound,Afghanistan,12,27,Large,93,2500
-
-Brussels Griffon,Belgium,12,7,Small,94,1000
-
-English Setter,United Kingdom,10,24,Large,95,600
-
-Flat-Coated Retriever,United Kingdom,10,22,Medium,96,1200
-
-Rat Terrier,United States,15,14,Small,97,500
-
-Boykin Spaniel,United States,14,15,Medium,98,1000
-
-Wire Fox Terrier,United Kingdom,12,14,Medium,99,1000
-
-Leonberger,Germany,8,29,Giant,100,2000
-
-Tibetan Terrier,Tibet,12,14,Medium,101,2000
-
-Borzoi,Russia,10,28,Large,102,1200
-
-Belgian Tervuren,Belgium,10,24,Medium,103,1500
-
-Gordon Setter,United Kingdom,10,24,Large,104,1000
-
-Norwich Terrier,United Kingdom,12,10,Small,105,2000
-
-Silky Terrier,Australia,12,9,Small,106,800
-
-Neapolitan Mastiff,Italy,8,26,Large,107,2000
-
-Japanese Chin,Japan,10,7,Small,108,500
-
-Welsh Terrier,United Kingdom,10,15,Small,109,1200
-
-Schipperke,Belgium,13,10,Small,110,1000
-
-Spinone Italiano,Italy,12,22,Medium,111,2000
-
-Toy Fox Terrier,United States,13,10,Small,112,600
-
-Pointer,United Kingdom,12,22,Medium,113,500
-
-Irish Terrier,Ireland,12,18,Medium,114,800
-
-Miniature Bull Terrier,United Kingdom,10,10,Small,115,2000
-
-Black Russian Terrier,Russia,10,25,Large,116,2500
-
-Lagotto Romagnolo,Italy,14,17,Medium,117,700
-
-"American Eskimo Dog (Toy, Miniature, Standard)",United States,12, 9,Small,118,800
-
-Parson Russell Terrier,United Kingdom,13,12,Medium,119,600
-
-Belgian Sheepdog,Belgium,12,24,Large,120,1400
-
-Tibetan Spaniel,Tibet,12,10,Small,121,1000
-
-Smooth Fox Terrier,United Kingdom,12,14,Small,122,1000
-
-Saluki,Middle East,12,23 ,Large,123,800
-
-Boerboel,South Africa,10,25,Large,124,2000
-
-Bearded Collie,United Kingdom,12,20,Medium,125,1400
-
-American Hairless Terrier,United States,14,7,Small,126,500
-
-Briard,France,10,24,Large,127,1200
-
-Norfolk Terrier,United Kingdom,12,10,Small,128,2500
-
-Kerry Blue Terrier,Ireland,12,18,Medium,129,600
-
-Black and Tan Coonhound,United States,10,23,Large,130,400
-
-Treeing Walker Coonhound,United States,12,20,Medium,131,600
-
-Bluetick Coonhound,United States,11,20,Large,132,600
-
-Welsh Springer Spaniel,Wales,12,17,Medium,133,1400
-
-English Toy Spaniel,,10,9,Small,134,1800
-
-"Manchester Terrier (Toy, Standard)",United Kingdom,14, 10,Small,135,1000
-
-German Pinscher,Germany,12,16,Medium,136,1600
-
-Australian Terrier,Australia,12,9,Small,137,1500
-
-Lakeland Terrier,United Kingdom,12,14,Small,138,1800
-
-Redbone Coonhound,United States,12,21,Medium,139,800
-
-Clumber Spaniel,United Kingdom,10,16,Large,140,1200
-
-Beauceron,France,10,24,Large,141,1500
-
-Puli,Hungary,12,16,Medium,142,1200
-
-Xoloitzcuintli,Mexico,14,15,Medium,143,800
-
-Icelandic Sheepdog,Iceland,12,12,Medium,144,1000
-
-Field Spaniel,United Kingdom,11,18,Medium,145,1000
-
-Berger Picard,France,12,24,Medium,146,2500
-
-Affenpinscher,Germany,12,9,Small,147,1200
-
-Spanish Water Dog,Spain,10,17,Medium,148,1200
-
-Swedish Vallhund,Sweden,12,12,Medium,149,900
-
-Sealyham Terrier,United Kingdom,14,12,Small,150,1000
-
-Bedlington Terrier,United Kingdom,14,16,Medium,151,2000
-
-Entlebucher Mountain Dog,Switzerland,11,19,Medium,152,1200
-
-Tibetan Mastiff,China,10,25,Large,153,3500
-
-Irish Red and White Setter,Ireland,11,24,Large,154,1000
-
-Wirehaired Vizsla,Hungary,12,23,Medium,155,1000
-
-Greyhound,United Kingdom,10,28,Giant,156,800
-
-Kuvasz,Hungary,10,28,Giant,157,1500
-
-Glen of Imaal Terrier,Ireland,12,14,Medium,158,1000
-
-Portuguese Podengo Pequeno,Portugal,12,8,Small,159,1000
-
-Petit Basset Griffon Vendeen,France,11,13,Medium,160,1600
-
-Sussex Spaniel,United Kingdom,12,15,Medium,161,2600
-
-Pumi,Hungary,12,16,Medium,162,3000
-
-Komondor,Hungary,10,25.5,Large,163,1200
-
-Irish Water Spaniel,Ireland,10,20,Medium,164,1000
-
-Ibizan Hound,Spain,12,22,Large,165,1200
-
-Plott Hound,United States,12,20,Medium,166,500
-
-American Water Spaniel,United States,10,15,Medium,167,1000
-
-Scottish Deerhound,United Kingdom,8,28,Giant,168,1200
-
-Lowchen,Germany,12,10,Small,169,500
-
-Norwegian Buhund,Norway,13,17,Medium,170,1000
-
-Curly-Coated Retriever,United Kingdom,8,25,Large,171,800
-
-Skye Terrier,United Kingdom,12,9.75,Medium,172,900
-
-Finnish Lapphund,Finland,12,16,Medium,173,800
-
-Pharaoh Hound,Malta,12,23,Medium,174,2000
-
-Canaan Dog,Israel,12,19,Medium,175,1200
-
-Polish Lowland Sheepdog,Poland,10,16,Medium,176,2000
-
-Finnish Spitz,Finland,12,15,Medium,177,700
-
-American English Coonhound,United States,10,21 ,Large,178,1200
-
-Chinook,United States,12,23,Large,179,1000
-
-Pyrenean Shepherd,France,15,15.5,Medium,180,800
-
-Bergamasco,Italy,13,22,Large,181,1200
-
-Dandie Dinmont Terrier,United Kingdom,12,8,Small,182,1600
-
-Harrier,United Kingdom,10,19,Medium,183,400
-
-Cirneco dell'Etna,Italy,12,/,Medium,184,1000
-
-Cesky Terrier,Czech Republic,12,10 ,Small,185,500
-
-Otterhound,United Kingdom,10,24,Large,186,600
-
-American Foxhound,United States,10,21,Large,187,600
-
-Sloughi,Morocco (Std. resp.),12,26.4,Medium,188,1000
-
-English Foxhound,United Kingdom,10,22,Large,189,1200
-
-Norwegian Lundehund,Norway,10,12,Small,190,600
-
-Miniature Poodle,France,14,11,Small,/,1500
-
-Toy Poodle,France,14,10,Small,/,1500
-
-Miniature Shar Pei,China,9,17,Small,/,2000
-
-Grand Bleu de Gascogne,France,12,26,Large,/,1500
-
-Kangal Dog,Turkey,12,30,Giant,/,800
-
-Spanish Greyhound,Spain,12,23,Large,/,800
-
-Africanis,South Africa,10,20,Medium,/,500
-
-Aidi,Morocco,10,21,Medium,/,500
-
-Akbash Dog,Turkey,10,28,Large,/,700
-
-Alano Espanol,Spain,11,23,Large,/,800
-
-Alapaha Blue Blood Bulldog,United States,12,24,Large,/,1200
-
-Alaskan Klee Kai,United States,12,13,Medium,/,1500
-
-American Mastiff,United States,10,28,Large,/,1500
-
-American Pit Bull Terrier,United States,10,14,Medium,/,700
-
-American Staghound,United States,10,26,Large,/,1000
-
-American White Shepherd,United States,12,24,Medium,/,800
-
-Appenzeller Sennenhund,Switzerland,12,22,Medium,/,800
-
-Dogo Argentino,Argentina,10,24,Large,/,5000
-
-Ariege Pointer,France,10,24,Large,/,800
-
-Ariegeois,France,10,20,Medium,/,800
-
-Australian Bulldog,Australia,10,18,Medium,/,700
-
-Australian Kelpie,Australia,10,17,Medium,/,700
-
-Australian Stumpy Tail Cattle Dog,Australia,10,18,Medium,/,700
-
-Austrian Black and Tan Hound,Austria,12,20,Medium,/,600
-
-Austrian Pinscher,Austria,12,17,Medium,/,500
-
-Azawakh,Mali,10,25,Large,/,800
-
-Barbet,France,13,23,Medium,/,1000
-
-Basset Bleu de Gascogne,France,11,13,Small,/,800
-
-Basset Fauve de Bretagne,France,11,13,Small,/,800
-
-Bavarian Mountain Hound,Germany,10,19,Medium,/,800
-
-Belgian Shepherd Laekenois,Belgium,10,24,Medium,/,800
-
-Black Mouth Cur,United States,12,16,Medium,/,500
-
-Black Norwegian Elkhound,Norway,12,19,Medium,/,700
-
-Blue Lacy,United States,14,18,Medium,/,800
-
-Blue Picardy Spaniel,France,12,22,Medium,/,800
-
-Bohemian Shepherd,Czech Republic,10,19,Medium,/,900
-
-Bouvier des Ardennes,Belgium,12,22,Medium,/,900
-
-Bracco Italiano,Italy,11,23,Medium,/,900
-
-Braque du Bourbonnais,France,13,20,Medium,/,1200
-
-Brazilian Terrier,Brazil,12,14,Small,/,700
-
-Briquet Griffon Vendeen,France,10,19,Medium,/,600
-
-Bukovina Sheepdog,Romania,10,27,Large,/,1000
-
-Bulgarian Shepherd Dog,Bulgaria,12,26,Medium,/,1000
-
-Catilde da Serra de Aires,Portugal,12,16,Medium,/,1000
-
-Canadian Eskimo Dog,Canada,12,24,Large,/,1200
-
-Caravan Hound,India,10,26,Large,/,1000
-
-Carolina Dog,United States,12,17,Medium,/,1000
-
-Carpathian Sheepdog,Romania,12,25,Large,/,1000
-
-Catahoula Bulldog,United States,10,24,Large,/,700
-
-Catahoula Leopard Dog,United States,11,22,Medium,/,500
-
-Catalan Sheepdog,Spain,12,19,Medium,/,800
-
-Caucasian Ovcharka,Armenia,10,25,Large,/,2000
-
-Central Asian Ovtcharka,Russia,12,27,Large,/,2000
-
-Cesky Fousek,Czech Republic,12,24,Medium,/,700
-
-Chart Polski,Poland,10,28,Large,/,1000
-
-Cockapoo,United States,14,10,Small,/,1100
-
-Croatian Sheepdog,Croatia,12,16,Medium,/,1200
-
-Czechoslovakian Wolfdog,Czech Republic,12,26,Medium,/,1500
-
-Danish-Swedish Farmdog,Sweden,10,13,Small,/,800
-
-Deutsche Bracke,Germany,10,16,Medium,/,600
-
-Dingo,Australia,16,19,Medium,/,1000
-
-Drentse Patrijshond,Netherlands,12,23,Medium,/,700
-
-Drever,Sweden,12,11,Small,/,800
-
-Dunker,Norway,10,20,Medium,/,700
-
-Dutch Shepherd Dog,Netherlands,12,22.5,Large,/,1200
-
-Dutch Smoushond,Netherlands,12,14,Small,/,700
-
-East Siberian Laika,Russia,12,22,Large,/,1000
-
-East-European Shepherd,Russia,10,26,Large,/,1000
-
-English Shepherd,United States,12,18,Medium,/,1000
-
-Eurasier,Germany,11,20,Medium,/,2500
-
-Fila Brasileiro,Brazil,9,26,Large,/,1300
-
-Finnish Hound,Finland,10,20,Medium,/,800
-
-French Spaniel,France,10,22,Medium,/,800
-
-Francais Blanc et Noir,France,10,26,Large,/,700
-
-Jagdterrier,Germany,12,13,Medium,/,500
-
-German Longhaired Pointer,Germany,10,24,Large,/,800
-
-Goldendoodle,United States,10,13,Small,/,800
-
-Polish Hunting Dog,Poland,10,22,Medium,/,800
-
-Grand Basset Griffon Vendeen,France,12,15,Medium,/,800
-
-Greenland Dog,Denmark,12,22,Medium,/,800
-
-Griffon bleu de Gascogne,France,12,19.5,Medium,/,500
-
-Large Munsterlander,Germany,11,23,Large,/,500
-
-Hamilton Hound,Sweden,11,18 ,Medium,/,500
-
-Hokkaido Dog,Japan,11,18,Medium,/,400
-
-Hovawart,Germany,10,23 ,Medium,/,1200
-
-Jaumlmthund,Sweden,11,22,Medium,/,/
-
-Japanese Spitz,Japan,10,12,Small,/,800
-
-Japanese Terrier,Japan,12,8,Small,/,/
-
-Korean Jindo,South Korea,12,18,Medium,/,400
-
-Karelian Bear Dog,Finland,10,19,Medium,/,1200
-
-Kishu Ken,Japan,11,17,Medium,/,500
-
-Kooikerhondje,Netherlands,12,14,Medium,/,800
-
-Koolie,Australia,16,13,Medium,/,600
-
-Kromfohrlander,Germany,12,15,Medium,/,600
-
-Lancashire Heeler,United Kingdom,12,10,Small,/,800
-
-Landseer,Germany,9,28.5,Giant,/,2500
-
-Lapponian Herder,Finland,10,19,Medium,/,800
-
-McNab,United States,13,18,Medium,/,500
-
-Miniature Bulldog,United Kingdom,9,/,Small,/,1200
-
-Mudi,Hungary,12,15,Medium,/,1000
-
-Small Munsterlander,Germany,12,20.5,Medium,/,1000
-
-New Guinea Singing Dog,Papua New Guinea,16,14,Small,/,/
-
-Norrbottenspets,Sweden,12,17.72,Medium,/,800
-
-Northern Inuit Dog,United Kingdom,12,23,Medium,/,1000
-
-Olde English Bulldogge,United States,11,17,Medium,/,2500
-
-Pakistani Mastiff,Pakistan,8,32,Giant,/,1200
-
-Patterdale Terrier,United Kingdom,11,12,Small,/,700
-
-Perro de Presa Canario,Spain,9,21,Large,/,3000
-
-Perro de Presa Mallorquin,Spain,10,21,Medium,/,1000
-
-Peruvian Inca Orchid,Peru,11,25,Medium,/,600
-
-Picardy Spaniel,France,12,22,Large,/,800
-
-Plummer Terrier,United Kingdom,12,13,Small,/,700
-
-Portuguese Pointer,Portugal,12,20,Medium,/,1000
-
-Prazsky Krysarik,Czech Republic,12,7,Small,/,3500
-
-Pudelpointer,Germany,9,21,Large,/,1000
-
-Rafeiro do Alentejo,Portugal,10,27,Large,/,1000
-
-Rajapalayam,India,10,25,Large,/,300
-
-Russian Spaniel,Russia,14,15,Small,/,1500
-
-Russian Toy,Russia,11,8,Small,/,800
-
-Saarloos wolfdog,Germany,10,24,Large,/,1000
-
-Sapsali,South Korea,11,/,Medium,/,500
-
-Sarplaninac,Macedonia,11,22,Large,/,1000
-
-Schapendoes,Netherlands,12,15,Medium,/,700
-
-Seppala Siberian Sleddog,Canada,12,22,Medium,/,800
-
-Shikoku dog,Japan,10,7,Medium,/,700
-
-Shiloh Shepherd dog,United States,12,28,Giant,/,1000
-
-Silken Windhound,United States,16,18,Medium,/,1000
-
-Smaland Hound,Sweden,12,18,Medium,/,800
-
-South Russian Ovcharka,Russia,9,25,Large,/,1000
-
-Pont-Audemer Spaniel,France,12,20,Medium,/,700
-
-Spanish Mastiff,Spain,10,28,Giant,/,800
-
-Serbian Hound,Serbia,12,18,Medium,/,700
-
-Swedish Lapphund,Sweden,10,18,Medium,/,600
-
-Tamaskan Dog,Finland,14,25,Large,/,800
-
-Thai Bangkaew Dog,Thailand,10,18,Medium,/,600
-
-Thai Ridgeback,Thailand,11,22,Medium,/,800
-
-Tornjak,Croatia,10,25,Large,/,800
-
-Tosa,Japan,10,22,Large,/,800
-
-Karst Shepherd,Slovenia,11,22,Medium,/,1000
-
-Transylvanian Hound,Hungary,10,22,Medium,/,800
-
-Volpino Italiano,Italy,14,9.5,Small,/,800
-
-West Siberian Laika,Russia,14,22,Medium,/,800
-
-Wetterhoun,Netherlands,12,21.5,Medium,/,700
-
-Alaskan Husky,United States,10,20,Medium,/,1500
-
-Alopekis,Greece,14,10,Small,/,500
-
-American Bulldog,United States,10,22,Medium,/,900
-
-Andalusian Hound,Spain,10,12,Small,/,500
-
-Basset Artesien Normand,France,13,12,Small,/,500
-
-Beagle-Harrier,France,12,18,Medium,/,600
-
-Beaglier,Australia,13,12,Small,/,1200
-
-Bolognese dog,Italy,13,10.5,Small,/,1500
-
-Bull Arab,Australia,12,25,Large,/,400
-
-Mountain Feist,United States,10,12,Small,/,400
-
-Texas Heeler,United States,13,17,Medium,/,400
-
-Chippiparai,India,12,25,Medium,/,120
-
-Chizer,United States,12,6,Small,/,400
-
-Cotonese,/,13,8,Small,/,600
-
-Taco Terrier,/,13,8,Small,/,400
-
-Cairmal,/,12,10,Small,/,600
-
-King Shepherd,United States,10,25,Large,/,2500
-
-Kyi-Leo,United States,12,8,Small,/,800
-
-Majestic Tree Hound,United States,10,24,Large,/,800
-
-Chorkie,/,12,6,Small,/,400
-
-Cockalier,/,12,12,Medium,/,700
-
-Dorgi,/,12,8,Small,/,300
-
-Dorkie,/,13,5,Small,/,600
-
-Double Doodle,/,12,20,Medium,/,800
-
-Maremma Sheepdog,Italy,11,24,Large,/,800
-
-Lucas Terrier,United Kingdom,14,10,Small,/,600
-
-Lurcher,United Kingdom,12,22,Large,/,800
-
-Mal-Shi,United States,12,/,Small,/,1000
-
-Shichon,United States,12,19,Small,/,1200
-
-Slovensky Cuvac,Slovakia,11,66,Large,/,1200
-
-Moscow Watchdog,Russia,9,25,Large,/,800
-
-Stabyhoun,Netherlands,13,19,Medium,/,800
-
-Mountain Cur,United States,12,18,Medium,/,500
-
-Polish Tatra Sheepdog,Poland,10,24,Large,/,800
-
-Puggle,United States,10,10,Small,/,800
-
-Russian Tsvetnaya Bolonka,Russia,12,9,Small,/,1800
-
+ime,drzava,zivljenska_doba,visina,velikost,popularnost,cena
+Labrador Retriever,Canada,10,22,Medium,1,2000
+German Shepherd,Germany,10,24,Medium,2,2000
+Golden Retriever,United Kingdom,10,22,Medium,3,2000
+French Bulldog,France,10,12,Small,4,4000
+Bulldog,United Kingdom,8,12,Medium,5,2000
+Beagle,United Kingdom,12,14,Small,6,800
+Poodle (Standard),France,12,15,Medium,7,1500
+Rottweiler,Germany,8,24,Medium,8,2000
+Yorkshire Terrier,United Kingdom,12,20,Small,9,1000
+German Shorthaired Pointer,Germany,12,23,Medium,10,800
+Boxer,Germany,10,22,Medium,11,1200
+Siberian Husky,Russia,12,21,Medium,12,1200
+"Dachshund (Toy, Miniature, Standard)",Germany,12, 12,Small,13,700
+Great Dane,Germany,7,30,Giant,14,1200
+Pembroke Welsh Corgi,United Kingdom,12,10,Small,15,1000
+Doberman Pinscher,Germany,10,26,Medium,16,1000
+Australian Shepherd,United States,12,20,Medium,17,800
+Miniature Schnauzer,Germany,12,14,Small,18,1000
+Cavalier King Charles Spaniel,United Kingdom,10,12,Small,19,1500
+Shih Tzu,China,10,8,Small,20,1200
+Boston Terrier,United States,12,15,Small,21,800
+Pomeranian,Germany,12,7,Small,22,800
+Havanese,Cuba,14,8,Small,23,1200
+Shetland Sheepdog,United Kingdom,12,13,Small,24,1000
+Bernese Mountain Dog,Switzerland,7,24,Large,25,1000
+Brittany,France,12,17,Medium,26,800
+English Springer Spaniel,United Kingdom,10,19,Medium,27,800
+Mastiff,United Kingdom,10,30,Giant,28,1500
+American Cocker Spaniel,United States,12,15,Medium,29,800
+Vizsla,Hungary,10,22,Medium,30,1200
+Pug,China,12,12,Small,31,500
+Chihuahua,Mexico,14,6,Small,32,800
+Maltese,Italy,15,8,Small,33,800
+Weimaraner,Germany,10,24,Medium,34,2000
+Miniature American Shepherd,United States,13,14,Small,35,1000
+Newfoundland,United Kingdom,9,27,Large,36,2000
+Cane Corso,Italy,10,24,Large,37,2000
+Border Collie,United Kingdom,12,19,Medium,38,800
+Basset Hound,France,10,12,Medium,39,500
+Collie,United Kingdom,14,24,Large,40,600
+Rhodesian Ridgeback,Zimbabwe,10,25,Large,41,1200
+West Highland White Terrier,United Kingdom,12,10,Small,42,1200
+Chesapeake Bay Retriever,United States,10,23,Large,43,900
+Belgian Malinois,Belgium,12,/,Medium,44,800
+Shiba Inu,Japan,12,14,Medium,45,1000
+Bichon Frise,France,12,9,Small,46,1000
+Akita,Japan,10,26,Large,47,1200
+St. Bernard (Saint Bernard),Italy,8,25.5,Giant,48,1800
+Soft Coated Wheaten Terrier,Ireland,12,18,Medium,49,1000
+Bloodhound,United Kingdom,10,25,Large,50,1200
+Bullmastiff,United Kingdom,8,25,Large,51,1500
+English Cocker Spaniel,United Kingdom,12,15,Medium,52,1200
+Papillon,France,13,8,Small,53,600
+Portuguese Water Dog,Portugal,10,20,Medium,54,2800
+Airedale Terrier,United Kingdom,10,22,Medium,55,800
+Australian Cattle Dog,Australia,12,17,Medium,56,700
+Samoyed,Russia,12,21,Medium,57,1500
+Scottish Terrier,United Kingdom,11,10,Small,58,1000
+Alaskan Malamute,United States,12,24 ,Large,59,1500
+Bull Terrier,United Kingdom,10,20,Medium,60,1500
+Whippet,United Kingdom,12,19 ,Medium,61,1200
+German Wirehaired Pointer,Germany,12,24,Medium,62,900
+Dalmatian,United Kingdom,12,22 ,Large,63,900
+Chinese Shar-Pei,China,8,18,Medium,64,1200
+Wirehaired Pointing Griffon,France,12,20,Medium,65,800
+Great Pyrenees,France,10,27,Giant,66,900
+Dogue de Bordeaux,France,10,23,Large,67,1300
+Cardigan Welsh Corgi,United Kingdom,12,10,Medium,68,1200
+Cairn Terrier,United Kingdom,12,10,Small,69,1000
+Old English Sheepdog,United Kingdom,10,22,Large,70,1500
+Miniature Pinscher,Germany,12,10,Small,71,600
+Irish Setter,Ireland,12,26,Large,72,1000
+Irish Wolfhound,Belgium,6,28,Giant,73,2000
+Italian Greyhound,Italy,12,12,Small,74,1000
+Greater Swiss Mountain Dog,Switzerland,10,23.5,Large,75,2500
+Chow Chow,China,13,18,Medium,76,800
+Lhasa Apso,Tibet,12,10,Small,77,700
+Jack Russell Terrier,United Kingdom,13,8,Small,78,1000
+Chinese Crested,China,12,10,Small,79,1000
+Giant Schnauzer,Germany,10,26,Large,80,1500
+Coton De Tulear,Madagascar,14,10,Small,81,3000
+Staffordshire Bull Terrier,United Kingdom,12,14,Medium,82,2000
+American Staffordshire Terrier,United States,12,17,Medium,83,1000
+Basenji,Congo,10,16,Medium,84,1200
+Bouvier des Flandres,Belgium,10,23,Large,85,2000
+Anatolian Shepherd Dog,Turkey,10,28,Large,86,900
+Keeshond,Germany,12,17,Medium,87,1000
+Pekingese,China,13,6,Small,88,800
+Nova Scotia Duck Tolling Retriever,Canada,12,17,Medium,89,2000
+Standard Schnauzer,Germany,12,18,Medium,90,1500
+Norwegian Elkhound,Norway,10,19,Medium,91,700
+Border Terrier,United Kingdom,12,13,Small,92,1400
+Afghan Hound,Afghanistan,12,27,Large,93,2500
+Brussels Griffon,Belgium,12,7,Small,94,1000
+English Setter,United Kingdom,10,24,Large,95,600
+Flat-Coated Retriever,United Kingdom,10,22,Medium,96,1200
+Rat Terrier,United States,15,14,Small,97,500
+Boykin Spaniel,United States,14,15,Medium,98,1000
+Wire Fox Terrier,United Kingdom,12,14,Medium,99,1000
+Leonberger,Germany,8,29,Giant,100,2000
+Tibetan Terrier,Tibet,12,14,Medium,101,2000
+Borzoi,Russia,10,28,Large,102,1200
+Belgian Tervuren,Belgium,10,24,Medium,103,1500
+Gordon Setter,United Kingdom,10,24,Large,104,1000
+Norwich Terrier,United Kingdom,12,10,Small,105,2000
+Silky Terrier,Australia,12,9,Small,106,800
+Neapolitan Mastiff,Italy,8,26,Large,107,2000
+Japanese Chin,Japan,10,7,Small,108,500
+Welsh Terrier,United Kingdom,10,15,Small,109,1200
+Schipperke,Belgium,13,10,Small,110,1000
+Spinone Italiano,Italy,12,22,Medium,111,2000
+Toy Fox Terrier,United States,13,10,Small,112,600
+Pointer,United Kingdom,12,22,Medium,113,500
+Irish Terrier,Ireland,12,18,Medium,114,800
+Miniature Bull Terrier,United Kingdom,10,10,Small,115,2000
+Black Russian Terrier,Russia,10,25,Large,116,2500
+Lagotto Romagnolo,Italy,14,17,Medium,117,700
+"American Eskimo Dog (Toy, Miniature, Standard)",United States,12, 9,Small,118,800
+Parson Russell Terrier,United Kingdom,13,12,Medium,119,600
+Belgian Sheepdog,Belgium,12,24,Large,120,1400
+Tibetan Spaniel,Tibet,12,10,Small,121,1000
+Smooth Fox Terrier,United Kingdom,12,14,Small,122,1000
+Saluki,Middle East,12,23 ,Large,123,800
+Boerboel,South Africa,10,25,Large,124,2000
+Bearded Collie,United Kingdom,12,20,Medium,125,1400
+American Hairless Terrier,United States,14,7,Small,126,500
+Briard,France,10,24,Large,127,1200
+Norfolk Terrier,United Kingdom,12,10,Small,128,2500
+Kerry Blue Terrier,Ireland,12,18,Medium,129,600
+Black and Tan Coonhound,United States,10,23,Large,130,400
+Treeing Walker Coonhound,United States,12,20,Medium,131,600
+Bluetick Coonhound,United States,11,20,Large,132,600
+Welsh Springer Spaniel,Wales,12,17,Medium,133,1400
+English Toy Spaniel,,10,9,Small,134,1800
+"Manchester Terrier (Toy, Standard)",United Kingdom,14, 10,Small,135,1000
+German Pinscher,Germany,12,16,Medium,136,1600
+Australian Terrier,Australia,12,9,Small,137,1500
+Lakeland Terrier,United Kingdom,12,14,Small,138,1800
+Redbone Coonhound,United States,12,21,Medium,139,800
+Clumber Spaniel,United Kingdom,10,16,Large,140,1200
+Beauceron,France,10,24,Large,141,1500
+Puli,Hungary,12,16,Medium,142,1200
+Xoloitzcuintli,Mexico,14,15,Medium,143,800
+Icelandic Sheepdog,Iceland,12,12,Medium,144,1000
+Field Spaniel,United Kingdom,11,18,Medium,145,1000
+Berger Picard,France,12,24,Medium,146,2500
+Affenpinscher,Germany,12,9,Small,147,1200
+Spanish Water Dog,Spain,10,17,Medium,148,1200
+Swedish Vallhund,Sweden,12,12,Medium,149,900
+Sealyham Terrier,United Kingdom,14,12,Small,150,1000
+Bedlington Terrier,United Kingdom,14,16,Medium,151,2000
+Entlebucher Mountain Dog,Switzerland,11,19,Medium,152,1200
+Tibetan Mastiff,China,10,25,Large,153,3500
+Irish Red and White Setter,Ireland,11,24,Large,154,1000
+Wirehaired Vizsla,Hungary,12,23,Medium,155,1000
+Greyhound,United Kingdom,10,28,Giant,156,800
+Kuvasz,Hungary,10,28,Giant,157,1500
+Glen of Imaal Terrier,Ireland,12,14,Medium,158,1000
+Portuguese Podengo Pequeno,Portugal,12,8,Small,159,1000
+Petit Basset Griffon Vendeen,France,11,13,Medium,160,1600
+Sussex Spaniel,United Kingdom,12,15,Medium,161,2600
+Pumi,Hungary,12,16,Medium,162,3000
+Komondor,Hungary,10,25.5,Large,163,1200
+Irish Water Spaniel,Ireland,10,20,Medium,164,1000
+Ibizan Hound,Spain,12,22,Large,165,1200
+Plott Hound,United States,12,20,Medium,166,500
+American Water Spaniel,United States,10,15,Medium,167,1000
+Scottish Deerhound,United Kingdom,8,28,Giant,168,1200
+Lowchen,Germany,12,10,Small,169,500
+Norwegian Buhund,Norway,13,17,Medium,170,1000
+Curly-Coated Retriever,United Kingdom,8,25,Large,171,800
+Skye Terrier,United Kingdom,12,9.75,Medium,172,900
+Finnish Lapphund,Finland,12,16,Medium,173,800
+Pharaoh Hound,Malta,12,23,Medium,174,2000
+Canaan Dog,Israel,12,19,Medium,175,1200
+Polish Lowland Sheepdog,Poland,10,16,Medium,176,2000
+Finnish Spitz,Finland,12,15,Medium,177,700
+American English Coonhound,United States,10,21 ,Large,178,1200
+Chinook,United States,12,23,Large,179,1000
+Pyrenean Shepherd,France,15,15.5,Medium,180,800
+Bergamasco,Italy,13,22,Large,181,1200
+Dandie Dinmont Terrier,United Kingdom,12,8,Small,182,1600
+Harrier,United Kingdom,10,19,Medium,183,400
+Cirneco dell'Etna,Italy,12,/,Medium,184,1000
+Cesky Terrier,Czech Republic,12,10 ,Small,185,500
+Otterhound,United Kingdom,10,24,Large,186,600
+American Foxhound,United States,10,21,Large,187,600
+Sloughi,Morocco (Std. resp.),12,26.4,Medium,188,1000
+English Foxhound,United Kingdom,10,22,Large,189,1200
+Norwegian Lundehund,Norway,10,12,Small,190,600
+Miniature Poodle,France,14,11,Small,/,1500
+Toy Poodle,France,14,10,Small,/,1500
+Miniature Shar Pei,China,9,17,Small,/,2000
+Grand Bleu de Gascogne,France,12,26,Large,/,1500
+Kangal Dog,Turkey,12,30,Giant,/,800
+Spanish Greyhound,Spain,12,23,Large,/,800
+Africanis,South Africa,10,20,Medium,/,500
+Aidi,Morocco,10,21,Medium,/,500
+Akbash Dog,Turkey,10,28,Large,/,700
+Alano Espanol,Spain,11,23,Large,/,800
+Alapaha Blue Blood Bulldog,United States,12,24,Large,/,1200
+Alaskan Klee Kai,United States,12,13,Medium,/,1500
+American Mastiff,United States,10,28,Large,/,1500
+American Pit Bull Terrier,United States,10,14,Medium,/,700
+American Staghound,United States,10,26,Large,/,1000
+American White Shepherd,United States,12,24,Medium,/,800
+Appenzeller Sennenhund,Switzerland,12,22,Medium,/,800
+Dogo Argentino,Argentina,10,24,Large,/,5000
+Ariege Pointer,France,10,24,Large,/,800
+Ariegeois,France,10,20,Medium,/,800
+Australian Bulldog,Australia,10,18,Medium,/,700
+Australian Kelpie,Australia,10,17,Medium,/,700
+Australian Stumpy Tail Cattle Dog,Australia,10,18,Medium,/,700
+Austrian Black and Tan Hound,Austria,12,20,Medium,/,600
+Austrian Pinscher,Austria,12,17,Medium,/,500
+Azawakh,Mali,10,25,Large,/,800
+Barbet,France,13,23,Medium,/,1000
+Basset Bleu de Gascogne,France,11,13,Small,/,800
+Basset Fauve de Bretagne,France,11,13,Small,/,800
+Bavarian Mountain Hound,Germany,10,19,Medium,/,800
+Belgian Shepherd Laekenois,Belgium,10,24,Medium,/,800
+Black Mouth Cur,United States,12,16,Medium,/,500
+Black Norwegian Elkhound,Norway,12,19,Medium,/,700
+Blue Lacy,United States,14,18,Medium,/,800
+Blue Picardy Spaniel,France,12,22,Medium,/,800
+Bohemian Shepherd,Czech Republic,10,19,Medium,/,900
+Bouvier des Ardennes,Belgium,12,22,Medium,/,900
+Bracco Italiano,Italy,11,23,Medium,/,900
+Braque du Bourbonnais,France,13,20,Medium,/,1200
+Brazilian Terrier,Brazil,12,14,Small,/,700
+Briquet Griffon Vendeen,France,10,19,Medium,/,600
+Bukovina Sheepdog,Romania,10,27,Large,/,1000
+Bulgarian Shepherd Dog,Bulgaria,12,26,Medium,/,1000
+Catilde da Serra de Aires,Portugal,12,16,Medium,/,1000
+Canadian Eskimo Dog,Canada,12,24,Large,/,1200
+Caravan Hound,India,10,26,Large,/,1000
+Carolina Dog,United States,12,17,Medium,/,1000
+Carpathian Sheepdog,Romania,12,25,Large,/,1000
+Catahoula Bulldog,United States,10,24,Large,/,700
+Catahoula Leopard Dog,United States,11,22,Medium,/,500
+Catalan Sheepdog,Spain,12,19,Medium,/,800
+Caucasian Ovcharka,Armenia,10,25,Large,/,2000
+Central Asian Ovtcharka,Russia,12,27,Large,/,2000
+Cesky Fousek,Czech Republic,12,24,Medium,/,700
+Chart Polski,Poland,10,28,Large,/,1000
+Cockapoo,United States,14,10,Small,/,1100
+Croatian Sheepdog,Croatia,12,16,Medium,/,1200
+Czechoslovakian Wolfdog,Czech Republic,12,26,Medium,/,1500
+Danish-Swedish Farmdog,Sweden,10,13,Small,/,800
+Deutsche Bracke,Germany,10,16,Medium,/,600
+Dingo,Australia,16,19,Medium,/,1000
+Drentse Patrijshond,Netherlands,12,23,Medium,/,700
+Drever,Sweden,12,11,Small,/,800
+Dunker,Norway,10,20,Medium,/,700
+Dutch Shepherd Dog,Netherlands,12,22.5,Large,/,1200
+Dutch Smoushond,Netherlands,12,14,Small,/,700
+East Siberian Laika,Russia,12,22,Large,/,1000
+East-European Shepherd,Russia,10,26,Large,/,1000
+English Shepherd,United States,12,18,Medium,/,1000
+Eurasier,Germany,11,20,Medium,/,2500
+Fila Brasileiro,Brazil,9,26,Large,/,1300
+Finnish Hound,Finland,10,20,Medium,/,800
+French Spaniel,France,10,22,Medium,/,800
+Francais Blanc et Noir,France,10,26,Large,/,700
+Jagdterrier,Germany,12,13,Medium,/,500
+German Longhaired Pointer,Germany,10,24,Large,/,800
+Goldendoodle,United States,10,13,Small,/,800
+Polish Hunting Dog,Poland,10,22,Medium,/,800
+Grand Basset Griffon Vendeen,France,12,15,Medium,/,800
+Greenland Dog,Denmark,12,22,Medium,/,800
+Griffon bleu de Gascogne,France,12,19.5,Medium,/,500
+Large Munsterlander,Germany,11,23,Large,/,500
+Hamilton Hound,Sweden,11,18 ,Medium,/,500
+Hokkaido Dog,Japan,11,18,Medium,/,400
+Hovawart,Germany,10,23 ,Medium,/,1200
+Jaumlmthund,Sweden,11,22,Medium,/,/
+Japanese Spitz,Japan,10,12,Small,/,800
+Japanese Terrier,Japan,12,8,Small,/,/
+Korean Jindo,South Korea,12,18,Medium,/,400
+Karelian Bear Dog,Finland,10,19,Medium,/,1200
+Kishu Ken,Japan,11,17,Medium,/,500
+Kooikerhondje,Netherlands,12,14,Medium,/,800
+Koolie,Australia,16,13,Medium,/,600
+Kromfohrlander,Germany,12,15,Medium,/,600
+Lancashire Heeler,United Kingdom,12,10,Small,/,800
+Landseer,Germany,9,28.5,Giant,/,2500
+Lapponian Herder,Finland,10,19,Medium,/,800
+McNab,United States,13,18,Medium,/,500
+Miniature Bulldog,United Kingdom,9,/,Small,/,1200
+Mudi,Hungary,12,15,Medium,/,1000
+Small Munsterlander,Germany,12,20.5,Medium,/,1000
+New Guinea Singing Dog,Papua New Guinea,16,14,Small,/,/
+Norrbottenspets,Sweden,12,17.72,Medium,/,800
+Northern Inuit Dog,United Kingdom,12,23,Medium,/,1000
+Olde English Bulldogge,United States,11,17,Medium,/,2500
+Pakistani Mastiff,Pakistan,8,32,Giant,/,1200
+Patterdale Terrier,United Kingdom,11,12,Small,/,700
+Perro de Presa Canario,Spain,9,21,Large,/,3000
+Perro de Presa Mallorquin,Spain,10,21,Medium,/,1000
+Peruvian Inca Orchid,Peru,11,25,Medium,/,600
+Picardy Spaniel,France,12,22,Large,/,800
+Plummer Terrier,United Kingdom,12,13,Small,/,700
+Portuguese Pointer,Portugal,12,20,Medium,/,1000
+Prazsky Krysarik,Czech Republic,12,7,Small,/,3500
+Pudelpointer,Germany,9,21,Large,/,1000
+Rafeiro do Alentejo,Portugal,10,27,Large,/,1000
+Rajapalayam,India,10,25,Large,/,300
+Russian Spaniel,Russia,14,15,Small,/,1500
+Russian Toy,Russia,11,8,Small,/,800
+Saarloos wolfdog,Germany,10,24,Large,/,1000
+Sapsali,South Korea,11,/,Medium,/,500
+Sarplaninac,Macedonia,11,22,Large,/,1000
+Schapendoes,Netherlands,12,15,Medium,/,700
+Seppala Siberian Sleddog,Canada,12,22,Medium,/,800
+Shikoku dog,Japan,10,7,Medium,/,700
+Shiloh Shepherd dog,United States,12,28,Giant,/,1000
+Silken Windhound,United States,16,18,Medium,/,1000
+Smaland Hound,Sweden,12,18,Medium,/,800
+South Russian Ovcharka,Russia,9,25,Large,/,1000
+Pont-Audemer Spaniel,France,12,20,Medium,/,700
+Spanish Mastiff,Spain,10,28,Giant,/,800
+Serbian Hound,Serbia,12,18,Medium,/,700
+Swedish Lapphund,Sweden,10,18,Medium,/,600
+Tamaskan Dog,Finland,14,25,Large,/,800
+Thai Bangkaew Dog,Thailand,10,18,Medium,/,600
+Thai Ridgeback,Thailand,11,22,Medium,/,800
+Tornjak,Croatia,10,25,Large,/,800
+Tosa,Japan,10,22,Large,/,800
+Karst Shepherd,Slovenia,11,22,Medium,/,1000
+Transylvanian Hound,Hungary,10,22,Medium,/,800
+Volpino Italiano,Italy,14,9.5,Small,/,800
+West Siberian Laika,Russia,14,22,Medium,/,800
+Wetterhoun,Netherlands,12,21.5,Medium,/,700
+Alaskan Husky,United States,10,20,Medium,/,1500
+Alopekis,Greece,14,10,Small,/,500
+American Bulldog,United States,10,22,Medium,/,900
+Andalusian Hound,Spain,10,12,Small,/,500
+Basset Artesien Normand,France,13,12,Small,/,500
+Beagle-Harrier,France,12,18,Medium,/,600
+Beaglier,Australia,13,12,Small,/,1200
+Bolognese dog,Italy,13,10.5,Small,/,1500
+Bull Arab,Australia,12,25,Large,/,400
+Mountain Feist,United States,10,12,Small,/,400
+Texas Heeler,United States,13,17,Medium,/,400
+Chippiparai,India,12,25,Medium,/,120
+Chizer,United States,12,6,Small,/,400
+Cotonese,/,13,8,Small,/,600
+Taco Terrier,/,13,8,Small,/,400
+Cairmal,/,12,10,Small,/,600
+King Shepherd,United States,10,25,Large,/,2500
+Kyi-Leo,United States,12,8,Small,/,800
+Majestic Tree Hound,United States,10,24,Large,/,800
+Chorkie,/,12,6,Small,/,400
+Cockalier,/,12,12,Medium,/,700
+Dorgi,/,12,8,Small,/,300
+Dorkie,/,13,5,Small,/,600
+Double Doodle,/,12,20,Medium,/,800
+Maremma Sheepdog,Italy,11,24,Large,/,800
+Lucas Terrier,United Kingdom,14,10,Small,/,600
+Lurcher,United Kingdom,12,22,Large,/,800
+Mal-Shi,United States,12,/,Small,/,1000
+Shichon,United States,12,19,Small,/,1200
+Slovensky Cuvac,Slovakia,11,22,Large,/,1200
+Moscow Watchdog,Russia,9,25,Large,/,800
+Stabyhoun,Netherlands,13,19,Medium,/,800
+Mountain Cur,United States,12,18,Medium,/,500
+Polish Tatra Sheepdog,Poland,10,24,Large,/,800
+Puggle,United States,10,10,Small,/,800
+Russian Tsvetnaya Bolonka,Russia,12,9,Small,/,1800
